@@ -1,0 +1,3656 @@
+Date,Item_Name,Day_of_Week,Local_Temperature,Is_Flu_Season,Quantity_Dispensed
+2024-01-01,Amoxicillin,0,12.5,1,14
+2024-01-01,Bandages,0,12.5,1,10
+2024-01-01,Cough Syrup,0,12.5,1,31
+2024-01-01,Flu Vaccines,0,12.5,1,28
+2024-01-01,Paracetamol,0,12.5,1,36
+2024-01-02,Amoxicillin,1,7.7,1,17
+2024-01-02,Bandages,1,7.7,1,6
+2024-01-02,Cough Syrup,1,7.7,1,8
+2024-01-02,Flu Vaccines,1,7.7,1,27
+2024-01-02,Paracetamol,1,7.7,1,25
+2024-01-03,Amoxicillin,2,4.9,1,16
+2024-01-03,Bandages,2,4.9,1,3
+2024-01-03,Cough Syrup,2,4.9,1,24
+2024-01-03,Flu Vaccines,2,4.9,1,31
+2024-01-03,Paracetamol,2,4.9,1,20
+2024-01-04,Amoxicillin,3,7.3,1,15
+2024-01-04,Bandages,3,7.3,1,13
+2024-01-04,Cough Syrup,3,7.3,1,20
+2024-01-04,Flu Vaccines,3,7.3,1,24
+2024-01-04,Paracetamol,3,7.3,1,18
+2024-01-05,Amoxicillin,4,9.9,1,9
+2024-01-05,Bandages,4,9.9,1,8
+2024-01-05,Cough Syrup,4,9.9,1,10
+2024-01-05,Flu Vaccines,4,9.9,1,25
+2024-01-05,Paracetamol,4,9.9,1,38
+2024-01-06,Amoxicillin,5,13.7,1,9
+2024-01-06,Bandages,5,13.7,1,6
+2024-01-06,Cough Syrup,5,13.7,1,11
+2024-01-06,Flu Vaccines,5,13.7,1,11
+2024-01-06,Paracetamol,5,13.7,1,17
+2024-01-07,Amoxicillin,6,11.7,1,1
+2024-01-07,Bandages,6,11.7,1,2
+2024-01-07,Cough Syrup,6,11.7,1,6
+2024-01-07,Flu Vaccines,6,11.7,1,4
+2024-01-07,Paracetamol,6,11.7,1,6
+2024-01-08,Amoxicillin,0,5.8,1,13
+2024-01-08,Bandages,0,5.8,1,4
+2024-01-08,Cough Syrup,0,5.8,1,18
+2024-01-08,Flu Vaccines,0,5.8,1,26
+2024-01-08,Paracetamol,0,5.8,1,33
+2024-01-09,Amoxicillin,1,14.1,1,21
+2024-01-09,Bandages,1,14.1,1,12
+2024-01-09,Cough Syrup,1,14.1,1,24
+2024-01-09,Flu Vaccines,1,14.1,1,30
+2024-01-09,Paracetamol,1,14.1,1,29
+2024-01-10,Amoxicillin,2,9.8,1,22
+2024-01-10,Bandages,2,9.8,1,2
+2024-01-10,Cough Syrup,2,9.8,1,24
+2024-01-10,Flu Vaccines,2,9.8,1,29
+2024-01-10,Paracetamol,2,9.8,1,3
+2024-01-11,Amoxicillin,3,8.9,1,16
+2024-01-11,Bandages,3,8.9,1,8
+2024-01-11,Cough Syrup,3,8.9,1,27
+2024-01-11,Flu Vaccines,3,8.9,1,21
+2024-01-11,Paracetamol,3,8.9,1,44
+2024-01-12,Amoxicillin,4,7.4,1,17
+2024-01-12,Bandages,4,7.4,1,3
+2024-01-12,Cough Syrup,4,7.4,1,21
+2024-01-12,Flu Vaccines,4,7.4,1,25
+2024-01-12,Paracetamol,4,7.4,1,30
+2024-01-13,Amoxicillin,5,11.5,1,9
+2024-01-13,Bandages,5,11.5,1,3
+2024-01-13,Cough Syrup,5,11.5,1,12
+2024-01-13,Flu Vaccines,5,11.5,1,11
+2024-01-13,Paracetamol,5,11.5,1,18
+2024-01-14,Amoxicillin,6,9.2,1,3
+2024-01-14,Bandages,6,9.2,1,1
+2024-01-14,Cough Syrup,6,9.2,1,3
+2024-01-14,Flu Vaccines,6,9.2,1,5
+2024-01-14,Paracetamol,6,9.2,1,9
+2024-01-15,Amoxicillin,0,10.3,1,27
+2024-01-15,Bandages,0,10.3,1,10
+2024-01-15,Cough Syrup,0,10.3,1,26
+2024-01-15,Flu Vaccines,0,10.3,1,27
+2024-01-15,Paracetamol,0,10.3,1,28
+2024-01-16,Amoxicillin,1,14.0,1,10
+2024-01-16,Bandages,1,14.0,1,6
+2024-01-16,Cough Syrup,1,14.0,1,28
+2024-01-16,Flu Vaccines,1,14.0,1,27
+2024-01-16,Paracetamol,1,14.0,1,44
+2024-01-17,Amoxicillin,2,10.5,1,12
+2024-01-17,Bandages,2,10.5,1,12
+2024-01-17,Cough Syrup,2,10.5,1,22
+2024-01-17,Flu Vaccines,2,10.5,1,21
+2024-01-17,Paracetamol,2,10.5,1,14
+2024-01-18,Amoxicillin,3,6.1,1,13
+2024-01-18,Bandages,3,6.1,1,8
+2024-01-18,Cough Syrup,3,6.1,1,22
+2024-01-18,Flu Vaccines,3,6.1,1,25
+2024-01-18,Paracetamol,3,6.1,1,38
+2024-01-19,Amoxicillin,4,11.3,1,18
+2024-01-19,Bandages,4,11.3,1,9
+2024-01-19,Cough Syrup,4,11.3,1,27
+2024-01-19,Flu Vaccines,4,11.3,1,26
+2024-01-19,Paracetamol,4,11.3,1,17
+2024-01-20,Amoxicillin,5,6.6,1,9
+2024-01-20,Bandages,5,6.6,1,5
+2024-01-20,Cough Syrup,5,6.6,1,12
+2024-01-20,Flu Vaccines,5,6.6,1,20
+2024-01-20,Paracetamol,5,6.6,1,19
+2024-01-21,Amoxicillin,6,5.1,1,3
+2024-01-21,Bandages,6,5.1,1,2
+2024-01-21,Cough Syrup,6,5.1,1,6
+2024-01-21,Flu Vaccines,6,5.1,1,6
+2024-01-21,Paracetamol,6,5.1,1,8
+2024-01-22,Amoxicillin,0,8.8,1,11
+2024-01-22,Bandages,0,8.8,1,10
+2024-01-22,Cough Syrup,0,8.8,1,27
+2024-01-22,Flu Vaccines,0,8.8,1,24
+2024-01-22,Paracetamol,0,8.8,1,21
+2024-01-23,Amoxicillin,1,10.1,1,22
+2024-01-23,Bandages,1,10.1,1,9
+2024-01-23,Cough Syrup,1,10.1,1,16
+2024-01-23,Flu Vaccines,1,10.1,1,35
+2024-01-23,Paracetamol,1,10.1,1,27
+2024-01-24,Amoxicillin,2,8.9,1,18
+2024-01-24,Bandages,2,8.9,1,10
+2024-01-24,Cough Syrup,2,8.9,1,16
+2024-01-24,Flu Vaccines,2,8.9,1,22
+2024-01-24,Paracetamol,2,8.9,1,34
+2024-01-25,Amoxicillin,3,11.1,1,8
+2024-01-25,Bandages,3,11.1,1,4
+2024-01-25,Cough Syrup,3,11.1,1,25
+2024-01-25,Flu Vaccines,3,11.1,1,23
+2024-01-25,Paracetamol,3,11.1,1,31
+2024-01-26,Amoxicillin,4,11.8,1,17
+2024-01-26,Bandages,4,11.8,1,9
+2024-01-26,Cough Syrup,4,11.8,1,23
+2024-01-26,Flu Vaccines,4,11.8,1,22
+2024-01-26,Paracetamol,4,11.8,1,40
+2024-01-27,Amoxicillin,5,12.6,1,20
+2024-01-27,Bandages,5,12.6,1,6
+2024-01-27,Cough Syrup,5,12.6,1,15
+2024-01-27,Flu Vaccines,5,12.6,1,20
+2024-01-27,Paracetamol,5,12.6,1,21
+2024-01-28,Amoxicillin,6,6.1,1,2
+2024-01-28,Bandages,6,6.1,1,0
+2024-01-28,Cough Syrup,6,6.1,1,4
+2024-01-28,Flu Vaccines,6,6.1,1,7
+2024-01-28,Paracetamol,6,6.1,1,5
+2024-01-29,Amoxicillin,0,7.6,1,20
+2024-01-29,Bandages,0,7.6,1,8
+2024-01-29,Cough Syrup,0,7.6,1,24
+2024-01-29,Flu Vaccines,0,7.6,1,21
+2024-01-29,Paracetamol,0,7.6,1,30
+2024-01-30,Amoxicillin,1,10.2,1,11
+2024-01-30,Bandages,1,10.2,1,10
+2024-01-30,Cough Syrup,1,10.2,1,22
+2024-01-30,Flu Vaccines,1,10.2,1,18
+2024-01-30,Paracetamol,1,10.2,1,51
+2024-01-31,Amoxicillin,2,6.0,1,14
+2024-01-31,Bandages,2,6.0,1,6
+2024-01-31,Cough Syrup,2,6.0,1,21
+2024-01-31,Flu Vaccines,2,6.0,1,22
+2024-01-31,Paracetamol,2,6.0,1,35
+2024-02-01,Amoxicillin,3,18.8,1,17
+2024-02-01,Bandages,3,18.8,1,6
+2024-02-01,Cough Syrup,3,18.8,1,21
+2024-02-01,Flu Vaccines,3,18.8,1,39
+2024-02-01,Paracetamol,3,18.8,1,17
+2024-02-02,Amoxicillin,4,16.3,1,11
+2024-02-02,Bandages,4,16.3,1,4
+2024-02-02,Cough Syrup,4,16.3,1,8
+2024-02-02,Flu Vaccines,4,16.3,1,23
+2024-02-02,Paracetamol,4,16.3,1,34
+2024-02-03,Amoxicillin,5,8.7,1,5
+2024-02-03,Bandages,5,8.7,1,2
+2024-02-03,Cough Syrup,5,8.7,1,19
+2024-02-03,Flu Vaccines,5,8.7,1,13
+2024-02-03,Paracetamol,5,8.7,1,27
+2024-02-04,Amoxicillin,6,15.8,1,3
+2024-02-04,Bandages,6,15.8,1,1
+2024-02-04,Cough Syrup,6,15.8,1,4
+2024-02-04,Flu Vaccines,6,15.8,1,5
+2024-02-04,Paracetamol,6,15.8,1,4
+2024-02-05,Amoxicillin,0,10.6,1,18
+2024-02-05,Bandages,0,10.6,1,9
+2024-02-05,Cough Syrup,0,10.6,1,16
+2024-02-05,Flu Vaccines,0,10.6,1,35
+2024-02-05,Paracetamol,0,10.6,1,45
+2024-02-06,Amoxicillin,1,11.4,1,11
+2024-02-06,Bandages,1,11.4,1,5
+2024-02-06,Cough Syrup,1,11.4,1,30
+2024-02-06,Flu Vaccines,1,11.4,1,23
+2024-02-06,Paracetamol,1,11.4,1,27
+2024-02-07,Amoxicillin,2,14.5,1,16
+2024-02-07,Bandages,2,14.5,1,9
+2024-02-07,Cough Syrup,2,14.5,1,26
+2024-02-07,Flu Vaccines,2,14.5,1,24
+2024-02-07,Paracetamol,2,14.5,1,38
+2024-02-08,Amoxicillin,3,9.9,1,15
+2024-02-08,Bandages,3,9.9,1,11
+2024-02-08,Cough Syrup,3,9.9,1,23
+2024-02-08,Flu Vaccines,3,9.9,1,28
+2024-02-08,Paracetamol,3,9.9,1,42
+2024-02-09,Amoxicillin,4,14.1,1,19
+2024-02-09,Bandages,4,14.1,1,7
+2024-02-09,Cough Syrup,4,14.1,1,25
+2024-02-09,Flu Vaccines,4,14.1,1,30
+2024-02-09,Paracetamol,4,14.1,1,43
+2024-02-10,Amoxicillin,5,10.5,1,10
+2024-02-10,Bandages,5,10.5,1,6
+2024-02-10,Cough Syrup,5,10.5,1,15
+2024-02-10,Flu Vaccines,5,10.5,1,15
+2024-02-10,Paracetamol,5,10.5,1,13
+2024-02-11,Amoxicillin,6,13.1,1,3
+2024-02-11,Bandages,6,13.1,1,1
+2024-02-11,Cough Syrup,6,13.1,1,5
+2024-02-11,Flu Vaccines,6,13.1,1,5
+2024-02-11,Paracetamol,6,13.1,1,5
+2024-02-12,Amoxicillin,0,5.9,1,13
+2024-02-12,Bandages,0,5.9,1,6
+2024-02-12,Cough Syrup,0,5.9,1,27
+2024-02-12,Flu Vaccines,0,5.9,1,21
+2024-02-12,Paracetamol,0,5.9,1,34
+2024-02-13,Amoxicillin,1,7.6,1,16
+2024-02-13,Bandages,1,7.6,1,12
+2024-02-13,Cough Syrup,1,7.6,1,25
+2024-02-13,Flu Vaccines,1,7.6,1,20
+2024-02-13,Paracetamol,1,7.6,1,15
+2024-02-14,Amoxicillin,2,14.3,1,14
+2024-02-14,Bandages,2,14.3,1,5
+2024-02-14,Cough Syrup,2,14.3,1,25
+2024-02-14,Flu Vaccines,2,14.3,1,24
+2024-02-14,Paracetamol,2,14.3,1,29
+2024-02-15,Amoxicillin,3,12.6,1,22
+2024-02-15,Bandages,3,12.6,1,8
+2024-02-15,Cough Syrup,3,12.6,1,24
+2024-02-15,Flu Vaccines,3,12.6,1,31
+2024-02-15,Paracetamol,3,12.6,1,28
+2024-02-16,Amoxicillin,4,10.5,1,11
+2024-02-16,Bandages,4,10.5,1,5
+2024-02-16,Cough Syrup,4,10.5,1,39
+2024-02-16,Flu Vaccines,4,10.5,1,35
+2024-02-16,Paracetamol,4,10.5,1,30
+2024-02-17,Amoxicillin,5,14.4,1,9
+2024-02-17,Bandages,5,14.4,1,3
+2024-02-17,Cough Syrup,5,14.4,1,7
+2024-02-17,Flu Vaccines,5,14.4,1,12
+2024-02-17,Paracetamol,5,14.4,1,31
+2024-02-18,Amoxicillin,6,6.2,1,3
+2024-02-18,Bandages,6,6.2,1,1
+2024-02-18,Cough Syrup,6,6.2,1,3
+2024-02-18,Flu Vaccines,6,6.2,1,7
+2024-02-18,Paracetamol,6,6.2,1,6
+2024-02-19,Amoxicillin,0,3.4,1,24
+2024-02-19,Bandages,0,3.4,1,11
+2024-02-19,Cough Syrup,0,3.4,1,29
+2024-02-19,Flu Vaccines,0,3.4,1,17
+2024-02-19,Paracetamol,0,3.4,1,41
+2024-02-20,Amoxicillin,1,2.0,1,12
+2024-02-20,Bandages,1,2.0,1,7
+2024-02-20,Cough Syrup,1,2.0,1,22
+2024-02-20,Flu Vaccines,1,2.0,1,24
+2024-02-20,Paracetamol,1,2.0,1,30
+2024-02-21,Amoxicillin,2,10.6,1,17
+2024-02-21,Bandages,2,10.6,1,5
+2024-02-21,Cough Syrup,2,10.6,1,31
+2024-02-21,Flu Vaccines,2,10.6,1,17
+2024-02-21,Paracetamol,2,10.6,1,37
+2024-02-22,Amoxicillin,3,17.8,1,15
+2024-02-22,Bandages,3,17.8,1,10
+2024-02-22,Cough Syrup,3,17.8,1,30
+2024-02-22,Flu Vaccines,3,17.8,1,37
+2024-02-22,Paracetamol,3,17.8,1,41
+2024-02-23,Amoxicillin,4,13.2,1,21
+2024-02-23,Bandages,4,13.2,1,1
+2024-02-23,Cough Syrup,4,13.2,1,12
+2024-02-23,Flu Vaccines,4,13.2,1,33
+2024-02-23,Paracetamol,4,13.2,1,20
+2024-02-24,Amoxicillin,5,8.7,1,11
+2024-02-24,Bandages,5,8.7,1,4
+2024-02-24,Cough Syrup,5,8.7,1,6
+2024-02-24,Flu Vaccines,5,8.7,1,21
+2024-02-24,Paracetamol,5,8.7,1,27
+2024-02-25,Amoxicillin,6,11.9,1,2
+2024-02-25,Bandages,6,11.9,1,1
+2024-02-25,Cough Syrup,6,11.9,1,5
+2024-02-25,Flu Vaccines,6,11.9,1,4
+2024-02-25,Paracetamol,6,11.9,1,1
+2024-02-26,Amoxicillin,0,7.4,1,9
+2024-02-26,Bandages,0,7.4,1,5
+2024-02-26,Cough Syrup,0,7.4,1,24
+2024-02-26,Flu Vaccines,0,7.4,1,23
+2024-02-26,Paracetamol,0,7.4,1,29
+2024-02-27,Amoxicillin,1,9.5,1,9
+2024-02-27,Bandages,1,9.5,1,8
+2024-02-27,Cough Syrup,1,9.5,1,21
+2024-02-27,Flu Vaccines,1,9.5,1,34
+2024-02-27,Paracetamol,1,9.5,1,24
+2024-02-28,Amoxicillin,2,9.4,1,13
+2024-02-28,Bandages,2,9.4,1,1
+2024-02-28,Cough Syrup,2,9.4,1,21
+2024-02-28,Flu Vaccines,2,9.4,1,25
+2024-02-28,Paracetamol,2,9.4,1,36
+2024-02-29,Amoxicillin,3,2.4,1,21
+2024-02-29,Bandages,3,2.4,1,11
+2024-02-29,Cough Syrup,3,2.4,1,41
+2024-02-29,Flu Vaccines,3,2.4,1,29
+2024-02-29,Paracetamol,3,2.4,1,46
+2024-03-01,Amoxicillin,4,19.2,0,10
+2024-03-01,Bandages,4,19.2,0,3
+2024-03-01,Cough Syrup,4,19.2,0,6
+2024-03-01,Flu Vaccines,4,19.2,0,2
+2024-03-01,Paracetamol,4,19.2,0,13
+2024-03-02,Amoxicillin,5,16.1,0,5
+2024-03-02,Bandages,5,16.1,0,7
+2024-03-02,Cough Syrup,5,16.1,0,5
+2024-03-02,Flu Vaccines,5,16.1,0,2
+2024-03-02,Paracetamol,5,16.1,0,28
+2024-03-03,Amoxicillin,6,20.5,0,2
+2024-03-03,Bandages,6,20.5,0,1
+2024-03-03,Cough Syrup,6,20.5,0,1
+2024-03-03,Flu Vaccines,6,20.5,0,0
+2024-03-03,Paracetamol,6,20.5,0,9
+2024-03-04,Amoxicillin,0,14.7,0,8
+2024-03-04,Bandages,0,14.7,0,9
+2024-03-04,Cough Syrup,0,14.7,0,4
+2024-03-04,Flu Vaccines,0,14.7,0,5
+2024-03-04,Paracetamol,0,14.7,0,39
+2024-03-05,Amoxicillin,1,16.1,0,12
+2024-03-05,Bandages,1,16.1,0,5
+2024-03-05,Cough Syrup,1,16.1,0,10
+2024-03-05,Flu Vaccines,1,16.1,0,0
+2024-03-05,Paracetamol,1,16.1,0,24
+2024-03-06,Amoxicillin,2,21.6,0,14
+2024-03-06,Bandages,2,21.6,0,10
+2024-03-06,Cough Syrup,2,21.6,0,7
+2024-03-06,Flu Vaccines,2,21.6,0,0
+2024-03-06,Paracetamol,2,21.6,0,27
+2024-03-07,Amoxicillin,3,23.0,0,10
+2024-03-07,Bandages,3,23.0,0,9
+2024-03-07,Cough Syrup,3,23.0,0,3
+2024-03-07,Flu Vaccines,3,23.0,0,3
+2024-03-07,Paracetamol,3,23.0,0,30
+2024-03-08,Amoxicillin,4,16.0,0,17
+2024-03-08,Bandages,4,16.0,0,8
+2024-03-08,Cough Syrup,4,16.0,0,3
+2024-03-08,Flu Vaccines,4,16.0,0,0
+2024-03-08,Paracetamol,4,16.0,0,22
+2024-03-09,Amoxicillin,5,21.6,0,6
+2024-03-09,Bandages,5,21.6,0,2
+2024-03-09,Cough Syrup,5,21.6,0,5
+2024-03-09,Flu Vaccines,5,21.6,0,0
+2024-03-09,Paracetamol,5,21.6,0,21
+2024-03-10,Amoxicillin,6,16.1,0,3
+2024-03-10,Bandages,6,16.1,0,1
+2024-03-10,Cough Syrup,6,16.1,0,2
+2024-03-10,Flu Vaccines,6,16.1,0,0
+2024-03-10,Paracetamol,6,16.1,0,4
+2024-03-11,Amoxicillin,0,25.0,0,9
+2024-03-11,Bandages,0,25.0,0,5
+2024-03-11,Cough Syrup,0,25.0,0,0
+2024-03-11,Flu Vaccines,0,25.0,0,4
+2024-03-11,Paracetamol,0,25.0,0,35
+2024-03-12,Amoxicillin,1,23.5,0,13
+2024-03-12,Bandages,1,23.5,0,7
+2024-03-12,Cough Syrup,1,23.5,0,10
+2024-03-12,Flu Vaccines,1,23.5,0,0
+2024-03-12,Paracetamol,1,23.5,0,33
+2024-03-13,Amoxicillin,2,27.0,0,16
+2024-03-13,Bandages,2,27.0,0,6
+2024-03-13,Cough Syrup,2,27.0,0,8
+2024-03-13,Flu Vaccines,2,27.0,0,1
+2024-03-13,Paracetamol,2,27.0,0,33
+2024-03-14,Amoxicillin,3,22.4,0,12
+2024-03-14,Bandages,3,22.4,0,7
+2024-03-14,Cough Syrup,3,22.4,0,13
+2024-03-14,Flu Vaccines,3,22.4,0,6
+2024-03-14,Paracetamol,3,22.4,0,32
+2024-03-15,Amoxicillin,4,27.2,0,12
+2024-03-15,Bandages,4,27.2,0,6
+2024-03-15,Cough Syrup,4,27.2,0,2
+2024-03-15,Flu Vaccines,4,27.2,0,0
+2024-03-15,Paracetamol,4,27.2,0,9
+2024-03-16,Amoxicillin,5,20.1,0,14
+2024-03-16,Bandages,5,20.1,0,0
+2024-03-16,Cough Syrup,5,20.1,0,7
+2024-03-16,Flu Vaccines,5,20.1,0,0
+2024-03-16,Paracetamol,5,20.1,0,19
+2024-03-17,Amoxicillin,6,21.4,0,3
+2024-03-17,Bandages,6,21.4,0,1
+2024-03-17,Cough Syrup,6,21.4,0,2
+2024-03-17,Flu Vaccines,6,21.4,0,0
+2024-03-17,Paracetamol,6,21.4,0,3
+2024-03-18,Amoxicillin,0,23.8,0,26
+2024-03-18,Bandages,0,23.8,0,5
+2024-03-18,Cough Syrup,0,23.8,0,8
+2024-03-18,Flu Vaccines,0,23.8,0,2
+2024-03-18,Paracetamol,0,23.8,0,31
+2024-03-19,Amoxicillin,1,25.0,0,10
+2024-03-19,Bandages,1,25.0,0,9
+2024-03-19,Cough Syrup,1,25.0,0,11
+2024-03-19,Flu Vaccines,1,25.0,0,1
+2024-03-19,Paracetamol,1,25.0,0,30
+2024-03-20,Amoxicillin,2,26.2,0,12
+2024-03-20,Bandages,2,26.2,0,9
+2024-03-20,Cough Syrup,2,26.2,0,8
+2024-03-20,Flu Vaccines,2,26.2,0,0
+2024-03-20,Paracetamol,2,26.2,0,27
+2024-03-21,Amoxicillin,3,24.5,0,10
+2024-03-21,Bandages,3,24.5,0,13
+2024-03-21,Cough Syrup,3,24.5,0,11
+2024-03-21,Flu Vaccines,3,24.5,0,4
+2024-03-21,Paracetamol,3,24.5,0,38
+2024-03-22,Amoxicillin,4,15.4,0,8
+2024-03-22,Bandages,4,15.4,0,7
+2024-03-22,Cough Syrup,4,15.4,0,12
+2024-03-22,Flu Vaccines,4,15.4,0,4
+2024-03-22,Paracetamol,4,15.4,0,12
+2024-03-23,Amoxicillin,5,21.7,0,5
+2024-03-23,Bandages,5,21.7,0,6
+2024-03-23,Cough Syrup,5,21.7,0,6
+2024-03-23,Flu Vaccines,5,21.7,0,1
+2024-03-23,Paracetamol,5,21.7,0,32
+2024-03-24,Amoxicillin,6,22.9,0,3
+2024-03-24,Bandages,6,22.9,0,2
+2024-03-24,Cough Syrup,6,22.9,0,3
+2024-03-24,Flu Vaccines,6,22.9,0,0
+2024-03-24,Paracetamol,6,22.9,0,4
+2024-03-25,Amoxicillin,0,29.6,0,12
+2024-03-25,Bandages,0,29.6,0,11
+2024-03-25,Cough Syrup,0,29.6,0,10
+2024-03-25,Flu Vaccines,0,29.6,0,1
+2024-03-25,Paracetamol,0,29.6,0,20
+2024-03-26,Amoxicillin,1,9.8,0,22
+2024-03-26,Bandages,1,9.8,0,3
+2024-03-26,Cough Syrup,1,9.8,0,5
+2024-03-26,Flu Vaccines,1,9.8,0,1
+2024-03-26,Paracetamol,1,9.8,0,28
+2024-03-27,Amoxicillin,2,24.9,0,15
+2024-03-27,Bandages,2,24.9,0,13
+2024-03-27,Cough Syrup,2,24.9,0,8
+2024-03-27,Flu Vaccines,2,24.9,0,0
+2024-03-27,Paracetamol,2,24.9,0,17
+2024-03-28,Amoxicillin,3,18.4,0,7
+2024-03-28,Bandages,3,18.4,0,7
+2024-03-28,Cough Syrup,3,18.4,0,0
+2024-03-28,Flu Vaccines,3,18.4,0,1
+2024-03-28,Paracetamol,3,18.4,0,27
+2024-03-29,Amoxicillin,4,18.6,0,18
+2024-03-29,Bandages,4,18.6,0,4
+2024-03-29,Cough Syrup,4,18.6,0,8
+2024-03-29,Flu Vaccines,4,18.6,0,4
+2024-03-29,Paracetamol,4,18.6,0,48
+2024-03-30,Amoxicillin,5,35.4,0,9
+2024-03-30,Bandages,5,35.4,0,4
+2024-03-30,Cough Syrup,5,35.4,0,6
+2024-03-30,Flu Vaccines,5,35.4,0,1
+2024-03-30,Paracetamol,5,35.4,0,18
+2024-03-31,Amoxicillin,6,16.6,0,2
+2024-03-31,Bandages,6,16.6,0,1
+2024-03-31,Cough Syrup,6,16.6,0,1
+2024-03-31,Flu Vaccines,6,16.6,0,0
+2024-03-31,Paracetamol,6,16.6,0,5
+2024-04-01,Amoxicillin,0,18.5,0,22
+2024-04-01,Bandages,0,18.5,0,1
+2024-04-01,Cough Syrup,0,18.5,0,14
+2024-04-01,Flu Vaccines,0,18.5,0,4
+2024-04-01,Paracetamol,0,18.5,0,3
+2024-04-02,Amoxicillin,1,17.9,0,13
+2024-04-02,Bandages,1,17.9,0,13
+2024-04-02,Cough Syrup,1,17.9,0,5
+2024-04-02,Flu Vaccines,1,17.9,0,0
+2024-04-02,Paracetamol,1,17.9,0,15
+2024-04-03,Amoxicillin,2,25.6,0,21
+2024-04-03,Bandages,2,25.6,0,9
+2024-04-03,Cough Syrup,2,25.6,0,7
+2024-04-03,Flu Vaccines,2,25.6,0,0
+2024-04-03,Paracetamol,2,25.6,0,37
+2024-04-04,Amoxicillin,3,12.7,0,18
+2024-04-04,Bandages,3,12.7,0,9
+2024-04-04,Cough Syrup,3,12.7,0,12
+2024-04-04,Flu Vaccines,3,12.7,0,1
+2024-04-04,Paracetamol,3,12.7,0,27
+2024-04-05,Amoxicillin,4,17.8,0,20
+2024-04-05,Bandages,4,17.8,0,7
+2024-04-05,Cough Syrup,4,17.8,0,12
+2024-04-05,Flu Vaccines,4,17.8,0,3
+2024-04-05,Paracetamol,4,17.8,0,19
+2024-04-06,Amoxicillin,5,22.0,0,5
+2024-04-06,Bandages,5,22.0,0,6
+2024-04-06,Cough Syrup,5,22.0,0,4
+2024-04-06,Flu Vaccines,5,22.0,0,0
+2024-04-06,Paracetamol,5,22.0,0,23
+2024-04-07,Amoxicillin,6,15.8,0,1
+2024-04-07,Bandages,6,15.8,0,2
+2024-04-07,Cough Syrup,6,15.8,0,0
+2024-04-07,Flu Vaccines,6,15.8,0,0
+2024-04-07,Paracetamol,6,15.8,0,2
+2024-04-08,Amoxicillin,0,7.5,0,23
+2024-04-08,Bandages,0,7.5,0,9
+2024-04-08,Cough Syrup,0,7.5,0,7
+2024-04-08,Flu Vaccines,0,7.5,0,1
+2024-04-08,Paracetamol,0,7.5,0,32
+2024-04-09,Amoxicillin,1,19.8,0,20
+2024-04-09,Bandages,1,19.8,0,7
+2024-04-09,Cough Syrup,1,19.8,0,8
+2024-04-09,Flu Vaccines,1,19.8,0,2
+2024-04-09,Paracetamol,1,19.8,0,31
+2024-04-10,Amoxicillin,2,21.8,0,6
+2024-04-10,Bandages,2,21.8,0,7
+2024-04-10,Cough Syrup,2,21.8,0,10
+2024-04-10,Flu Vaccines,2,21.8,0,3
+2024-04-10,Paracetamol,2,21.8,0,16
+2024-04-11,Amoxicillin,3,20.1,0,16
+2024-04-11,Bandages,3,20.1,0,5
+2024-04-11,Cough Syrup,3,20.1,0,10
+2024-04-11,Flu Vaccines,3,20.1,0,0
+2024-04-11,Paracetamol,3,20.1,0,24
+2024-04-12,Amoxicillin,4,22.4,0,6
+2024-04-12,Bandages,4,22.4,0,10
+2024-04-12,Cough Syrup,4,22.4,0,11
+2024-04-12,Flu Vaccines,4,22.4,0,2
+2024-04-12,Paracetamol,4,22.4,0,40
+2024-04-13,Amoxicillin,5,30.0,0,12
+2024-04-13,Bandages,5,30.0,0,4
+2024-04-13,Cough Syrup,5,30.0,0,4
+2024-04-13,Flu Vaccines,5,30.0,0,0
+2024-04-13,Paracetamol,5,30.0,0,6
+2024-04-14,Amoxicillin,6,23.1,0,2
+2024-04-14,Bandages,6,23.1,0,0
+2024-04-14,Cough Syrup,6,23.1,0,1
+2024-04-14,Flu Vaccines,6,23.1,0,0
+2024-04-14,Paracetamol,6,23.1,0,6
+2024-04-15,Amoxicillin,0,14.5,0,8
+2024-04-15,Bandages,0,14.5,0,15
+2024-04-15,Cough Syrup,0,14.5,0,6
+2024-04-15,Flu Vaccines,0,14.5,0,4
+2024-04-15,Paracetamol,0,14.5,0,20
+2024-04-16,Amoxicillin,1,23.0,0,15
+2024-04-16,Bandages,1,23.0,0,8
+2024-04-16,Cough Syrup,1,23.0,0,7
+2024-04-16,Flu Vaccines,1,23.0,0,3
+2024-04-16,Paracetamol,1,23.0,0,21
+2024-04-17,Amoxicillin,2,35.4,0,14
+2024-04-17,Bandages,2,35.4,0,13
+2024-04-17,Cough Syrup,2,35.4,0,9
+2024-04-17,Flu Vaccines,2,35.4,0,0
+2024-04-17,Paracetamol,2,35.4,0,41
+2024-04-18,Amoxicillin,3,16.2,0,24
+2024-04-18,Bandages,3,16.2,0,10
+2024-04-18,Cough Syrup,3,16.2,0,12
+2024-04-18,Flu Vaccines,3,16.2,0,0
+2024-04-18,Paracetamol,3,16.2,0,37
+2024-04-19,Amoxicillin,4,23.7,0,7
+2024-04-19,Bandages,4,23.7,0,9
+2024-04-19,Cough Syrup,4,23.7,0,9
+2024-04-19,Flu Vaccines,4,23.7,0,1
+2024-04-19,Paracetamol,4,23.7,0,22
+2024-04-20,Amoxicillin,5,21.1,0,4
+2024-04-20,Bandages,5,21.1,0,6
+2024-04-20,Cough Syrup,5,21.1,0,7
+2024-04-20,Flu Vaccines,5,21.1,0,1
+2024-04-20,Paracetamol,5,21.1,0,20
+2024-04-21,Amoxicillin,6,25.0,0,3
+2024-04-21,Bandages,6,25.0,0,1
+2024-04-21,Cough Syrup,6,25.0,0,2
+2024-04-21,Flu Vaccines,6,25.0,0,0
+2024-04-21,Paracetamol,6,25.0,0,5
+2024-04-22,Amoxicillin,0,21.6,0,8
+2024-04-22,Bandages,0,21.6,0,10
+2024-04-22,Cough Syrup,0,21.6,0,9
+2024-04-22,Flu Vaccines,0,21.6,0,4
+2024-04-22,Paracetamol,0,21.6,0,19
+2024-04-23,Amoxicillin,1,20.2,0,15
+2024-04-23,Bandages,1,20.2,0,6
+2024-04-23,Cough Syrup,1,20.2,0,10
+2024-04-23,Flu Vaccines,1,20.2,0,0
+2024-04-23,Paracetamol,1,20.2,0,39
+2024-04-24,Amoxicillin,2,17.4,0,13
+2024-04-24,Bandages,2,17.4,0,5
+2024-04-24,Cough Syrup,2,17.4,0,15
+2024-04-24,Flu Vaccines,2,17.4,0,1
+2024-04-24,Paracetamol,2,17.4,0,32
+2024-04-25,Amoxicillin,3,18.9,0,12
+2024-04-25,Bandages,3,18.9,0,3
+2024-04-25,Cough Syrup,3,18.9,0,14
+2024-04-25,Flu Vaccines,3,18.9,0,2
+2024-04-25,Paracetamol,3,18.9,0,44
+2024-04-26,Amoxicillin,4,21.6,0,19
+2024-04-26,Bandages,4,21.6,0,12
+2024-04-26,Cough Syrup,4,21.6,0,7
+2024-04-26,Flu Vaccines,4,21.6,0,4
+2024-04-26,Paracetamol,4,21.6,0,30
+2024-04-27,Amoxicillin,5,33.8,0,7
+2024-04-27,Bandages,5,33.8,0,3
+2024-04-27,Cough Syrup,5,33.8,0,9
+2024-04-27,Flu Vaccines,5,33.8,0,2
+2024-04-27,Paracetamol,5,33.8,0,15
+2024-04-28,Amoxicillin,6,17.5,0,2
+2024-04-28,Bandages,6,17.5,0,1
+2024-04-28,Cough Syrup,6,17.5,0,1
+2024-04-28,Flu Vaccines,6,17.5,0,0
+2024-04-28,Paracetamol,6,17.5,0,3
+2024-04-29,Amoxicillin,0,19.8,0,16
+2024-04-29,Bandages,0,19.8,0,7
+2024-04-29,Cough Syrup,0,19.8,0,13
+2024-04-29,Flu Vaccines,0,19.8,0,0
+2024-04-29,Paracetamol,0,19.8,0,45
+2024-04-30,Amoxicillin,1,19.7,0,18
+2024-04-30,Bandages,1,19.7,0,9
+2024-04-30,Cough Syrup,1,19.7,0,10
+2024-04-30,Flu Vaccines,1,19.7,0,2
+2024-04-30,Paracetamol,1,19.7,0,18
+2024-05-01,Amoxicillin,2,21.7,0,27
+2024-05-01,Bandages,2,21.7,0,6
+2024-05-01,Cough Syrup,2,21.7,0,7
+2024-05-01,Flu Vaccines,2,21.7,0,0
+2024-05-01,Paracetamol,2,21.7,0,23
+2024-05-02,Amoxicillin,3,16.2,0,20
+2024-05-02,Bandages,3,16.2,0,9
+2024-05-02,Cough Syrup,3,16.2,0,6
+2024-05-02,Flu Vaccines,3,16.2,0,0
+2024-05-02,Paracetamol,3,16.2,0,44
+2024-05-03,Amoxicillin,4,16.7,0,18
+2024-05-03,Bandages,4,16.7,0,13
+2024-05-03,Cough Syrup,4,16.7,0,16
+2024-05-03,Flu Vaccines,4,16.7,0,0
+2024-05-03,Paracetamol,4,16.7,0,32
+2024-05-04,Amoxicillin,5,16.3,0,7
+2024-05-04,Bandages,5,16.3,0,8
+2024-05-04,Cough Syrup,5,16.3,0,7
+2024-05-04,Flu Vaccines,5,16.3,0,1
+2024-05-04,Paracetamol,5,16.3,0,19
+2024-05-05,Amoxicillin,6,18.9,0,2
+2024-05-05,Bandages,6,18.9,0,2
+2024-05-05,Cough Syrup,6,18.9,0,1
+2024-05-05,Flu Vaccines,6,18.9,0,0
+2024-05-05,Paracetamol,6,18.9,0,3
+2024-05-06,Amoxicillin,0,16.9,0,16
+2024-05-06,Bandages,0,16.9,0,6
+2024-05-06,Cough Syrup,0,16.9,0,20
+2024-05-06,Flu Vaccines,0,16.9,0,4
+2024-05-06,Paracetamol,0,16.9,0,29
+2024-05-07,Amoxicillin,1,17.1,0,20
+2024-05-07,Bandages,1,17.1,0,6
+2024-05-07,Cough Syrup,1,17.1,0,12
+2024-05-07,Flu Vaccines,1,17.1,0,5
+2024-05-07,Paracetamol,1,17.1,0,36
+2024-05-08,Amoxicillin,2,23.5,0,20
+2024-05-08,Bandages,2,23.5,0,11
+2024-05-08,Cough Syrup,2,23.5,0,14
+2024-05-08,Flu Vaccines,2,23.5,0,3
+2024-05-08,Paracetamol,2,23.5,0,38
+2024-05-09,Amoxicillin,3,28.3,0,18
+2024-05-09,Bandages,3,28.3,0,5
+2024-05-09,Cough Syrup,3,28.3,0,14
+2024-05-09,Flu Vaccines,3,28.3,0,2
+2024-05-09,Paracetamol,3,28.3,0,28
+2024-05-10,Amoxicillin,4,22.2,0,13
+2024-05-10,Bandages,4,22.2,0,8
+2024-05-10,Cough Syrup,4,22.2,0,10
+2024-05-10,Flu Vaccines,4,22.2,0,4
+2024-05-10,Paracetamol,4,22.2,0,30
+2024-05-11,Amoxicillin,5,11.8,0,11
+2024-05-11,Bandages,5,11.8,0,5
+2024-05-11,Cough Syrup,5,11.8,0,5
+2024-05-11,Flu Vaccines,5,11.8,0,3
+2024-05-11,Paracetamol,5,11.8,0,21
+2024-05-12,Amoxicillin,6,21.5,0,4
+2024-05-12,Bandages,6,21.5,0,1
+2024-05-12,Cough Syrup,6,21.5,0,2
+2024-05-12,Flu Vaccines,6,21.5,0,0
+2024-05-12,Paracetamol,6,21.5,0,5
+2024-05-13,Amoxicillin,0,17.3,0,15
+2024-05-13,Bandages,0,17.3,0,5
+2024-05-13,Cough Syrup,0,17.3,0,10
+2024-05-13,Flu Vaccines,0,17.3,0,0
+2024-05-13,Paracetamol,0,17.3,0,40
+2024-05-14,Amoxicillin,1,27.2,0,7
+2024-05-14,Bandages,1,27.2,0,7
+2024-05-14,Cough Syrup,1,27.2,0,16
+2024-05-14,Flu Vaccines,1,27.2,0,2
+2024-05-14,Paracetamol,1,27.2,0,24
+2024-05-15,Amoxicillin,2,16.7,0,24
+2024-05-15,Bandages,2,16.7,0,6
+2024-05-15,Cough Syrup,2,16.7,0,11
+2024-05-15,Flu Vaccines,2,16.7,0,0
+2024-05-15,Paracetamol,2,16.7,0,15
+2024-05-16,Amoxicillin,3,13.9,0,18
+2024-05-16,Bandages,3,13.9,0,10
+2024-05-16,Cough Syrup,3,13.9,0,4
+2024-05-16,Flu Vaccines,3,13.9,0,0
+2024-05-16,Paracetamol,3,13.9,0,32
+2024-05-17,Amoxicillin,4,23.9,0,14
+2024-05-17,Bandages,4,23.9,0,5
+2024-05-17,Cough Syrup,4,23.9,0,3
+2024-05-17,Flu Vaccines,4,23.9,0,0
+2024-05-17,Paracetamol,4,23.9,0,48
+2024-05-18,Amoxicillin,5,19.7,0,9
+2024-05-18,Bandages,5,19.7,0,7
+2024-05-18,Cough Syrup,5,19.7,0,2
+2024-05-18,Flu Vaccines,5,19.7,0,1
+2024-05-18,Paracetamol,5,19.7,0,16
+2024-05-19,Amoxicillin,6,19.5,0,4
+2024-05-19,Bandages,6,19.5,0,1
+2024-05-19,Cough Syrup,6,19.5,0,2
+2024-05-19,Flu Vaccines,6,19.5,0,0
+2024-05-19,Paracetamol,6,19.5,0,6
+2024-05-20,Amoxicillin,0,23.9,0,21
+2024-05-20,Bandages,0,23.9,0,12
+2024-05-20,Cough Syrup,0,23.9,0,9
+2024-05-20,Flu Vaccines,0,23.9,0,3
+2024-05-20,Paracetamol,0,23.9,0,31
+2024-05-21,Amoxicillin,1,15.9,0,24
+2024-05-21,Bandages,1,15.9,0,5
+2024-05-21,Cough Syrup,1,15.9,0,10
+2024-05-21,Flu Vaccines,1,15.9,0,0
+2024-05-21,Paracetamol,1,15.9,0,29
+2024-05-22,Amoxicillin,2,25.0,0,11
+2024-05-22,Bandages,2,25.0,0,0
+2024-05-22,Cough Syrup,2,25.0,0,8
+2024-05-22,Flu Vaccines,2,25.0,0,0
+2024-05-22,Paracetamol,2,25.0,0,25
+2024-05-23,Amoxicillin,3,10.5,0,18
+2024-05-23,Bandages,3,10.5,0,7
+2024-05-23,Cough Syrup,3,10.5,0,6
+2024-05-23,Flu Vaccines,3,10.5,0,2
+2024-05-23,Paracetamol,3,10.5,0,37
+2024-05-24,Amoxicillin,4,20.0,0,9
+2024-05-24,Bandages,4,20.0,0,8
+2024-05-24,Cough Syrup,4,20.0,0,9
+2024-05-24,Flu Vaccines,4,20.0,0,3
+2024-05-24,Paracetamol,4,20.0,0,45
+2024-05-25,Amoxicillin,5,21.3,0,2
+2024-05-25,Bandages,5,21.3,0,4
+2024-05-25,Cough Syrup,5,21.3,0,3
+2024-05-25,Flu Vaccines,5,21.3,0,0
+2024-05-25,Paracetamol,5,21.3,0,16
+2024-05-26,Amoxicillin,6,30.8,0,3
+2024-05-26,Bandages,6,30.8,0,2
+2024-05-26,Cough Syrup,6,30.8,0,3
+2024-05-26,Flu Vaccines,6,30.8,0,0
+2024-05-26,Paracetamol,6,30.8,0,4
+2024-05-27,Amoxicillin,0,20.4,0,11
+2024-05-27,Bandages,0,20.4,0,9
+2024-05-27,Cough Syrup,0,20.4,0,13
+2024-05-27,Flu Vaccines,0,20.4,0,2
+2024-05-27,Paracetamol,0,20.4,0,36
+2024-05-28,Amoxicillin,1,26.3,0,12
+2024-05-28,Bandages,1,26.3,0,5
+2024-05-28,Cough Syrup,1,26.3,0,18
+2024-05-28,Flu Vaccines,1,26.3,0,2
+2024-05-28,Paracetamol,1,26.3,0,43
+2024-05-29,Amoxicillin,2,30.4,0,15
+2024-05-29,Bandages,2,30.4,0,9
+2024-05-29,Cough Syrup,2,30.4,0,8
+2024-05-29,Flu Vaccines,2,30.4,0,1
+2024-05-29,Paracetamol,2,30.4,0,23
+2024-05-30,Amoxicillin,3,23.1,0,12
+2024-05-30,Bandages,3,23.1,0,9
+2024-05-30,Cough Syrup,3,23.1,0,16
+2024-05-30,Flu Vaccines,3,23.1,0,6
+2024-05-30,Paracetamol,3,23.1,0,29
+2024-05-31,Amoxicillin,4,20.2,0,15
+2024-05-31,Bandages,4,20.2,0,2
+2024-05-31,Cough Syrup,4,20.2,0,8
+2024-05-31,Flu Vaccines,4,20.2,0,0
+2024-05-31,Paracetamol,4,20.2,0,36
+2024-06-01,Amoxicillin,5,31.6,0,10
+2024-06-01,Bandages,5,31.6,0,2
+2024-06-01,Cough Syrup,5,31.6,0,3
+2024-06-01,Flu Vaccines,5,31.6,0,3
+2024-06-01,Paracetamol,5,31.6,0,15
+2024-06-02,Amoxicillin,6,30.9,0,4
+2024-06-02,Bandages,6,30.9,0,1
+2024-06-02,Cough Syrup,6,30.9,0,2
+2024-06-02,Flu Vaccines,6,30.9,0,0
+2024-06-02,Paracetamol,6,30.9,0,9
+2024-06-03,Amoxicillin,0,29.3,0,19
+2024-06-03,Bandages,0,29.3,0,12
+2024-06-03,Cough Syrup,0,29.3,0,15
+2024-06-03,Flu Vaccines,0,29.3,0,0
+2024-06-03,Paracetamol,0,29.3,0,36
+2024-06-04,Amoxicillin,1,27.5,0,16
+2024-06-04,Bandages,1,27.5,0,5
+2024-06-04,Cough Syrup,1,27.5,0,7
+2024-06-04,Flu Vaccines,1,27.5,0,2
+2024-06-04,Paracetamol,1,27.5,0,34
+2024-06-05,Amoxicillin,2,29.9,0,20
+2024-06-05,Bandages,2,29.9,0,0
+2024-06-05,Cough Syrup,2,29.9,0,13
+2024-06-05,Flu Vaccines,2,29.9,0,1
+2024-06-05,Paracetamol,2,29.9,0,35
+2024-06-06,Amoxicillin,3,34.6,0,6
+2024-06-06,Bandages,3,34.6,0,11
+2024-06-06,Cough Syrup,3,34.6,0,4
+2024-06-06,Flu Vaccines,3,34.6,0,0
+2024-06-06,Paracetamol,3,34.6,0,26
+2024-06-07,Amoxicillin,4,28.1,0,16
+2024-06-07,Bandages,4,28.1,0,4
+2024-06-07,Cough Syrup,4,28.1,0,10
+2024-06-07,Flu Vaccines,4,28.1,0,2
+2024-06-07,Paracetamol,4,28.1,0,29
+2024-06-08,Amoxicillin,5,34.0,0,7
+2024-06-08,Bandages,5,34.0,0,6
+2024-06-08,Cough Syrup,5,34.0,0,9
+2024-06-08,Flu Vaccines,5,34.0,0,0
+2024-06-08,Paracetamol,5,34.0,0,8
+2024-06-09,Amoxicillin,6,28.6,0,2
+2024-06-09,Bandages,6,28.6,0,1
+2024-06-09,Cough Syrup,6,28.6,0,2
+2024-06-09,Flu Vaccines,6,28.6,0,1
+2024-06-09,Paracetamol,6,28.6,0,5
+2024-06-10,Amoxicillin,0,34.1,0,16
+2024-06-10,Bandages,0,34.1,0,7
+2024-06-10,Cough Syrup,0,34.1,0,9
+2024-06-10,Flu Vaccines,0,34.1,0,1
+2024-06-10,Paracetamol,0,34.1,0,27
+2024-06-11,Amoxicillin,1,32.9,0,15
+2024-06-11,Bandages,1,32.9,0,2
+2024-06-11,Cough Syrup,1,32.9,0,10
+2024-06-11,Flu Vaccines,1,32.9,0,1
+2024-06-11,Paracetamol,1,32.9,0,37
+2024-06-12,Amoxicillin,2,33.7,0,16
+2024-06-12,Bandages,2,33.7,0,7
+2024-06-12,Cough Syrup,2,33.7,0,18
+2024-06-12,Flu Vaccines,2,33.7,0,0
+2024-06-12,Paracetamol,2,33.7,0,39
+2024-06-13,Amoxicillin,3,34.4,0,9
+2024-06-13,Bandages,3,34.4,0,13
+2024-06-13,Cough Syrup,3,34.4,0,7
+2024-06-13,Flu Vaccines,3,34.4,0,0
+2024-06-13,Paracetamol,3,34.4,0,36
+2024-06-14,Amoxicillin,4,29.2,0,16
+2024-06-14,Bandages,4,29.2,0,9
+2024-06-14,Cough Syrup,4,29.2,0,10
+2024-06-14,Flu Vaccines,4,29.2,0,2
+2024-06-14,Paracetamol,4,29.2,0,38
+2024-06-15,Amoxicillin,5,39.6,0,8
+2024-06-15,Bandages,5,39.6,0,6
+2024-06-15,Cough Syrup,5,39.6,0,8
+2024-06-15,Flu Vaccines,5,39.6,0,2
+2024-06-15,Paracetamol,5,39.6,0,19
+2024-06-16,Amoxicillin,6,32.6,0,1
+2024-06-16,Bandages,6,32.6,0,1
+2024-06-16,Cough Syrup,6,32.6,0,2
+2024-06-16,Flu Vaccines,6,32.6,0,0
+2024-06-16,Paracetamol,6,32.6,0,9
+2024-06-17,Amoxicillin,0,29.7,0,16
+2024-06-17,Bandages,0,29.7,0,9
+2024-06-17,Cough Syrup,0,29.7,0,16
+2024-06-17,Flu Vaccines,0,29.7,0,2
+2024-06-17,Paracetamol,0,29.7,0,33
+2024-06-18,Amoxicillin,1,29.0,0,19
+2024-06-18,Bandages,1,29.0,0,10
+2024-06-18,Cough Syrup,1,29.0,0,12
+2024-06-18,Flu Vaccines,1,29.0,0,0
+2024-06-18,Paracetamol,1,29.0,0,41
+2024-06-19,Amoxicillin,2,28.8,0,21
+2024-06-19,Bandages,2,28.8,0,8
+2024-06-19,Cough Syrup,2,28.8,0,9
+2024-06-19,Flu Vaccines,2,28.8,0,2
+2024-06-19,Paracetamol,2,28.8,0,28
+2024-06-20,Amoxicillin,3,25.6,0,7
+2024-06-20,Bandages,3,25.6,0,1
+2024-06-20,Cough Syrup,3,25.6,0,6
+2024-06-20,Flu Vaccines,3,25.6,0,0
+2024-06-20,Paracetamol,3,25.6,0,45
+2024-06-21,Amoxicillin,4,27.4,0,8
+2024-06-21,Bandages,4,27.4,0,14
+2024-06-21,Cough Syrup,4,27.4,0,7
+2024-06-21,Flu Vaccines,4,27.4,0,4
+2024-06-21,Paracetamol,4,27.4,0,46
+2024-06-22,Amoxicillin,5,33.9,0,8
+2024-06-22,Bandages,5,33.9,0,1
+2024-06-22,Cough Syrup,5,33.9,0,2
+2024-06-22,Flu Vaccines,5,33.9,0,3
+2024-06-22,Paracetamol,5,33.9,0,3
+2024-06-23,Amoxicillin,6,34.1,0,5
+2024-06-23,Bandages,6,34.1,0,2
+2024-06-23,Cough Syrup,6,34.1,0,2
+2024-06-23,Flu Vaccines,6,34.1,0,0
+2024-06-23,Paracetamol,6,34.1,0,8
+2024-06-24,Amoxicillin,0,33.0,0,16
+2024-06-24,Bandages,0,33.0,0,7
+2024-06-24,Cough Syrup,0,33.0,0,6
+2024-06-24,Flu Vaccines,0,33.0,0,1
+2024-06-24,Paracetamol,0,33.0,0,31
+2024-06-25,Amoxicillin,1,23.2,0,14
+2024-06-25,Bandages,1,23.2,0,12
+2024-06-25,Cough Syrup,1,23.2,0,10
+2024-06-25,Flu Vaccines,1,23.2,0,0
+2024-06-25,Paracetamol,1,23.2,0,20
+2024-06-26,Amoxicillin,2,33.7,0,7
+2024-06-26,Bandages,2,33.7,0,7
+2024-06-26,Cough Syrup,2,33.7,0,6
+2024-06-26,Flu Vaccines,2,33.7,0,3
+2024-06-26,Paracetamol,2,33.7,0,20
+2024-06-27,Amoxicillin,3,32.2,0,10
+2024-06-27,Bandages,3,32.2,0,8
+2024-06-27,Cough Syrup,3,32.2,0,7
+2024-06-27,Flu Vaccines,3,32.2,0,0
+2024-06-27,Paracetamol,3,32.2,0,31
+2024-06-28,Amoxicillin,4,23.6,0,17
+2024-06-28,Bandages,4,23.6,0,12
+2024-06-28,Cough Syrup,4,23.6,0,10
+2024-06-28,Flu Vaccines,4,23.6,0,3
+2024-06-28,Paracetamol,4,23.6,0,29
+2024-06-29,Amoxicillin,5,30.5,0,7
+2024-06-29,Bandages,5,30.5,0,4
+2024-06-29,Cough Syrup,5,30.5,0,6
+2024-06-29,Flu Vaccines,5,30.5,0,1
+2024-06-29,Paracetamol,5,30.5,0,18
+2024-06-30,Amoxicillin,6,27.2,0,2
+2024-06-30,Bandages,6,27.2,0,1
+2024-06-30,Cough Syrup,6,27.2,0,1
+2024-06-30,Flu Vaccines,6,27.2,0,1
+2024-06-30,Paracetamol,6,27.2,0,3
+2024-07-01,Amoxicillin,0,27.1,0,19
+2024-07-01,Bandages,0,27.1,0,8
+2024-07-01,Cough Syrup,0,27.1,0,7
+2024-07-01,Flu Vaccines,0,27.1,0,4
+2024-07-01,Paracetamol,0,27.1,0,27
+2024-07-02,Amoxicillin,1,26.7,0,25
+2024-07-02,Bandages,1,26.7,0,9
+2024-07-02,Cough Syrup,1,26.7,0,12
+2024-07-02,Flu Vaccines,1,26.7,0,2
+2024-07-02,Paracetamol,1,26.7,0,18
+2024-07-03,Amoxicillin,2,29.3,0,14
+2024-07-03,Bandages,2,29.3,0,14
+2024-07-03,Cough Syrup,2,29.3,0,13
+2024-07-03,Flu Vaccines,2,29.3,0,1
+2024-07-03,Paracetamol,2,29.3,0,30
+2024-07-04,Amoxicillin,3,27.8,0,8
+2024-07-04,Bandages,3,27.8,0,12
+2024-07-04,Cough Syrup,3,27.8,0,6
+2024-07-04,Flu Vaccines,3,27.8,0,7
+2024-07-04,Paracetamol,3,27.8,0,29
+2024-07-05,Amoxicillin,4,36.7,0,12
+2024-07-05,Bandages,4,36.7,0,7
+2024-07-05,Cough Syrup,4,36.7,0,8
+2024-07-05,Flu Vaccines,4,36.7,0,5
+2024-07-05,Paracetamol,4,36.7,0,35
+2024-07-06,Amoxicillin,5,27.7,0,5
+2024-07-06,Bandages,5,27.7,0,3
+2024-07-06,Cough Syrup,5,27.7,0,6
+2024-07-06,Flu Vaccines,5,27.7,0,0
+2024-07-06,Paracetamol,5,27.7,0,14
+2024-07-07,Amoxicillin,6,30.9,0,1
+2024-07-07,Bandages,6,30.9,0,1
+2024-07-07,Cough Syrup,6,30.9,0,0
+2024-07-07,Flu Vaccines,6,30.9,0,0
+2024-07-07,Paracetamol,6,30.9,0,6
+2024-07-08,Amoxicillin,0,34.9,0,8
+2024-07-08,Bandages,0,34.9,0,7
+2024-07-08,Cough Syrup,0,34.9,0,7
+2024-07-08,Flu Vaccines,0,34.9,0,2
+2024-07-08,Paracetamol,0,34.9,0,46
+2024-07-09,Amoxicillin,1,32.2,0,15
+2024-07-09,Bandages,1,32.2,0,3
+2024-07-09,Cough Syrup,1,32.2,0,10
+2024-07-09,Flu Vaccines,1,32.2,0,0
+2024-07-09,Paracetamol,1,32.2,0,35
+2024-07-10,Amoxicillin,2,29.6,0,10
+2024-07-10,Bandages,2,29.6,0,9
+2024-07-10,Cough Syrup,2,29.6,0,14
+2024-07-10,Flu Vaccines,2,29.6,0,4
+2024-07-10,Paracetamol,2,29.6,0,22
+2024-07-11,Amoxicillin,3,25.6,0,13
+2024-07-11,Bandages,3,25.6,0,9
+2024-07-11,Cough Syrup,3,25.6,0,19
+2024-07-11,Flu Vaccines,3,25.6,0,2
+2024-07-11,Paracetamol,3,25.6,0,42
+2024-07-12,Amoxicillin,4,30.8,0,13
+2024-07-12,Bandages,4,30.8,0,10
+2024-07-12,Cough Syrup,4,30.8,0,12
+2024-07-12,Flu Vaccines,4,30.8,0,1
+2024-07-12,Paracetamol,4,30.8,0,31
+2024-07-13,Amoxicillin,5,26.9,0,5
+2024-07-13,Bandages,5,26.9,0,0
+2024-07-13,Cough Syrup,5,26.9,0,3
+2024-07-13,Flu Vaccines,5,26.9,0,1
+2024-07-13,Paracetamol,5,26.9,0,6
+2024-07-14,Amoxicillin,6,31.6,0,5
+2024-07-14,Bandages,6,31.6,0,1
+2024-07-14,Cough Syrup,6,31.6,0,2
+2024-07-14,Flu Vaccines,6,31.6,0,0
+2024-07-14,Paracetamol,6,31.6,0,5
+2024-07-15,Amoxicillin,0,33.7,0,13
+2024-07-15,Bandages,0,33.7,0,10
+2024-07-15,Cough Syrup,0,33.7,0,7
+2024-07-15,Flu Vaccines,0,33.7,0,2
+2024-07-15,Paracetamol,0,33.7,0,32
+2024-07-16,Amoxicillin,1,29.3,0,11
+2024-07-16,Bandages,1,29.3,0,7
+2024-07-16,Cough Syrup,1,29.3,0,10
+2024-07-16,Flu Vaccines,1,29.3,0,0
+2024-07-16,Paracetamol,1,29.3,0,35
+2024-07-17,Amoxicillin,2,34.3,0,17
+2024-07-17,Bandages,2,34.3,0,9
+2024-07-17,Cough Syrup,2,34.3,0,15
+2024-07-17,Flu Vaccines,2,34.3,0,3
+2024-07-17,Paracetamol,2,34.3,0,29
+2024-07-18,Amoxicillin,3,30.0,0,8
+2024-07-18,Bandages,3,30.0,0,7
+2024-07-18,Cough Syrup,3,30.0,0,7
+2024-07-18,Flu Vaccines,3,30.0,0,1
+2024-07-18,Paracetamol,3,30.0,0,19
+2024-07-19,Amoxicillin,4,30.2,0,17
+2024-07-19,Bandages,4,30.2,0,2
+2024-07-19,Cough Syrup,4,30.2,0,10
+2024-07-19,Flu Vaccines,4,30.2,0,2
+2024-07-19,Paracetamol,4,30.2,0,29
+2024-07-20,Amoxicillin,5,26.2,0,8
+2024-07-20,Bandages,5,26.2,0,6
+2024-07-20,Cough Syrup,5,26.2,0,9
+2024-07-20,Flu Vaccines,5,26.2,0,1
+2024-07-20,Paracetamol,5,26.2,0,10
+2024-07-21,Amoxicillin,6,29.1,0,4
+2024-07-21,Bandages,6,29.1,0,1
+2024-07-21,Cough Syrup,6,29.1,0,1
+2024-07-21,Flu Vaccines,6,29.1,0,0
+2024-07-21,Paracetamol,6,29.1,0,6
+2024-07-22,Amoxicillin,0,28.4,0,15
+2024-07-22,Bandages,0,28.4,0,11
+2024-07-22,Cough Syrup,0,28.4,0,11
+2024-07-22,Flu Vaccines,0,28.4,0,2
+2024-07-22,Paracetamol,0,28.4,0,31
+2024-07-23,Amoxicillin,1,33.8,0,7
+2024-07-23,Bandages,1,33.8,0,7
+2024-07-23,Cough Syrup,1,33.8,0,4
+2024-07-23,Flu Vaccines,1,33.8,0,3
+2024-07-23,Paracetamol,1,33.8,0,4
+2024-07-24,Amoxicillin,2,25.3,0,5
+2024-07-24,Bandages,2,25.3,0,0
+2024-07-24,Cough Syrup,2,25.3,0,7
+2024-07-24,Flu Vaccines,2,25.3,0,3
+2024-07-24,Paracetamol,2,25.3,0,35
+2024-07-25,Amoxicillin,3,27.8,0,16
+2024-07-25,Bandages,3,27.8,0,9
+2024-07-25,Cough Syrup,3,27.8,0,9
+2024-07-25,Flu Vaccines,3,27.8,0,2
+2024-07-25,Paracetamol,3,27.8,0,15
+2024-07-26,Amoxicillin,4,30.5,0,10
+2024-07-26,Bandages,4,30.5,0,5
+2024-07-26,Cough Syrup,4,30.5,0,9
+2024-07-26,Flu Vaccines,4,30.5,0,1
+2024-07-26,Paracetamol,4,30.5,0,41
+2024-07-27,Amoxicillin,5,28.2,0,6
+2024-07-27,Bandages,5,28.2,0,1
+2024-07-27,Cough Syrup,5,28.2,0,2
+2024-07-27,Flu Vaccines,5,28.2,0,3
+2024-07-27,Paracetamol,5,28.2,0,16
+2024-07-28,Amoxicillin,6,35.9,0,2
+2024-07-28,Bandages,6,35.9,0,2
+2024-07-28,Cough Syrup,6,35.9,0,1
+2024-07-28,Flu Vaccines,6,35.9,0,0
+2024-07-28,Paracetamol,6,35.9,0,4
+2024-07-29,Amoxicillin,0,32.7,0,12
+2024-07-29,Bandages,0,32.7,0,8
+2024-07-29,Cough Syrup,0,32.7,0,12
+2024-07-29,Flu Vaccines,0,32.7,0,0
+2024-07-29,Paracetamol,0,32.7,0,51
+2024-07-30,Amoxicillin,1,35.2,0,22
+2024-07-30,Bandages,1,35.2,0,5
+2024-07-30,Cough Syrup,1,35.2,0,11
+2024-07-30,Flu Vaccines,1,35.2,0,0
+2024-07-30,Paracetamol,1,35.2,0,30
+2024-07-31,Amoxicillin,2,38.1,0,15
+2024-07-31,Bandages,2,38.1,0,5
+2024-07-31,Cough Syrup,2,38.1,0,4
+2024-07-31,Flu Vaccines,2,38.1,0,2
+2024-07-31,Paracetamol,2,38.1,0,26
+2024-08-01,Amoxicillin,3,34.8,0,11
+2024-08-01,Bandages,3,34.8,0,10
+2024-08-01,Cough Syrup,3,34.8,0,14
+2024-08-01,Flu Vaccines,3,34.8,0,3
+2024-08-01,Paracetamol,3,34.8,0,19
+2024-08-02,Amoxicillin,4,34.0,0,11
+2024-08-02,Bandages,4,34.0,0,7
+2024-08-02,Cough Syrup,4,34.0,0,8
+2024-08-02,Flu Vaccines,4,34.0,0,5
+2024-08-02,Paracetamol,4,34.0,0,15
+2024-08-03,Amoxicillin,5,35.3,0,10
+2024-08-03,Bandages,5,35.3,0,6
+2024-08-03,Cough Syrup,5,35.3,0,4
+2024-08-03,Flu Vaccines,5,35.3,0,3
+2024-08-03,Paracetamol,5,35.3,0,20
+2024-08-04,Amoxicillin,6,30.2,0,3
+2024-08-04,Bandages,6,30.2,0,2
+2024-08-04,Cough Syrup,6,30.2,0,2
+2024-08-04,Flu Vaccines,6,30.2,0,0
+2024-08-04,Paracetamol,6,30.2,0,9
+2024-08-05,Amoxicillin,0,28.5,0,10
+2024-08-05,Bandages,0,28.5,0,4
+2024-08-05,Cough Syrup,0,28.5,0,18
+2024-08-05,Flu Vaccines,0,28.5,0,0
+2024-08-05,Paracetamol,0,28.5,0,19
+2024-08-06,Amoxicillin,1,29.1,0,13
+2024-08-06,Bandages,1,29.1,0,6
+2024-08-06,Cough Syrup,1,29.1,0,13
+2024-08-06,Flu Vaccines,1,29.1,0,3
+2024-08-06,Paracetamol,1,29.1,0,33
+2024-08-07,Amoxicillin,2,29.3,0,16
+2024-08-07,Bandages,2,29.3,0,10
+2024-08-07,Cough Syrup,2,29.3,0,11
+2024-08-07,Flu Vaccines,2,29.3,0,5
+2024-08-07,Paracetamol,2,29.3,0,27
+2024-08-08,Amoxicillin,3,32.7,0,20
+2024-08-08,Bandages,3,32.7,0,6
+2024-08-08,Cough Syrup,3,32.7,0,11
+2024-08-08,Flu Vaccines,3,32.7,0,0
+2024-08-08,Paracetamol,3,32.7,0,31
+2024-08-09,Amoxicillin,4,27.9,0,17
+2024-08-09,Bandages,4,27.9,0,13
+2024-08-09,Cough Syrup,4,27.9,0,11
+2024-08-09,Flu Vaccines,4,27.9,0,2
+2024-08-09,Paracetamol,4,27.9,0,42
+2024-08-10,Amoxicillin,5,31.0,0,16
+2024-08-10,Bandages,5,31.0,0,5
+2024-08-10,Cough Syrup,5,31.0,0,7
+2024-08-10,Flu Vaccines,5,31.0,0,0
+2024-08-10,Paracetamol,5,31.0,0,21
+2024-08-11,Amoxicillin,6,35.2,0,3
+2024-08-11,Bandages,6,35.2,0,1
+2024-08-11,Cough Syrup,6,35.2,0,1
+2024-08-11,Flu Vaccines,6,35.2,0,0
+2024-08-11,Paracetamol,6,35.2,0,5
+2024-08-12,Amoxicillin,0,27.7,0,17
+2024-08-12,Bandages,0,27.7,0,9
+2024-08-12,Cough Syrup,0,27.7,0,5
+2024-08-12,Flu Vaccines,0,27.7,0,2
+2024-08-12,Paracetamol,0,27.7,0,46
+2024-08-13,Amoxicillin,1,34.8,0,11
+2024-08-13,Bandages,1,34.8,0,9
+2024-08-13,Cough Syrup,1,34.8,0,6
+2024-08-13,Flu Vaccines,1,34.8,0,2
+2024-08-13,Paracetamol,1,34.8,0,28
+2024-08-14,Amoxicillin,2,29.5,0,17
+2024-08-14,Bandages,2,29.5,0,6
+2024-08-14,Cough Syrup,2,29.5,0,12
+2024-08-14,Flu Vaccines,2,29.5,0,1
+2024-08-14,Paracetamol,2,29.5,0,21
+2024-08-15,Amoxicillin,3,36.9,0,13
+2024-08-15,Bandages,3,36.9,0,2
+2024-08-15,Cough Syrup,3,36.9,0,4
+2024-08-15,Flu Vaccines,3,36.9,0,3
+2024-08-15,Paracetamol,3,36.9,0,32
+2024-08-16,Amoxicillin,4,23.9,0,21
+2024-08-16,Bandages,4,23.9,0,8
+2024-08-16,Cough Syrup,4,23.9,0,7
+2024-08-16,Flu Vaccines,4,23.9,0,7
+2024-08-16,Paracetamol,4,23.9,0,24
+2024-08-17,Amoxicillin,5,36.2,0,15
+2024-08-17,Bandages,5,36.2,0,5
+2024-08-17,Cough Syrup,5,36.2,0,8
+2024-08-17,Flu Vaccines,5,36.2,0,2
+2024-08-17,Paracetamol,5,36.2,0,30
+2024-08-18,Amoxicillin,6,33.1,0,2
+2024-08-18,Bandages,6,33.1,0,1
+2024-08-18,Cough Syrup,6,33.1,0,1
+2024-08-18,Flu Vaccines,6,33.1,0,0
+2024-08-18,Paracetamol,6,33.1,0,4
+2024-08-19,Amoxicillin,0,32.8,0,19
+2024-08-19,Bandages,0,32.8,0,7
+2024-08-19,Cough Syrup,0,32.8,0,5
+2024-08-19,Flu Vaccines,0,32.8,0,4
+2024-08-19,Paracetamol,0,32.8,0,30
+2024-08-20,Amoxicillin,1,27.1,0,5
+2024-08-20,Bandages,1,27.1,0,9
+2024-08-20,Cough Syrup,1,27.1,0,16
+2024-08-20,Flu Vaccines,1,27.1,0,1
+2024-08-20,Paracetamol,1,27.1,0,29
+2024-08-21,Amoxicillin,2,25.9,0,24
+2024-08-21,Bandages,2,25.9,0,5
+2024-08-21,Cough Syrup,2,25.9,0,9
+2024-08-21,Flu Vaccines,2,25.9,0,3
+2024-08-21,Paracetamol,2,25.9,0,42
+2024-08-22,Amoxicillin,3,28.5,0,20
+2024-08-22,Bandages,3,28.5,0,4
+2024-08-22,Cough Syrup,3,28.5,0,8
+2024-08-22,Flu Vaccines,3,28.5,0,5
+2024-08-22,Paracetamol,3,28.5,0,48
+2024-08-23,Amoxicillin,4,30.6,0,6
+2024-08-23,Bandages,4,30.6,0,3
+2024-08-23,Cough Syrup,4,30.6,0,8
+2024-08-23,Flu Vaccines,4,30.6,0,1
+2024-08-23,Paracetamol,4,30.6,0,33
+2024-08-24,Amoxicillin,5,32.1,0,7
+2024-08-24,Bandages,5,32.1,0,7
+2024-08-24,Cough Syrup,5,32.1,0,5
+2024-08-24,Flu Vaccines,5,32.1,0,0
+2024-08-24,Paracetamol,5,32.1,0,10
+2024-08-25,Amoxicillin,6,36.6,0,2
+2024-08-25,Bandages,6,36.6,0,1
+2024-08-25,Cough Syrup,6,36.6,0,1
+2024-08-25,Flu Vaccines,6,36.6,0,0
+2024-08-25,Paracetamol,6,36.6,0,4
+2024-08-26,Amoxicillin,0,33.1,0,21
+2024-08-26,Bandages,0,33.1,0,5
+2024-08-26,Cough Syrup,0,33.1,0,6
+2024-08-26,Flu Vaccines,0,33.1,0,1
+2024-08-26,Paracetamol,0,33.1,0,28
+2024-08-27,Amoxicillin,1,29.1,0,16
+2024-08-27,Bandages,1,29.1,0,7
+2024-08-27,Cough Syrup,1,29.1,0,15
+2024-08-27,Flu Vaccines,1,29.1,0,0
+2024-08-27,Paracetamol,1,29.1,0,39
+2024-08-28,Amoxicillin,2,29.9,0,11
+2024-08-28,Bandages,2,29.9,0,7
+2024-08-28,Cough Syrup,2,29.9,0,12
+2024-08-28,Flu Vaccines,2,29.9,0,3
+2024-08-28,Paracetamol,2,29.9,0,5
+2024-08-29,Amoxicillin,3,30.3,0,17
+2024-08-29,Bandages,3,30.3,0,4
+2024-08-29,Cough Syrup,3,30.3,0,13
+2024-08-29,Flu Vaccines,3,30.3,0,0
+2024-08-29,Paracetamol,3,30.3,0,14
+2024-08-30,Amoxicillin,4,31.2,0,8
+2024-08-30,Bandages,4,31.2,0,11
+2024-08-30,Cough Syrup,4,31.2,0,3
+2024-08-30,Flu Vaccines,4,31.2,0,1
+2024-08-30,Paracetamol,4,31.2,0,34
+2024-08-31,Amoxicillin,5,27.1,0,6
+2024-08-31,Bandages,5,27.1,0,4
+2024-08-31,Cough Syrup,5,27.1,0,3
+2024-08-31,Flu Vaccines,5,27.1,0,2
+2024-08-31,Paracetamol,5,27.1,0,19
+2024-09-01,Amoxicillin,6,22.6,0,3
+2024-09-01,Bandages,6,22.6,0,1
+2024-09-01,Cough Syrup,6,22.6,0,1
+2024-09-01,Flu Vaccines,6,22.6,0,0
+2024-09-01,Paracetamol,6,22.6,0,6
+2024-09-02,Amoxicillin,0,13.6,0,0
+2024-09-02,Bandages,0,13.6,0,4
+2024-09-02,Cough Syrup,0,13.6,0,0
+2024-09-02,Flu Vaccines,0,13.6,0,3
+2024-09-02,Paracetamol,0,13.6,0,34
+2024-09-03,Amoxicillin,1,23.7,0,25
+2024-09-03,Bandages,1,23.7,0,12
+2024-09-03,Cough Syrup,1,23.7,0,9
+2024-09-03,Flu Vaccines,1,23.7,0,0
+2024-09-03,Paracetamol,1,23.7,0,30
+2024-09-04,Amoxicillin,2,16.1,0,11
+2024-09-04,Bandages,2,16.1,0,12
+2024-09-04,Cough Syrup,2,16.1,0,10
+2024-09-04,Flu Vaccines,2,16.1,0,0
+2024-09-04,Paracetamol,2,16.1,0,25
+2024-09-05,Amoxicillin,3,21.9,0,13
+2024-09-05,Bandages,3,21.9,0,7
+2024-09-05,Cough Syrup,3,21.9,0,13
+2024-09-05,Flu Vaccines,3,21.9,0,0
+2024-09-05,Paracetamol,3,21.9,0,27
+2024-09-06,Amoxicillin,4,18.9,0,30
+2024-09-06,Bandages,4,18.9,0,11
+2024-09-06,Cough Syrup,4,18.9,0,8
+2024-09-06,Flu Vaccines,4,18.9,0,0
+2024-09-06,Paracetamol,4,18.9,0,32
+2024-09-07,Amoxicillin,5,20.7,0,4
+2024-09-07,Bandages,5,20.7,0,6
+2024-09-07,Cough Syrup,5,20.7,0,10
+2024-09-07,Flu Vaccines,5,20.7,0,0
+2024-09-07,Paracetamol,5,20.7,0,23
+2024-09-08,Amoxicillin,6,17.3,0,4
+2024-09-08,Bandages,6,17.3,0,1
+2024-09-08,Cough Syrup,6,17.3,0,2
+2024-09-08,Flu Vaccines,6,17.3,0,0
+2024-09-08,Paracetamol,6,17.3,0,6
+2024-09-09,Amoxicillin,0,16.1,0,20
+2024-09-09,Bandages,0,16.1,0,9
+2024-09-09,Cough Syrup,0,16.1,0,6
+2024-09-09,Flu Vaccines,0,16.1,0,1
+2024-09-09,Paracetamol,0,16.1,0,26
+2024-09-10,Amoxicillin,1,32.4,0,9
+2024-09-10,Bandages,1,32.4,0,9
+2024-09-10,Cough Syrup,1,32.4,0,9
+2024-09-10,Flu Vaccines,1,32.4,0,4
+2024-09-10,Paracetamol,1,32.4,0,30
+2024-09-11,Amoxicillin,2,13.6,0,17
+2024-09-11,Bandages,2,13.6,0,15
+2024-09-11,Cough Syrup,2,13.6,0,14
+2024-09-11,Flu Vaccines,2,13.6,0,3
+2024-09-11,Paracetamol,2,13.6,0,28
+2024-09-12,Amoxicillin,3,23.5,0,16
+2024-09-12,Bandages,3,23.5,0,7
+2024-09-12,Cough Syrup,3,23.5,0,11
+2024-09-12,Flu Vaccines,3,23.5,0,1
+2024-09-12,Paracetamol,3,23.5,0,31
+2024-09-13,Amoxicillin,4,21.0,0,21
+2024-09-13,Bandages,4,21.0,0,7
+2024-09-13,Cough Syrup,4,21.0,0,15
+2024-09-13,Flu Vaccines,4,21.0,0,4
+2024-09-13,Paracetamol,4,21.0,0,19
+2024-09-14,Amoxicillin,5,7.3,0,7
+2024-09-14,Bandages,5,7.3,0,3
+2024-09-14,Cough Syrup,5,7.3,0,3
+2024-09-14,Flu Vaccines,5,7.3,0,1
+2024-09-14,Paracetamol,5,7.3,0,25
+2024-09-15,Amoxicillin,6,25.0,0,3
+2024-09-15,Bandages,6,25.0,0,1
+2024-09-15,Cough Syrup,6,25.0,0,1
+2024-09-15,Flu Vaccines,6,25.0,0,0
+2024-09-15,Paracetamol,6,25.0,0,5
+2024-09-16,Amoxicillin,0,29.7,0,13
+2024-09-16,Bandages,0,29.7,0,6
+2024-09-16,Cough Syrup,0,29.7,0,13
+2024-09-16,Flu Vaccines,0,29.7,0,5
+2024-09-16,Paracetamol,0,29.7,0,42
+2024-09-17,Amoxicillin,1,22.4,0,14
+2024-09-17,Bandages,1,22.4,0,11
+2024-09-17,Cough Syrup,1,22.4,0,5
+2024-09-17,Flu Vaccines,1,22.4,0,2
+2024-09-17,Paracetamol,1,22.4,0,20
+2024-09-18,Amoxicillin,2,17.2,0,16
+2024-09-18,Bandages,2,17.2,0,6
+2024-09-18,Cough Syrup,2,17.2,0,12
+2024-09-18,Flu Vaccines,2,17.2,0,1
+2024-09-18,Paracetamol,2,17.2,0,32
+2024-09-19,Amoxicillin,3,25.2,0,8
+2024-09-19,Bandages,3,25.2,0,5
+2024-09-19,Cough Syrup,3,25.2,0,5
+2024-09-19,Flu Vaccines,3,25.2,0,5
+2024-09-19,Paracetamol,3,25.2,0,31
+2024-09-20,Amoxicillin,4,23.1,0,15
+2024-09-20,Bandages,4,23.1,0,11
+2024-09-20,Cough Syrup,4,23.1,0,12
+2024-09-20,Flu Vaccines,4,23.1,0,2
+2024-09-20,Paracetamol,4,23.1,0,33
+2024-09-21,Amoxicillin,5,22.5,0,8
+2024-09-21,Bandages,5,22.5,0,3
+2024-09-21,Cough Syrup,5,22.5,0,5
+2024-09-21,Flu Vaccines,5,22.5,0,3
+2024-09-21,Paracetamol,5,22.5,0,22
+2024-09-22,Amoxicillin,6,26.6,0,2
+2024-09-22,Bandages,6,26.6,0,1
+2024-09-22,Cough Syrup,6,26.6,0,1
+2024-09-22,Flu Vaccines,6,26.6,0,0
+2024-09-22,Paracetamol,6,26.6,0,1
+2024-09-23,Amoxicillin,0,22.0,0,15
+2024-09-23,Bandages,0,22.0,0,7
+2024-09-23,Cough Syrup,0,22.0,0,12
+2024-09-23,Flu Vaccines,0,22.0,0,1
+2024-09-23,Paracetamol,0,22.0,0,37
+2024-09-24,Amoxicillin,1,24.4,0,18
+2024-09-24,Bandages,1,24.4,0,10
+2024-09-24,Cough Syrup,1,24.4,0,7
+2024-09-24,Flu Vaccines,1,24.4,0,4
+2024-09-24,Paracetamol,1,24.4,0,20
+2024-09-25,Amoxicillin,2,22.2,0,24
+2024-09-25,Bandages,2,22.2,0,7
+2024-09-25,Cough Syrup,2,22.2,0,9
+2024-09-25,Flu Vaccines,2,22.2,0,1
+2024-09-25,Paracetamol,2,22.2,0,27
+2024-09-26,Amoxicillin,3,24.8,0,6
+2024-09-26,Bandages,3,24.8,0,13
+2024-09-26,Cough Syrup,3,24.8,0,13
+2024-09-26,Flu Vaccines,3,24.8,0,0
+2024-09-26,Paracetamol,3,24.8,0,19
+2024-09-27,Amoxicillin,4,19.4,0,14
+2024-09-27,Bandages,4,19.4,0,8
+2024-09-27,Cough Syrup,4,19.4,0,6
+2024-09-27,Flu Vaccines,4,19.4,0,4
+2024-09-27,Paracetamol,4,19.4,0,30
+2024-09-28,Amoxicillin,5,25.9,0,10
+2024-09-28,Bandages,5,25.9,0,6
+2024-09-28,Cough Syrup,5,25.9,0,0
+2024-09-28,Flu Vaccines,5,25.9,0,2
+2024-09-28,Paracetamol,5,25.9,0,19
+2024-09-29,Amoxicillin,6,16.1,0,1
+2024-09-29,Bandages,6,16.1,0,2
+2024-09-29,Cough Syrup,6,16.1,0,1
+2024-09-29,Flu Vaccines,6,16.1,0,0
+2024-09-29,Paracetamol,6,16.1,0,7
+2024-09-30,Amoxicillin,0,29.7,0,21
+2024-09-30,Bandages,0,29.7,0,3
+2024-09-30,Cough Syrup,0,29.7,0,10
+2024-09-30,Flu Vaccines,0,29.7,0,3
+2024-09-30,Paracetamol,0,29.7,0,46
+2024-10-01,Amoxicillin,1,18.5,0,10
+2024-10-01,Bandages,1,18.5,0,9
+2024-10-01,Cough Syrup,1,18.5,0,10
+2024-10-01,Flu Vaccines,1,18.5,0,1
+2024-10-01,Paracetamol,1,18.5,0,51
+2024-10-02,Amoxicillin,2,20.3,0,23
+2024-10-02,Bandages,2,20.3,0,4
+2024-10-02,Cough Syrup,2,20.3,0,7
+2024-10-02,Flu Vaccines,2,20.3,0,2
+2024-10-02,Paracetamol,2,20.3,0,23
+2024-10-03,Amoxicillin,3,16.3,0,14
+2024-10-03,Bandages,3,16.3,0,7
+2024-10-03,Cough Syrup,3,16.3,0,4
+2024-10-03,Flu Vaccines,3,16.3,0,0
+2024-10-03,Paracetamol,3,16.3,0,25
+2024-10-04,Amoxicillin,4,11.0,0,18
+2024-10-04,Bandages,4,11.0,0,5
+2024-10-04,Cough Syrup,4,11.0,0,8
+2024-10-04,Flu Vaccines,4,11.0,0,0
+2024-10-04,Paracetamol,4,11.0,0,30
+2024-10-05,Amoxicillin,5,21.9,0,13
+2024-10-05,Bandages,5,21.9,0,6
+2024-10-05,Cough Syrup,5,21.9,0,5
+2024-10-05,Flu Vaccines,5,21.9,0,1
+2024-10-05,Paracetamol,5,21.9,0,6
+2024-10-06,Amoxicillin,6,21.3,0,2
+2024-10-06,Bandages,6,21.3,0,1
+2024-10-06,Cough Syrup,6,21.3,0,2
+2024-10-06,Flu Vaccines,6,21.3,0,0
+2024-10-06,Paracetamol,6,21.3,0,5
+2024-10-07,Amoxicillin,0,31.4,0,14
+2024-10-07,Bandages,0,31.4,0,3
+2024-10-07,Cough Syrup,0,31.4,0,2
+2024-10-07,Flu Vaccines,0,31.4,0,0
+2024-10-07,Paracetamol,0,31.4,0,22
+2024-10-08,Amoxicillin,1,21.6,0,17
+2024-10-08,Bandages,1,21.6,0,8
+2024-10-08,Cough Syrup,1,21.6,0,8
+2024-10-08,Flu Vaccines,1,21.6,0,3
+2024-10-08,Paracetamol,1,21.6,0,14
+2024-10-09,Amoxicillin,2,29.7,0,19
+2024-10-09,Bandages,2,29.7,0,5
+2024-10-09,Cough Syrup,2,29.7,0,1
+2024-10-09,Flu Vaccines,2,29.7,0,0
+2024-10-09,Paracetamol,2,29.7,0,27
+2024-10-10,Amoxicillin,3,18.7,0,10
+2024-10-10,Bandages,3,18.7,0,6
+2024-10-10,Cough Syrup,3,18.7,0,9
+2024-10-10,Flu Vaccines,3,18.7,0,2
+2024-10-10,Paracetamol,3,18.7,0,28
+2024-10-11,Amoxicillin,4,21.0,0,17
+2024-10-11,Bandages,4,21.0,0,8
+2024-10-11,Cough Syrup,4,21.0,0,9
+2024-10-11,Flu Vaccines,4,21.0,0,4
+2024-10-11,Paracetamol,4,21.0,0,19
+2024-10-12,Amoxicillin,5,24.2,0,9
+2024-10-12,Bandages,5,24.2,0,5
+2024-10-12,Cough Syrup,5,24.2,0,4
+2024-10-12,Flu Vaccines,5,24.2,0,1
+2024-10-12,Paracetamol,5,24.2,0,23
+2024-10-13,Amoxicillin,6,13.1,0,3
+2024-10-13,Bandages,6,13.1,0,0
+2024-10-13,Cough Syrup,6,13.1,0,1
+2024-10-13,Flu Vaccines,6,13.1,0,0
+2024-10-13,Paracetamol,6,13.1,0,5
+2024-10-14,Amoxicillin,0,16.7,0,15
+2024-10-14,Bandages,0,16.7,0,5
+2024-10-14,Cough Syrup,0,16.7,0,15
+2024-10-14,Flu Vaccines,0,16.7,0,0
+2024-10-14,Paracetamol,0,16.7,0,31
+2024-10-15,Amoxicillin,1,25.8,0,17
+2024-10-15,Bandages,1,25.8,0,10
+2024-10-15,Cough Syrup,1,25.8,0,5
+2024-10-15,Flu Vaccines,1,25.8,0,5
+2024-10-15,Paracetamol,1,25.8,0,23
+2024-10-16,Amoxicillin,2,26.0,0,11
+2024-10-16,Bandages,2,26.0,0,8
+2024-10-16,Cough Syrup,2,26.0,0,11
+2024-10-16,Flu Vaccines,2,26.0,0,1
+2024-10-16,Paracetamol,2,26.0,0,43
+2024-10-17,Amoxicillin,3,19.2,0,19
+2024-10-17,Bandages,3,19.2,0,3
+2024-10-17,Cough Syrup,3,19.2,0,15
+2024-10-17,Flu Vaccines,3,19.2,0,0
+2024-10-17,Paracetamol,3,19.2,0,37
+2024-10-18,Amoxicillin,4,26.2,0,20
+2024-10-18,Bandages,4,26.2,0,7
+2024-10-18,Cough Syrup,4,26.2,0,5
+2024-10-18,Flu Vaccines,4,26.2,0,1
+2024-10-18,Paracetamol,4,26.2,0,19
+2024-10-19,Amoxicillin,5,18.2,0,11
+2024-10-19,Bandages,5,18.2,0,4
+2024-10-19,Cough Syrup,5,18.2,0,4
+2024-10-19,Flu Vaccines,5,18.2,0,2
+2024-10-19,Paracetamol,5,18.2,0,25
+2024-10-20,Amoxicillin,6,9.9,0,2
+2024-10-20,Bandages,6,9.9,0,1
+2024-10-20,Cough Syrup,6,9.9,0,1
+2024-10-20,Flu Vaccines,6,9.9,0,1
+2024-10-20,Paracetamol,6,9.9,0,7
+2024-10-21,Amoxicillin,0,19.8,0,16
+2024-10-21,Bandages,0,19.8,0,7
+2024-10-21,Cough Syrup,0,19.8,0,8
+2024-10-21,Flu Vaccines,0,19.8,0,2
+2024-10-21,Paracetamol,0,19.8,0,21
+2024-10-22,Amoxicillin,1,23.3,0,15
+2024-10-22,Bandages,1,23.3,0,6
+2024-10-22,Cough Syrup,1,23.3,0,9
+2024-10-22,Flu Vaccines,1,23.3,0,1
+2024-10-22,Paracetamol,1,23.3,0,25
+2024-10-23,Amoxicillin,2,18.4,0,22
+2024-10-23,Bandages,2,18.4,0,6
+2024-10-23,Cough Syrup,2,18.4,0,12
+2024-10-23,Flu Vaccines,2,18.4,0,1
+2024-10-23,Paracetamol,2,18.4,0,35
+2024-10-24,Amoxicillin,3,27.0,0,16
+2024-10-24,Bandages,3,27.0,0,4
+2024-10-24,Cough Syrup,3,27.0,0,3
+2024-10-24,Flu Vaccines,3,27.0,0,2
+2024-10-24,Paracetamol,3,27.0,0,28
+2024-10-25,Amoxicillin,4,12.8,0,15
+2024-10-25,Bandages,4,12.8,0,9
+2024-10-25,Cough Syrup,4,12.8,0,12
+2024-10-25,Flu Vaccines,4,12.8,0,6
+2024-10-25,Paracetamol,4,12.8,0,47
+2024-10-26,Amoxicillin,5,9.2,0,7
+2024-10-26,Bandages,5,9.2,0,3
+2024-10-26,Cough Syrup,5,9.2,0,5
+2024-10-26,Flu Vaccines,5,9.2,0,0
+2024-10-26,Paracetamol,5,9.2,0,13
+2024-10-27,Amoxicillin,6,8.1,0,3
+2024-10-27,Bandages,6,8.1,0,1
+2024-10-27,Cough Syrup,6,8.1,0,3
+2024-10-27,Flu Vaccines,6,8.1,0,0
+2024-10-27,Paracetamol,6,8.1,0,3
+2024-10-28,Amoxicillin,0,4.8,0,13
+2024-10-28,Bandages,0,4.8,0,9
+2024-10-28,Cough Syrup,0,4.8,0,5
+2024-10-28,Flu Vaccines,0,4.8,0,5
+2024-10-28,Paracetamol,0,4.8,0,41
+2024-10-29,Amoxicillin,1,17.2,0,14
+2024-10-29,Bandages,1,17.2,0,9
+2024-10-29,Cough Syrup,1,17.2,0,11
+2024-10-29,Flu Vaccines,1,17.2,0,0
+2024-10-29,Paracetamol,1,17.2,0,56
+2024-10-30,Amoxicillin,2,26.5,0,15
+2024-10-30,Bandages,2,26.5,0,6
+2024-10-30,Cough Syrup,2,26.5,0,11
+2024-10-30,Flu Vaccines,2,26.5,0,1
+2024-10-30,Paracetamol,2,26.5,0,33
+2024-10-31,Amoxicillin,3,23.7,0,13
+2024-10-31,Bandages,3,23.7,0,7
+2024-10-31,Cough Syrup,3,23.7,0,14
+2024-10-31,Flu Vaccines,3,23.7,0,1
+2024-10-31,Paracetamol,3,23.7,0,33
+2024-11-01,Amoxicillin,4,1.1,1,21
+2024-11-01,Bandages,4,1.1,1,17
+2024-11-01,Cough Syrup,4,1.1,1,19
+2024-11-01,Flu Vaccines,4,1.1,1,22
+2024-11-01,Paracetamol,4,1.1,1,20
+2024-11-02,Amoxicillin,5,15.3,1,9
+2024-11-02,Bandages,5,15.3,1,4
+2024-11-02,Cough Syrup,5,15.3,1,18
+2024-11-02,Flu Vaccines,5,15.3,1,18
+2024-11-02,Paracetamol,5,15.3,1,17
+2024-11-03,Amoxicillin,6,9.0,1,2
+2024-11-03,Bandages,6,9.0,1,1
+2024-11-03,Cough Syrup,6,9.0,1,3
+2024-11-03,Flu Vaccines,6,9.0,1,6
+2024-11-03,Paracetamol,6,9.0,1,5
+2024-11-04,Amoxicillin,0,9.9,1,13
+2024-11-04,Bandages,0,9.9,1,3
+2024-11-04,Cough Syrup,0,9.9,1,21
+2024-11-04,Flu Vaccines,0,9.9,1,25
+2024-11-04,Paracetamol,0,9.9,1,41
+2024-11-05,Amoxicillin,1,6.9,1,19
+2024-11-05,Bandages,1,6.9,1,9
+2024-11-05,Cough Syrup,1,6.9,1,23
+2024-11-05,Flu Vaccines,1,6.9,1,31
+2024-11-05,Paracetamol,1,6.9,1,39
+2024-11-06,Amoxicillin,2,14.0,1,18
+2024-11-06,Bandages,2,14.0,1,5
+2024-11-06,Cough Syrup,2,14.0,1,29
+2024-11-06,Flu Vaccines,2,14.0,1,30
+2024-11-06,Paracetamol,2,14.0,1,41
+2024-11-07,Amoxicillin,3,9.2,1,11
+2024-11-07,Bandages,3,9.2,1,8
+2024-11-07,Cough Syrup,3,9.2,1,14
+2024-11-07,Flu Vaccines,3,9.2,1,22
+2024-11-07,Paracetamol,3,9.2,1,23
+2024-11-08,Amoxicillin,4,10.0,1,10
+2024-11-08,Bandages,4,10.0,1,5
+2024-11-08,Cough Syrup,4,10.0,1,18
+2024-11-08,Flu Vaccines,4,10.0,1,20
+2024-11-08,Paracetamol,4,10.0,1,36
+2024-11-09,Amoxicillin,5,14.1,1,8
+2024-11-09,Bandages,5,14.1,1,5
+2024-11-09,Cough Syrup,5,14.1,1,12
+2024-11-09,Flu Vaccines,5,14.1,1,15
+2024-11-09,Paracetamol,5,14.1,1,16
+2024-11-10,Amoxicillin,6,16.8,1,1
+2024-11-10,Bandages,6,16.8,1,1
+2024-11-10,Cough Syrup,6,16.8,1,6
+2024-11-10,Flu Vaccines,6,16.8,1,7
+2024-11-10,Paracetamol,6,16.8,1,0
+2024-11-11,Amoxicillin,0,14.0,1,10
+2024-11-11,Bandages,0,14.0,1,6
+2024-11-11,Cough Syrup,0,14.0,1,38
+2024-11-11,Flu Vaccines,0,14.0,1,33
+2024-11-11,Paracetamol,0,14.0,1,34
+2024-11-12,Amoxicillin,1,9.9,1,6
+2024-11-12,Bandages,1,9.9,1,11
+2024-11-12,Cough Syrup,1,9.9,1,21
+2024-11-12,Flu Vaccines,1,9.9,1,23
+2024-11-12,Paracetamol,1,9.9,1,23
+2024-11-13,Amoxicillin,2,10.0,1,14
+2024-11-13,Bandages,2,10.0,1,7
+2024-11-13,Cough Syrup,2,10.0,1,18
+2024-11-13,Flu Vaccines,2,10.0,1,31
+2024-11-13,Paracetamol,2,10.0,1,26
+2024-11-14,Amoxicillin,3,3.3,1,10
+2024-11-14,Bandages,3,3.3,1,7
+2024-11-14,Cough Syrup,3,3.3,1,30
+2024-11-14,Flu Vaccines,3,3.3,1,30
+2024-11-14,Paracetamol,3,3.3,1,25
+2024-11-15,Amoxicillin,4,12.0,1,14
+2024-11-15,Bandages,4,12.0,1,10
+2024-11-15,Cough Syrup,4,12.0,1,31
+2024-11-15,Flu Vaccines,4,12.0,1,13
+2024-11-15,Paracetamol,4,12.0,1,32
+2024-11-16,Amoxicillin,5,14.8,1,12
+2024-11-16,Bandages,5,14.8,1,6
+2024-11-16,Cough Syrup,5,14.8,1,16
+2024-11-16,Flu Vaccines,5,14.8,1,14
+2024-11-16,Paracetamol,5,14.8,1,18
+2024-11-17,Amoxicillin,6,9.3,1,2
+2024-11-17,Bandages,6,9.3,1,0
+2024-11-17,Cough Syrup,6,9.3,1,2
+2024-11-17,Flu Vaccines,6,9.3,1,4
+2024-11-17,Paracetamol,6,9.3,1,6
+2024-11-18,Amoxicillin,0,7.5,1,14
+2024-11-18,Bandages,0,7.5,1,4
+2024-11-18,Cough Syrup,0,7.5,1,29
+2024-11-18,Flu Vaccines,0,7.5,1,31
+2024-11-18,Paracetamol,0,7.5,1,25
+2024-11-19,Amoxicillin,1,15.2,1,14
+2024-11-19,Bandages,1,15.2,1,5
+2024-11-19,Cough Syrup,1,15.2,1,30
+2024-11-19,Flu Vaccines,1,15.2,1,17
+2024-11-19,Paracetamol,1,15.2,1,36
+2024-11-20,Amoxicillin,2,5.7,1,20
+2024-11-20,Bandages,2,5.7,1,9
+2024-11-20,Cough Syrup,2,5.7,1,25
+2024-11-20,Flu Vaccines,2,5.7,1,25
+2024-11-20,Paracetamol,2,5.7,1,18
+2024-11-21,Amoxicillin,3,7.3,1,14
+2024-11-21,Bandages,3,7.3,1,5
+2024-11-21,Cough Syrup,3,7.3,1,21
+2024-11-21,Flu Vaccines,3,7.3,1,28
+2024-11-21,Paracetamol,3,7.3,1,30
+2024-11-22,Amoxicillin,4,-2.8,1,14
+2024-11-22,Bandages,4,-2.8,1,9
+2024-11-22,Cough Syrup,4,-2.8,1,24
+2024-11-22,Flu Vaccines,4,-2.8,1,28
+2024-11-22,Paracetamol,4,-2.8,1,54
+2024-11-23,Amoxicillin,5,4.1,1,12
+2024-11-23,Bandages,5,4.1,1,5
+2024-11-23,Cough Syrup,5,4.1,1,17
+2024-11-23,Flu Vaccines,5,4.1,1,18
+2024-11-23,Paracetamol,5,4.1,1,22
+2024-11-24,Amoxicillin,6,8.2,1,2
+2024-11-24,Bandages,6,8.2,1,1
+2024-11-24,Cough Syrup,6,8.2,1,3
+2024-11-24,Flu Vaccines,6,8.2,1,4
+2024-11-24,Paracetamol,6,8.2,1,6
+2024-11-25,Amoxicillin,0,10.9,1,16
+2024-11-25,Bandages,0,10.9,1,3
+2024-11-25,Cough Syrup,0,10.9,1,21
+2024-11-25,Flu Vaccines,0,10.9,1,21
+2024-11-25,Paracetamol,0,10.9,1,27
+2024-11-26,Amoxicillin,1,9.1,1,23
+2024-11-26,Bandages,1,9.1,1,7
+2024-11-26,Cough Syrup,1,9.1,1,20
+2024-11-26,Flu Vaccines,1,9.1,1,21
+2024-11-26,Paracetamol,1,9.1,1,30
+2024-11-27,Amoxicillin,2,16.4,1,17
+2024-11-27,Bandages,2,16.4,1,4
+2024-11-27,Cough Syrup,2,16.4,1,37
+2024-11-27,Flu Vaccines,2,16.4,1,29
+2024-11-27,Paracetamol,2,16.4,1,18
+2024-11-28,Amoxicillin,3,5.9,1,8
+2024-11-28,Bandages,3,5.9,1,8
+2024-11-28,Cough Syrup,3,5.9,1,23
+2024-11-28,Flu Vaccines,3,5.9,1,32
+2024-11-28,Paracetamol,3,5.9,1,27
+2024-11-29,Amoxicillin,4,5.8,1,25
+2024-11-29,Bandages,4,5.8,1,6
+2024-11-29,Cough Syrup,4,5.8,1,24
+2024-11-29,Flu Vaccines,4,5.8,1,37
+2024-11-29,Paracetamol,4,5.8,1,13
+2024-11-30,Amoxicillin,5,9.1,1,13
+2024-11-30,Bandages,5,9.1,1,5
+2024-11-30,Cough Syrup,5,9.1,1,13
+2024-11-30,Flu Vaccines,5,9.1,1,13
+2024-11-30,Paracetamol,5,9.1,1,4
+2024-12-01,Amoxicillin,6,2.0,1,3
+2024-12-01,Bandages,6,2.0,1,1
+2024-12-01,Cough Syrup,6,2.0,1,4
+2024-12-01,Flu Vaccines,6,2.0,1,5
+2024-12-01,Paracetamol,6,2.0,1,10
+2024-12-02,Amoxicillin,0,6.8,1,17
+2024-12-02,Bandages,0,6.8,1,9
+2024-12-02,Cough Syrup,0,6.8,1,15
+2024-12-02,Flu Vaccines,0,6.8,1,30
+2024-12-02,Paracetamol,0,6.8,1,48
+2024-12-03,Amoxicillin,1,17.4,1,16
+2024-12-03,Bandages,1,17.4,1,6
+2024-12-03,Cough Syrup,1,17.4,1,31
+2024-12-03,Flu Vaccines,1,17.4,1,20
+2024-12-03,Paracetamol,1,17.4,1,26
+2024-12-04,Amoxicillin,2,7.6,1,16
+2024-12-04,Bandages,2,7.6,1,6
+2024-12-04,Cough Syrup,2,7.6,1,22
+2024-12-04,Flu Vaccines,2,7.6,1,37
+2024-12-04,Paracetamol,2,7.6,1,25
+2024-12-05,Amoxicillin,3,13.7,1,14
+2024-12-05,Bandages,3,13.7,1,11
+2024-12-05,Cough Syrup,3,13.7,1,13
+2024-12-05,Flu Vaccines,3,13.7,1,36
+2024-12-05,Paracetamol,3,13.7,1,23
+2024-12-06,Amoxicillin,4,6.6,1,18
+2024-12-06,Bandages,4,6.6,1,5
+2024-12-06,Cough Syrup,4,6.6,1,27
+2024-12-06,Flu Vaccines,4,6.6,1,22
+2024-12-06,Paracetamol,4,6.6,1,10
+2024-12-07,Amoxicillin,5,8.0,1,11
+2024-12-07,Bandages,5,8.0,1,4
+2024-12-07,Cough Syrup,5,8.0,1,16
+2024-12-07,Flu Vaccines,5,8.0,1,22
+2024-12-07,Paracetamol,5,8.0,1,18
+2024-12-08,Amoxicillin,6,5.5,1,1
+2024-12-08,Bandages,6,5.5,1,1
+2024-12-08,Cough Syrup,6,5.5,1,4
+2024-12-08,Flu Vaccines,6,5.5,1,5
+2024-12-08,Paracetamol,6,5.5,1,5
+2024-12-09,Amoxicillin,0,3.7,1,16
+2024-12-09,Bandages,0,3.7,1,9
+2024-12-09,Cough Syrup,0,3.7,1,27
+2024-12-09,Flu Vaccines,0,3.7,1,13
+2024-12-09,Paracetamol,0,3.7,1,38
+2024-12-10,Amoxicillin,1,16.2,1,9
+2024-12-10,Bandages,1,16.2,1,7
+2024-12-10,Cough Syrup,1,16.2,1,23
+2024-12-10,Flu Vaccines,1,16.2,1,20
+2024-12-10,Paracetamol,1,16.2,1,36
+2024-12-11,Amoxicillin,2,11.7,1,12
+2024-12-11,Bandages,2,11.7,1,4
+2024-12-11,Cough Syrup,2,11.7,1,24
+2024-12-11,Flu Vaccines,2,11.7,1,21
+2024-12-11,Paracetamol,2,11.7,1,23
+2024-12-12,Amoxicillin,3,13.3,1,17
+2024-12-12,Bandages,3,13.3,1,9
+2024-12-12,Cough Syrup,3,13.3,1,18
+2024-12-12,Flu Vaccines,3,13.3,1,31
+2024-12-12,Paracetamol,3,13.3,1,12
+2024-12-13,Amoxicillin,4,13.9,1,13
+2024-12-13,Bandages,4,13.9,1,5
+2024-12-13,Cough Syrup,4,13.9,1,29
+2024-12-13,Flu Vaccines,4,13.9,1,38
+2024-12-13,Paracetamol,4,13.9,1,24
+2024-12-14,Amoxicillin,5,5.8,1,10
+2024-12-14,Bandages,5,5.8,1,3
+2024-12-14,Cough Syrup,5,5.8,1,14
+2024-12-14,Flu Vaccines,5,5.8,1,19
+2024-12-14,Paracetamol,5,5.8,1,20
+2024-12-15,Amoxicillin,6,8.1,1,3
+2024-12-15,Bandages,6,8.1,1,2
+2024-12-15,Cough Syrup,6,8.1,1,5
+2024-12-15,Flu Vaccines,6,8.1,1,7
+2024-12-15,Paracetamol,6,8.1,1,9
+2024-12-16,Amoxicillin,0,8.4,1,23
+2024-12-16,Bandages,0,8.4,1,6
+2024-12-16,Cough Syrup,0,8.4,1,30
+2024-12-16,Flu Vaccines,0,8.4,1,31
+2024-12-16,Paracetamol,0,8.4,1,32
+2024-12-17,Amoxicillin,1,7.2,1,9
+2024-12-17,Bandages,1,7.2,1,10
+2024-12-17,Cough Syrup,1,7.2,1,31
+2024-12-17,Flu Vaccines,1,7.2,1,30
+2024-12-17,Paracetamol,1,7.2,1,34
+2024-12-18,Amoxicillin,2,4.5,1,13
+2024-12-18,Bandages,2,4.5,1,6
+2024-12-18,Cough Syrup,2,4.5,1,17
+2024-12-18,Flu Vaccines,2,4.5,1,27
+2024-12-18,Paracetamol,2,4.5,1,36
+2024-12-19,Amoxicillin,3,14.5,1,17
+2024-12-19,Bandages,3,14.5,1,9
+2024-12-19,Cough Syrup,3,14.5,1,25
+2024-12-19,Flu Vaccines,3,14.5,1,27
+2024-12-19,Paracetamol,3,14.5,1,35
+2024-12-20,Amoxicillin,4,12.5,1,12
+2024-12-20,Bandages,4,12.5,1,6
+2024-12-20,Cough Syrup,4,12.5,1,25
+2024-12-20,Flu Vaccines,4,12.5,1,26
+2024-12-20,Paracetamol,4,12.5,1,8
+2024-12-21,Amoxicillin,5,15.3,1,10
+2024-12-21,Bandages,5,15.3,1,5
+2024-12-21,Cough Syrup,5,15.3,1,14
+2024-12-21,Flu Vaccines,5,15.3,1,18
+2024-12-21,Paracetamol,5,15.3,1,22
+2024-12-22,Amoxicillin,6,1.1,1,3
+2024-12-22,Bandages,6,1.1,1,2
+2024-12-22,Cough Syrup,6,1.1,1,5
+2024-12-22,Flu Vaccines,6,1.1,1,3
+2024-12-22,Paracetamol,6,1.1,1,3
+2024-12-23,Amoxicillin,0,7.3,1,6
+2024-12-23,Bandages,0,7.3,1,9
+2024-12-23,Cough Syrup,0,7.3,1,23
+2024-12-23,Flu Vaccines,0,7.3,1,28
+2024-12-23,Paracetamol,0,7.3,1,18
+2024-12-24,Amoxicillin,1,15.6,1,22
+2024-12-24,Bandages,1,15.6,1,5
+2024-12-24,Cough Syrup,1,15.6,1,21
+2024-12-24,Flu Vaccines,1,15.6,1,22
+2024-12-24,Paracetamol,1,15.6,1,26
+2024-12-25,Amoxicillin,2,11.7,1,14
+2024-12-25,Bandages,2,11.7,1,11
+2024-12-25,Cough Syrup,2,11.7,1,25
+2024-12-25,Flu Vaccines,2,11.7,1,24
+2024-12-25,Paracetamol,2,11.7,1,30
+2024-12-26,Amoxicillin,3,0.8,1,10
+2024-12-26,Bandages,3,0.8,1,4
+2024-12-26,Cough Syrup,3,0.8,1,14
+2024-12-26,Flu Vaccines,3,0.8,1,25
+2024-12-26,Paracetamol,3,0.8,1,15
+2024-12-27,Amoxicillin,4,11.0,1,15
+2024-12-27,Bandages,4,11.0,1,12
+2024-12-27,Cough Syrup,4,11.0,1,32
+2024-12-27,Flu Vaccines,4,11.0,1,24
+2024-12-27,Paracetamol,4,11.0,1,22
+2024-12-28,Amoxicillin,5,3.5,1,11
+2024-12-28,Bandages,5,3.5,1,3
+2024-12-28,Cough Syrup,5,3.5,1,15
+2024-12-28,Flu Vaccines,5,3.5,1,17
+2024-12-28,Paracetamol,5,3.5,1,22
+2024-12-29,Amoxicillin,6,15.1,1,3
+2024-12-29,Bandages,6,15.1,1,2
+2024-12-29,Cough Syrup,6,15.1,1,4
+2024-12-29,Flu Vaccines,6,15.1,1,5
+2024-12-29,Paracetamol,6,15.1,1,7
+2024-12-30,Amoxicillin,0,8.9,1,14
+2024-12-30,Bandages,0,8.9,1,6
+2024-12-30,Cough Syrup,0,8.9,1,30
+2024-12-30,Flu Vaccines,0,8.9,1,30
+2024-12-30,Paracetamol,0,8.9,1,14
+2024-12-31,Amoxicillin,1,12.8,1,9
+2024-12-31,Bandages,1,12.8,1,10
+2024-12-31,Cough Syrup,1,12.8,1,22
+2024-12-31,Flu Vaccines,1,12.8,1,27
+2024-12-31,Paracetamol,1,12.8,1,29
+2025-01-01,Amoxicillin,2,7.8,1,6
+2025-01-01,Bandages,2,7.8,1,8
+2025-01-01,Cough Syrup,2,7.8,1,25
+2025-01-01,Flu Vaccines,2,7.8,1,23
+2025-01-01,Paracetamol,2,7.8,1,47
+2025-01-02,Amoxicillin,3,11.5,1,13
+2025-01-02,Bandages,3,11.5,1,5
+2025-01-02,Cough Syrup,3,11.5,1,21
+2025-01-02,Flu Vaccines,3,11.5,1,21
+2025-01-02,Paracetamol,3,11.5,1,22
+2025-01-03,Amoxicillin,4,13.4,1,22
+2025-01-03,Bandages,4,13.4,1,10
+2025-01-03,Cough Syrup,4,13.4,1,27
+2025-01-03,Flu Vaccines,4,13.4,1,29
+2025-01-03,Paracetamol,4,13.4,1,24
+2025-01-04,Amoxicillin,5,12.4,1,5
+2025-01-04,Bandages,5,12.4,1,4
+2025-01-04,Cough Syrup,5,12.4,1,17
+2025-01-04,Flu Vaccines,5,12.4,1,14
+2025-01-04,Paracetamol,5,12.4,1,23
+2025-01-05,Amoxicillin,6,15.4,1,5
+2025-01-05,Bandages,6,15.4,1,2
+2025-01-05,Cough Syrup,6,15.4,1,5
+2025-01-05,Flu Vaccines,6,15.4,1,5
+2025-01-05,Paracetamol,6,15.4,1,4
+2025-01-06,Amoxicillin,0,3.3,1,18
+2025-01-06,Bandages,0,3.3,1,10
+2025-01-06,Cough Syrup,0,3.3,1,19
+2025-01-06,Flu Vaccines,0,3.3,1,40
+2025-01-06,Paracetamol,0,3.3,1,23
+2025-01-07,Amoxicillin,1,8.1,1,14
+2025-01-07,Bandages,1,8.1,1,12
+2025-01-07,Cough Syrup,1,8.1,1,19
+2025-01-07,Flu Vaccines,1,8.1,1,23
+2025-01-07,Paracetamol,1,8.1,1,30
+2025-01-08,Amoxicillin,2,3.7,1,19
+2025-01-08,Bandages,2,3.7,1,10
+2025-01-08,Cough Syrup,2,3.7,1,29
+2025-01-08,Flu Vaccines,2,3.7,1,30
+2025-01-08,Paracetamol,2,3.7,1,27
+2025-01-09,Amoxicillin,3,8.3,1,11
+2025-01-09,Bandages,3,8.3,1,4
+2025-01-09,Cough Syrup,3,8.3,1,23
+2025-01-09,Flu Vaccines,3,8.3,1,40
+2025-01-09,Paracetamol,3,8.3,1,19
+2025-01-10,Amoxicillin,4,12.4,1,17
+2025-01-10,Bandages,4,12.4,1,1
+2025-01-10,Cough Syrup,4,12.4,1,26
+2025-01-10,Flu Vaccines,4,12.4,1,25
+2025-01-10,Paracetamol,4,12.4,1,35
+2025-01-11,Amoxicillin,5,8.9,1,6
+2025-01-11,Bandages,5,8.9,1,5
+2025-01-11,Cough Syrup,5,8.9,1,17
+2025-01-11,Flu Vaccines,5,8.9,1,20
+2025-01-11,Paracetamol,5,8.9,1,19
+2025-01-12,Amoxicillin,6,12.1,1,3
+2025-01-12,Bandages,6,12.1,1,1
+2025-01-12,Cough Syrup,6,12.1,1,4
+2025-01-12,Flu Vaccines,6,12.1,1,5
+2025-01-12,Paracetamol,6,12.1,1,10
+2025-01-13,Amoxicillin,0,7.9,1,13
+2025-01-13,Bandages,0,7.9,1,4
+2025-01-13,Cough Syrup,0,7.9,1,21
+2025-01-13,Flu Vaccines,0,7.9,1,22
+2025-01-13,Paracetamol,0,7.9,1,39
+2025-01-14,Amoxicillin,1,8.9,1,13
+2025-01-14,Bandages,1,8.9,1,14
+2025-01-14,Cough Syrup,1,8.9,1,27
+2025-01-14,Flu Vaccines,1,8.9,1,20
+2025-01-14,Paracetamol,1,8.9,1,54
+2025-01-15,Amoxicillin,2,2.1,1,5
+2025-01-15,Bandages,2,2.1,1,8
+2025-01-15,Cough Syrup,2,2.1,1,13
+2025-01-15,Flu Vaccines,2,2.1,1,23
+2025-01-15,Paracetamol,2,2.1,1,48
+2025-01-16,Amoxicillin,3,11.6,1,19
+2025-01-16,Bandages,3,11.6,1,6
+2025-01-16,Cough Syrup,3,11.6,1,21
+2025-01-16,Flu Vaccines,3,11.6,1,22
+2025-01-16,Paracetamol,3,11.6,1,19
+2025-01-17,Amoxicillin,4,5.0,1,18
+2025-01-17,Bandages,4,5.0,1,7
+2025-01-17,Cough Syrup,4,5.0,1,17
+2025-01-17,Flu Vaccines,4,5.0,1,26
+2025-01-17,Paracetamol,4,5.0,1,38
+2025-01-18,Amoxicillin,5,23.1,1,5
+2025-01-18,Bandages,5,23.1,1,5
+2025-01-18,Cough Syrup,5,23.1,1,20
+2025-01-18,Flu Vaccines,5,23.1,1,18
+2025-01-18,Paracetamol,5,23.1,1,26
+2025-01-19,Amoxicillin,6,9.7,1,4
+2025-01-19,Bandages,6,9.7,1,1
+2025-01-19,Cough Syrup,6,9.7,1,4
+2025-01-19,Flu Vaccines,6,9.7,1,3
+2025-01-19,Paracetamol,6,9.7,1,8
+2025-01-20,Amoxicillin,0,16.2,1,12
+2025-01-20,Bandages,0,16.2,1,8
+2025-01-20,Cough Syrup,0,16.2,1,12
+2025-01-20,Flu Vaccines,0,16.2,1,31
+2025-01-20,Paracetamol,0,16.2,1,29
+2025-01-21,Amoxicillin,1,16.0,1,12
+2025-01-21,Bandages,1,16.0,1,7
+2025-01-21,Cough Syrup,1,16.0,1,17
+2025-01-21,Flu Vaccines,1,16.0,1,25
+2025-01-21,Paracetamol,1,16.0,1,11
+2025-01-22,Amoxicillin,2,7.0,1,3
+2025-01-22,Bandages,2,7.0,1,7
+2025-01-22,Cough Syrup,2,7.0,1,19
+2025-01-22,Flu Vaccines,2,7.0,1,32
+2025-01-22,Paracetamol,2,7.0,1,38
+2025-01-23,Amoxicillin,3,13.0,1,18
+2025-01-23,Bandages,3,13.0,1,10
+2025-01-23,Cough Syrup,3,13.0,1,34
+2025-01-23,Flu Vaccines,3,13.0,1,29
+2025-01-23,Paracetamol,3,13.0,1,22
+2025-01-24,Amoxicillin,4,10.4,1,22
+2025-01-24,Bandages,4,10.4,1,6
+2025-01-24,Cough Syrup,4,10.4,1,25
+2025-01-24,Flu Vaccines,4,10.4,1,32
+2025-01-24,Paracetamol,4,10.4,1,34
+2025-01-25,Amoxicillin,5,11.5,1,10
+2025-01-25,Bandages,5,11.5,1,6
+2025-01-25,Cough Syrup,5,11.5,1,18
+2025-01-25,Flu Vaccines,5,11.5,1,21
+2025-01-25,Paracetamol,5,11.5,1,19
+2025-01-26,Amoxicillin,6,4.8,1,3
+2025-01-26,Bandages,6,4.8,1,1
+2025-01-26,Cough Syrup,6,4.8,1,3
+2025-01-26,Flu Vaccines,6,4.8,1,4
+2025-01-26,Paracetamol,6,4.8,1,9
+2025-01-27,Amoxicillin,0,8.1,1,7
+2025-01-27,Bandages,0,8.1,1,11
+2025-01-27,Cough Syrup,0,8.1,1,33
+2025-01-27,Flu Vaccines,0,8.1,1,24
+2025-01-27,Paracetamol,0,8.1,1,30
+2025-01-28,Amoxicillin,1,6.7,1,19
+2025-01-28,Bandages,1,6.7,1,5
+2025-01-28,Cough Syrup,1,6.7,1,21
+2025-01-28,Flu Vaccines,1,6.7,1,29
+2025-01-28,Paracetamol,1,6.7,1,19
+2025-01-29,Amoxicillin,2,13.0,1,10
+2025-01-29,Bandages,2,13.0,1,9
+2025-01-29,Cough Syrup,2,13.0,1,22
+2025-01-29,Flu Vaccines,2,13.0,1,28
+2025-01-29,Paracetamol,2,13.0,1,34
+2025-01-30,Amoxicillin,3,6.5,1,17
+2025-01-30,Bandages,3,6.5,1,3
+2025-01-30,Cough Syrup,3,6.5,1,18
+2025-01-30,Flu Vaccines,3,6.5,1,20
+2025-01-30,Paracetamol,3,6.5,1,32
+2025-01-31,Amoxicillin,4,10.5,1,13
+2025-01-31,Bandages,4,10.5,1,8
+2025-01-31,Cough Syrup,4,10.5,1,29
+2025-01-31,Flu Vaccines,4,10.5,1,24
+2025-01-31,Paracetamol,4,10.5,1,36
+2025-02-01,Amoxicillin,5,12.3,1,4
+2025-02-01,Bandages,5,12.3,1,4
+2025-02-01,Cough Syrup,5,12.3,1,14
+2025-02-01,Flu Vaccines,5,12.3,1,13
+2025-02-01,Paracetamol,5,12.3,1,22
+2025-02-02,Amoxicillin,6,11.7,1,4
+2025-02-02,Bandages,6,11.7,1,2
+2025-02-02,Cough Syrup,6,11.7,1,6
+2025-02-02,Flu Vaccines,6,11.7,1,5
+2025-02-02,Paracetamol,6,11.7,1,8
+2025-02-03,Amoxicillin,0,20.1,1,20
+2025-02-03,Bandages,0,20.1,1,12
+2025-02-03,Cough Syrup,0,20.1,1,23
+2025-02-03,Flu Vaccines,0,20.1,1,29
+2025-02-03,Paracetamol,0,20.1,1,32
+2025-02-04,Amoxicillin,1,5.9,1,22
+2025-02-04,Bandages,1,5.9,1,10
+2025-02-04,Cough Syrup,1,5.9,1,19
+2025-02-04,Flu Vaccines,1,5.9,1,26
+2025-02-04,Paracetamol,1,5.9,1,34
+2025-02-05,Amoxicillin,2,7.0,1,15
+2025-02-05,Bandages,2,7.0,1,8
+2025-02-05,Cough Syrup,2,7.0,1,40
+2025-02-05,Flu Vaccines,2,7.0,1,20
+2025-02-05,Paracetamol,2,7.0,1,49
+2025-02-06,Amoxicillin,3,15.1,1,21
+2025-02-06,Bandages,3,15.1,1,5
+2025-02-06,Cough Syrup,3,15.1,1,34
+2025-02-06,Flu Vaccines,3,15.1,1,32
+2025-02-06,Paracetamol,3,15.1,1,22
+2025-02-07,Amoxicillin,4,19.9,1,12
+2025-02-07,Bandages,4,19.9,1,9
+2025-02-07,Cough Syrup,4,19.9,1,30
+2025-02-07,Flu Vaccines,4,19.9,1,35
+2025-02-07,Paracetamol,4,19.9,1,26
+2025-02-08,Amoxicillin,5,10.2,1,10
+2025-02-08,Bandages,5,10.2,1,4
+2025-02-08,Cough Syrup,5,10.2,1,13
+2025-02-08,Flu Vaccines,5,10.2,1,16
+2025-02-08,Paracetamol,5,10.2,1,2
+2025-02-09,Amoxicillin,6,18.8,1,4
+2025-02-09,Bandages,6,18.8,1,1
+2025-02-09,Cough Syrup,6,18.8,1,4
+2025-02-09,Flu Vaccines,6,18.8,1,5
+2025-02-09,Paracetamol,6,18.8,1,5
+2025-02-10,Amoxicillin,0,4.3,1,18
+2025-02-10,Bandages,0,4.3,1,10
+2025-02-10,Cough Syrup,0,4.3,1,23
+2025-02-10,Flu Vaccines,0,4.3,1,29
+2025-02-10,Paracetamol,0,4.3,1,36
+2025-02-11,Amoxicillin,1,9.8,1,17
+2025-02-11,Bandages,1,9.8,1,3
+2025-02-11,Cough Syrup,1,9.8,1,21
+2025-02-11,Flu Vaccines,1,9.8,1,25
+2025-02-11,Paracetamol,1,9.8,1,24
+2025-02-12,Amoxicillin,2,7.5,1,13
+2025-02-12,Bandages,2,7.5,1,6
+2025-02-12,Cough Syrup,2,7.5,1,31
+2025-02-12,Flu Vaccines,2,7.5,1,26
+2025-02-12,Paracetamol,2,7.5,1,27
+2025-02-13,Amoxicillin,3,4.0,1,9
+2025-02-13,Bandages,3,4.0,1,8
+2025-02-13,Cough Syrup,3,4.0,1,17
+2025-02-13,Flu Vaccines,3,4.0,1,22
+2025-02-13,Paracetamol,3,4.0,1,25
+2025-02-14,Amoxicillin,4,13.0,1,12
+2025-02-14,Bandages,4,13.0,1,2
+2025-02-14,Cough Syrup,4,13.0,1,24
+2025-02-14,Flu Vaccines,4,13.0,1,24
+2025-02-14,Paracetamol,4,13.0,1,25
+2025-02-15,Amoxicillin,5,8.2,1,9
+2025-02-15,Bandages,5,8.2,1,1
+2025-02-15,Cough Syrup,5,8.2,1,12
+2025-02-15,Flu Vaccines,5,8.2,1,20
+2025-02-15,Paracetamol,5,8.2,1,19
+2025-02-16,Amoxicillin,6,9.6,1,2
+2025-02-16,Bandages,6,9.6,1,1
+2025-02-16,Cough Syrup,6,9.6,1,6
+2025-02-16,Flu Vaccines,6,9.6,1,5
+2025-02-16,Paracetamol,6,9.6,1,7
+2025-02-17,Amoxicillin,0,19.2,1,19
+2025-02-17,Bandages,0,19.2,1,10
+2025-02-17,Cough Syrup,0,19.2,1,15
+2025-02-17,Flu Vaccines,0,19.2,1,29
+2025-02-17,Paracetamol,0,19.2,1,34
+2025-02-18,Amoxicillin,1,9.8,1,7
+2025-02-18,Bandages,1,9.8,1,6
+2025-02-18,Cough Syrup,1,9.8,1,29
+2025-02-18,Flu Vaccines,1,9.8,1,36
+2025-02-18,Paracetamol,1,9.8,1,29
+2025-02-19,Amoxicillin,2,1.5,1,10
+2025-02-19,Bandages,2,1.5,1,12
+2025-02-19,Cough Syrup,2,1.5,1,33
+2025-02-19,Flu Vaccines,2,1.5,1,25
+2025-02-19,Paracetamol,2,1.5,1,45
+2025-02-20,Amoxicillin,3,21.1,1,14
+2025-02-20,Bandages,3,21.1,1,4
+2025-02-20,Cough Syrup,3,21.1,1,21
+2025-02-20,Flu Vaccines,3,21.1,1,31
+2025-02-20,Paracetamol,3,21.1,1,32
+2025-02-21,Amoxicillin,4,7.1,1,10
+2025-02-21,Bandages,4,7.1,1,8
+2025-02-21,Cough Syrup,4,7.1,1,22
+2025-02-21,Flu Vaccines,4,7.1,1,23
+2025-02-21,Paracetamol,4,7.1,1,23
+2025-02-22,Amoxicillin,5,16.1,1,7
+2025-02-22,Bandages,5,16.1,1,5
+2025-02-22,Cough Syrup,5,16.1,1,13
+2025-02-22,Flu Vaccines,5,16.1,1,19
+2025-02-22,Paracetamol,5,16.1,1,13
+2025-02-23,Amoxicillin,6,4.5,1,3
+2025-02-23,Bandages,6,4.5,1,2
+2025-02-23,Cough Syrup,6,4.5,1,4
+2025-02-23,Flu Vaccines,6,4.5,1,4
+2025-02-23,Paracetamol,6,4.5,1,6
+2025-02-24,Amoxicillin,0,6.8,1,17
+2025-02-24,Bandages,0,6.8,1,5
+2025-02-24,Cough Syrup,0,6.8,1,16
+2025-02-24,Flu Vaccines,0,6.8,1,25
+2025-02-24,Paracetamol,0,6.8,1,9
+2025-02-25,Amoxicillin,1,11.5,1,14
+2025-02-25,Bandages,1,11.5,1,6
+2025-02-25,Cough Syrup,1,11.5,1,13
+2025-02-25,Flu Vaccines,1,11.5,1,19
+2025-02-25,Paracetamol,1,11.5,1,7
+2025-02-26,Amoxicillin,2,7.4,1,21
+2025-02-26,Bandages,2,7.4,1,8
+2025-02-26,Cough Syrup,2,7.4,1,20
+2025-02-26,Flu Vaccines,2,7.4,1,28
+2025-02-26,Paracetamol,2,7.4,1,26
+2025-02-27,Amoxicillin,3,12.5,1,34
+2025-02-27,Bandages,3,12.5,1,6
+2025-02-27,Cough Syrup,3,12.5,1,25
+2025-02-27,Flu Vaccines,3,12.5,1,29
+2025-02-27,Paracetamol,3,12.5,1,9
+2025-02-28,Amoxicillin,4,7.2,1,16
+2025-02-28,Bandages,4,7.2,1,11
+2025-02-28,Cough Syrup,4,7.2,1,18
+2025-02-28,Flu Vaccines,4,7.2,1,26
+2025-02-28,Paracetamol,4,7.2,1,14
+2025-03-01,Amoxicillin,5,16.8,0,10
+2025-03-01,Bandages,5,16.8,0,8
+2025-03-01,Cough Syrup,5,16.8,0,7
+2025-03-01,Flu Vaccines,5,16.8,0,2
+2025-03-01,Paracetamol,5,16.8,0,13
+2025-03-02,Amoxicillin,6,18.9,0,3
+2025-03-02,Bandages,6,18.9,0,2
+2025-03-02,Cough Syrup,6,18.9,0,1
+2025-03-02,Flu Vaccines,6,18.9,0,0
+2025-03-02,Paracetamol,6,18.9,0,6
+2025-03-03,Amoxicillin,0,18.8,0,14
+2025-03-03,Bandages,0,18.8,0,8
+2025-03-03,Cough Syrup,0,18.8,0,9
+2025-03-03,Flu Vaccines,0,18.8,0,2
+2025-03-03,Paracetamol,0,18.8,0,30
+2025-03-04,Amoxicillin,1,29.5,0,19
+2025-03-04,Bandages,1,29.5,0,10
+2025-03-04,Cough Syrup,1,29.5,0,6
+2025-03-04,Flu Vaccines,1,29.5,0,1
+2025-03-04,Paracetamol,1,29.5,0,38
+2025-03-05,Amoxicillin,2,25.3,0,22
+2025-03-05,Bandages,2,25.3,0,6
+2025-03-05,Cough Syrup,2,25.3,0,3
+2025-03-05,Flu Vaccines,2,25.3,0,1
+2025-03-05,Paracetamol,2,25.3,0,23
+2025-03-06,Amoxicillin,3,26.0,0,12
+2025-03-06,Bandages,3,26.0,0,4
+2025-03-06,Cough Syrup,3,26.0,0,11
+2025-03-06,Flu Vaccines,3,26.0,0,1
+2025-03-06,Paracetamol,3,26.0,0,36
+2025-03-07,Amoxicillin,4,20.5,0,0
+2025-03-07,Bandages,4,20.5,0,10
+2025-03-07,Cough Syrup,4,20.5,0,14
+2025-03-07,Flu Vaccines,4,20.5,0,0
+2025-03-07,Paracetamol,4,20.5,0,28
+2025-03-08,Amoxicillin,5,22.8,0,13
+2025-03-08,Bandages,5,22.8,0,4
+2025-03-08,Cough Syrup,5,22.8,0,8
+2025-03-08,Flu Vaccines,5,22.8,0,3
+2025-03-08,Paracetamol,5,22.8,0,12
+2025-03-09,Amoxicillin,6,26.8,0,1
+2025-03-09,Bandages,6,26.8,0,0
+2025-03-09,Cough Syrup,6,26.8,0,1
+2025-03-09,Flu Vaccines,6,26.8,0,0
+2025-03-09,Paracetamol,6,26.8,0,4
+2025-03-10,Amoxicillin,0,27.3,0,13
+2025-03-10,Bandages,0,27.3,0,8
+2025-03-10,Cough Syrup,0,27.3,0,2
+2025-03-10,Flu Vaccines,0,27.3,0,0
+2025-03-10,Paracetamol,0,27.3,0,33
+2025-03-11,Amoxicillin,1,8.5,0,14
+2025-03-11,Bandages,1,8.5,0,8
+2025-03-11,Cough Syrup,1,8.5,0,13
+2025-03-11,Flu Vaccines,1,8.5,0,5
+2025-03-11,Paracetamol,1,8.5,0,16
+2025-03-12,Amoxicillin,2,27.6,0,10
+2025-03-12,Bandages,2,27.6,0,11
+2025-03-12,Cough Syrup,2,27.6,0,11
+2025-03-12,Flu Vaccines,2,27.6,0,2
+2025-03-12,Paracetamol,2,27.6,0,35
+2025-03-13,Amoxicillin,3,24.4,0,16
+2025-03-13,Bandages,3,24.4,0,8
+2025-03-13,Cough Syrup,3,24.4,0,9
+2025-03-13,Flu Vaccines,3,24.4,0,0
+2025-03-13,Paracetamol,3,24.4,0,13
+2025-03-14,Amoxicillin,4,13.2,0,27
+2025-03-14,Bandages,4,13.2,0,7
+2025-03-14,Cough Syrup,4,13.2,0,10
+2025-03-14,Flu Vaccines,4,13.2,0,3
+2025-03-14,Paracetamol,4,13.2,0,45
+2025-03-15,Amoxicillin,5,14.3,0,9
+2025-03-15,Bandages,5,14.3,0,4
+2025-03-15,Cough Syrup,5,14.3,0,6
+2025-03-15,Flu Vaccines,5,14.3,0,0
+2025-03-15,Paracetamol,5,14.3,0,19
+2025-03-16,Amoxicillin,6,8.6,0,2
+2025-03-16,Bandages,6,8.6,0,0
+2025-03-16,Cough Syrup,6,8.6,0,2
+2025-03-16,Flu Vaccines,6,8.6,0,1
+2025-03-16,Paracetamol,6,8.6,0,5
+2025-03-17,Amoxicillin,0,22.9,0,7
+2025-03-17,Bandages,0,22.9,0,11
+2025-03-17,Cough Syrup,0,22.9,0,9
+2025-03-17,Flu Vaccines,0,22.9,0,1
+2025-03-17,Paracetamol,0,22.9,0,40
+2025-03-18,Amoxicillin,1,12.3,0,8
+2025-03-18,Bandages,1,12.3,0,0
+2025-03-18,Cough Syrup,1,12.3,0,3
+2025-03-18,Flu Vaccines,1,12.3,0,4
+2025-03-18,Paracetamol,1,12.3,0,24
+2025-03-19,Amoxicillin,2,17.3,0,17
+2025-03-19,Bandages,2,17.3,0,11
+2025-03-19,Cough Syrup,2,17.3,0,8
+2025-03-19,Flu Vaccines,2,17.3,0,1
+2025-03-19,Paracetamol,2,17.3,0,42
+2025-03-20,Amoxicillin,3,8.8,0,13
+2025-03-20,Bandages,3,8.8,0,8
+2025-03-20,Cough Syrup,3,8.8,0,7
+2025-03-20,Flu Vaccines,3,8.8,0,2
+2025-03-20,Paracetamol,3,8.8,0,31
+2025-03-21,Amoxicillin,4,5.1,0,11
+2025-03-21,Bandages,4,5.1,0,9
+2025-03-21,Cough Syrup,4,5.1,0,10
+2025-03-21,Flu Vaccines,4,5.1,0,0
+2025-03-21,Paracetamol,4,5.1,0,34
+2025-03-22,Amoxicillin,5,17.9,0,9
+2025-03-22,Bandages,5,17.9,0,5
+2025-03-22,Cough Syrup,5,17.9,0,7
+2025-03-22,Flu Vaccines,5,17.9,0,0
+2025-03-22,Paracetamol,5,17.9,0,12
+2025-03-23,Amoxicillin,6,16.5,0,3
+2025-03-23,Bandages,6,16.5,0,1
+2025-03-23,Cough Syrup,6,16.5,0,2
+2025-03-23,Flu Vaccines,6,16.5,0,0
+2025-03-23,Paracetamol,6,16.5,0,7
+2025-03-24,Amoxicillin,0,22.6,0,20
+2025-03-24,Bandages,0,22.6,0,5
+2025-03-24,Cough Syrup,0,22.6,0,8
+2025-03-24,Flu Vaccines,0,22.6,0,0
+2025-03-24,Paracetamol,0,22.6,0,16
+2025-03-25,Amoxicillin,1,30.4,0,10
+2025-03-25,Bandages,1,30.4,0,6
+2025-03-25,Cough Syrup,1,30.4,0,5
+2025-03-25,Flu Vaccines,1,30.4,0,2
+2025-03-25,Paracetamol,1,30.4,0,24
+2025-03-26,Amoxicillin,2,21.9,0,13
+2025-03-26,Bandages,2,21.9,0,8
+2025-03-26,Cough Syrup,2,21.9,0,3
+2025-03-26,Flu Vaccines,2,21.9,0,0
+2025-03-26,Paracetamol,2,21.9,0,29
+2025-03-27,Amoxicillin,3,30.5,0,15
+2025-03-27,Bandages,3,30.5,0,13
+2025-03-27,Cough Syrup,3,30.5,0,4
+2025-03-27,Flu Vaccines,3,30.5,0,3
+2025-03-27,Paracetamol,3,30.5,0,32
+2025-03-28,Amoxicillin,4,21.2,0,23
+2025-03-28,Bandages,4,21.2,0,9
+2025-03-28,Cough Syrup,4,21.2,0,13
+2025-03-28,Flu Vaccines,4,21.2,0,5
+2025-03-28,Paracetamol,4,21.2,0,22
+2025-03-29,Amoxicillin,5,21.4,0,8
+2025-03-29,Bandages,5,21.4,0,2
+2025-03-29,Cough Syrup,5,21.4,0,1
+2025-03-29,Flu Vaccines,5,21.4,0,1
+2025-03-29,Paracetamol,5,21.4,0,25
+2025-03-30,Amoxicillin,6,18.9,0,3
+2025-03-30,Bandages,6,18.9,0,1
+2025-03-30,Cough Syrup,6,18.9,0,0
+2025-03-30,Flu Vaccines,6,18.9,0,0
+2025-03-30,Paracetamol,6,18.9,0,5
+2025-03-31,Amoxicillin,0,9.1,0,18
+2025-03-31,Bandages,0,9.1,0,11
+2025-03-31,Cough Syrup,0,9.1,0,6
+2025-03-31,Flu Vaccines,0,9.1,0,2
+2025-03-31,Paracetamol,0,9.1,0,29
+2025-04-01,Amoxicillin,1,26.3,0,17
+2025-04-01,Bandages,1,26.3,0,10
+2025-04-01,Cough Syrup,1,26.3,0,7
+2025-04-01,Flu Vaccines,1,26.3,0,3
+2025-04-01,Paracetamol,1,26.3,0,28
+2025-04-02,Amoxicillin,2,29.9,0,20
+2025-04-02,Bandages,2,29.9,0,9
+2025-04-02,Cough Syrup,2,29.9,0,4
+2025-04-02,Flu Vaccines,2,29.9,0,2
+2025-04-02,Paracetamol,2,29.9,0,22
+2025-04-03,Amoxicillin,3,22.7,0,5
+2025-04-03,Bandages,3,22.7,0,4
+2025-04-03,Cough Syrup,3,22.7,0,8
+2025-04-03,Flu Vaccines,3,22.7,0,1
+2025-04-03,Paracetamol,3,22.7,0,18
+2025-04-04,Amoxicillin,4,22.3,0,16
+2025-04-04,Bandages,4,22.3,0,12
+2025-04-04,Cough Syrup,4,22.3,0,14
+2025-04-04,Flu Vaccines,4,22.3,0,0
+2025-04-04,Paracetamol,4,22.3,0,28
+2025-04-05,Amoxicillin,5,17.1,0,7
+2025-04-05,Bandages,5,17.1,0,6
+2025-04-05,Cough Syrup,5,17.1,0,5
+2025-04-05,Flu Vaccines,5,17.1,0,0
+2025-04-05,Paracetamol,5,17.1,0,20
+2025-04-06,Amoxicillin,6,8.5,0,4
+2025-04-06,Bandages,6,8.5,0,1
+2025-04-06,Cough Syrup,6,8.5,0,1
+2025-04-06,Flu Vaccines,6,8.5,0,0
+2025-04-06,Paracetamol,6,8.5,0,6
+2025-04-07,Amoxicillin,0,9.6,0,22
+2025-04-07,Bandages,0,9.6,0,4
+2025-04-07,Cough Syrup,0,9.6,0,13
+2025-04-07,Flu Vaccines,0,9.6,0,2
+2025-04-07,Paracetamol,0,9.6,0,30
+2025-04-08,Amoxicillin,1,22.8,0,13
+2025-04-08,Bandages,1,22.8,0,6
+2025-04-08,Cough Syrup,1,22.8,0,9
+2025-04-08,Flu Vaccines,1,22.8,0,0
+2025-04-08,Paracetamol,1,22.8,0,38
+2025-04-09,Amoxicillin,2,22.6,0,17
+2025-04-09,Bandages,2,22.6,0,5
+2025-04-09,Cough Syrup,2,22.6,0,9
+2025-04-09,Flu Vaccines,2,22.6,0,0
+2025-04-09,Paracetamol,2,22.6,0,22
+2025-04-10,Amoxicillin,3,25.1,0,13
+2025-04-10,Bandages,3,25.1,0,3
+2025-04-10,Cough Syrup,3,25.1,0,5
+2025-04-10,Flu Vaccines,3,25.1,0,1
+2025-04-10,Paracetamol,3,25.1,0,0
+2025-04-11,Amoxicillin,4,12.6,0,15
+2025-04-11,Bandages,4,12.6,0,9
+2025-04-11,Cough Syrup,4,12.6,0,7
+2025-04-11,Flu Vaccines,4,12.6,0,2
+2025-04-11,Paracetamol,4,12.6,0,43
+2025-04-12,Amoxicillin,5,17.2,0,6
+2025-04-12,Bandages,5,17.2,0,5
+2025-04-12,Cough Syrup,5,17.2,0,5
+2025-04-12,Flu Vaccines,5,17.2,0,0
+2025-04-12,Paracetamol,5,17.2,0,11
+2025-04-13,Amoxicillin,6,19.4,0,2
+2025-04-13,Bandages,6,19.4,0,2
+2025-04-13,Cough Syrup,6,19.4,0,0
+2025-04-13,Flu Vaccines,6,19.4,0,0
+2025-04-13,Paracetamol,6,19.4,0,4
+2025-04-14,Amoxicillin,0,14.0,0,11
+2025-04-14,Bandages,0,14.0,0,9
+2025-04-14,Cough Syrup,0,14.0,0,13
+2025-04-14,Flu Vaccines,0,14.0,0,0
+2025-04-14,Paracetamol,0,14.0,0,15
+2025-04-15,Amoxicillin,1,25.9,0,17
+2025-04-15,Bandages,1,25.9,0,11
+2025-04-15,Cough Syrup,1,25.9,0,6
+2025-04-15,Flu Vaccines,1,25.9,0,1
+2025-04-15,Paracetamol,1,25.9,0,18
+2025-04-16,Amoxicillin,2,12.8,0,19
+2025-04-16,Bandages,2,12.8,0,10
+2025-04-16,Cough Syrup,2,12.8,0,8
+2025-04-16,Flu Vaccines,2,12.8,0,5
+2025-04-16,Paracetamol,2,12.8,0,38
+2025-04-17,Amoxicillin,3,33.7,0,11
+2025-04-17,Bandages,3,33.7,0,2
+2025-04-17,Cough Syrup,3,33.7,0,12
+2025-04-17,Flu Vaccines,3,33.7,0,0
+2025-04-17,Paracetamol,3,33.7,0,14
+2025-04-18,Amoxicillin,4,17.8,0,17
+2025-04-18,Bandages,4,17.8,0,11
+2025-04-18,Cough Syrup,4,17.8,0,10
+2025-04-18,Flu Vaccines,4,17.8,0,2
+2025-04-18,Paracetamol,4,17.8,0,31
+2025-04-19,Amoxicillin,5,14.3,0,6
+2025-04-19,Bandages,5,14.3,0,5
+2025-04-19,Cough Syrup,5,14.3,0,8
+2025-04-19,Flu Vaccines,5,14.3,0,2
+2025-04-19,Paracetamol,5,14.3,0,13
+2025-04-20,Amoxicillin,6,27.1,0,1
+2025-04-20,Bandages,6,27.1,0,2
+2025-04-20,Cough Syrup,6,27.1,0,2
+2025-04-20,Flu Vaccines,6,27.1,0,1
+2025-04-20,Paracetamol,6,27.1,0,9
+2025-04-21,Amoxicillin,0,10.1,0,12
+2025-04-21,Bandages,0,10.1,0,10
+2025-04-21,Cough Syrup,0,10.1,0,5
+2025-04-21,Flu Vaccines,0,10.1,0,3
+2025-04-21,Paracetamol,0,10.1,0,22
+2025-04-22,Amoxicillin,1,28.2,0,18
+2025-04-22,Bandages,1,28.2,0,11
+2025-04-22,Cough Syrup,1,28.2,0,6
+2025-04-22,Flu Vaccines,1,28.2,0,0
+2025-04-22,Paracetamol,1,28.2,0,32
+2025-04-23,Amoxicillin,2,24.7,0,14
+2025-04-23,Bandages,2,24.7,0,13
+2025-04-23,Cough Syrup,2,24.7,0,5
+2025-04-23,Flu Vaccines,2,24.7,0,0
+2025-04-23,Paracetamol,2,24.7,0,25
+2025-04-24,Amoxicillin,3,12.3,0,15
+2025-04-24,Bandages,3,12.3,0,10
+2025-04-24,Cough Syrup,3,12.3,0,10
+2025-04-24,Flu Vaccines,3,12.3,0,0
+2025-04-24,Paracetamol,3,12.3,0,40
+2025-04-25,Amoxicillin,4,20.1,0,29
+2025-04-25,Bandages,4,20.1,0,10
+2025-04-25,Cough Syrup,4,20.1,0,9
+2025-04-25,Flu Vaccines,4,20.1,0,4
+2025-04-25,Paracetamol,4,20.1,0,13
+2025-04-26,Amoxicillin,5,22.6,0,6
+2025-04-26,Bandages,5,22.6,0,5
+2025-04-26,Cough Syrup,5,22.6,0,7
+2025-04-26,Flu Vaccines,5,22.6,0,0
+2025-04-26,Paracetamol,5,22.6,0,19
+2025-04-27,Amoxicillin,6,23.8,0,4
+2025-04-27,Bandages,6,23.8,0,1
+2025-04-27,Cough Syrup,6,23.8,0,1
+2025-04-27,Flu Vaccines,6,23.8,0,0
+2025-04-27,Paracetamol,6,23.8,0,6
+2025-04-28,Amoxicillin,0,27.1,0,22
+2025-04-28,Bandages,0,27.1,0,11
+2025-04-28,Cough Syrup,0,27.1,0,6
+2025-04-28,Flu Vaccines,0,27.1,0,2
+2025-04-28,Paracetamol,0,27.1,0,27
+2025-04-29,Amoxicillin,1,24.0,0,24
+2025-04-29,Bandages,1,24.0,0,9
+2025-04-29,Cough Syrup,1,24.0,0,10
+2025-04-29,Flu Vaccines,1,24.0,0,1
+2025-04-29,Paracetamol,1,24.0,0,21
+2025-04-30,Amoxicillin,2,18.7,0,10
+2025-04-30,Bandages,2,18.7,0,12
+2025-04-30,Cough Syrup,2,18.7,0,6
+2025-04-30,Flu Vaccines,2,18.7,0,3
+2025-04-30,Paracetamol,2,18.7,0,38
+2025-05-01,Amoxicillin,3,27.0,0,15
+2025-05-01,Bandages,3,27.0,0,8
+2025-05-01,Cough Syrup,3,27.0,0,6
+2025-05-01,Flu Vaccines,3,27.0,0,3
+2025-05-01,Paracetamol,3,27.0,0,30
+2025-05-02,Amoxicillin,4,7.1,0,19
+2025-05-02,Bandages,4,7.1,0,7
+2025-05-02,Cough Syrup,4,7.1,0,8
+2025-05-02,Flu Vaccines,4,7.1,0,5
+2025-05-02,Paracetamol,4,7.1,0,14
+2025-05-03,Amoxicillin,5,16.2,0,8
+2025-05-03,Bandages,5,16.2,0,5
+2025-05-03,Cough Syrup,5,16.2,0,9
+2025-05-03,Flu Vaccines,5,16.2,0,0
+2025-05-03,Paracetamol,5,16.2,0,26
+2025-05-04,Amoxicillin,6,12.8,0,1
+2025-05-04,Bandages,6,12.8,0,2
+2025-05-04,Cough Syrup,6,12.8,0,1
+2025-05-04,Flu Vaccines,6,12.8,0,0
+2025-05-04,Paracetamol,6,12.8,0,9
+2025-05-05,Amoxicillin,0,22.0,0,10
+2025-05-05,Bandages,0,22.0,0,11
+2025-05-05,Cough Syrup,0,22.0,0,14
+2025-05-05,Flu Vaccines,0,22.0,0,0
+2025-05-05,Paracetamol,0,22.0,0,32
+2025-05-06,Amoxicillin,1,23.2,0,16
+2025-05-06,Bandages,1,23.2,0,9
+2025-05-06,Cough Syrup,1,23.2,0,5
+2025-05-06,Flu Vaccines,1,23.2,0,1
+2025-05-06,Paracetamol,1,23.2,0,47
+2025-05-07,Amoxicillin,2,32.5,0,9
+2025-05-07,Bandages,2,32.5,0,5
+2025-05-07,Cough Syrup,2,32.5,0,9
+2025-05-07,Flu Vaccines,2,32.5,0,2
+2025-05-07,Paracetamol,2,32.5,0,26
+2025-05-08,Amoxicillin,3,26.7,0,26
+2025-05-08,Bandages,3,26.7,0,8
+2025-05-08,Cough Syrup,3,26.7,0,3
+2025-05-08,Flu Vaccines,3,26.7,0,0
+2025-05-08,Paracetamol,3,26.7,0,31
+2025-05-09,Amoxicillin,4,26.6,0,17
+2025-05-09,Bandages,4,26.6,0,10
+2025-05-09,Cough Syrup,4,26.6,0,5
+2025-05-09,Flu Vaccines,4,26.6,0,0
+2025-05-09,Paracetamol,4,26.6,0,29
+2025-05-10,Amoxicillin,5,25.5,0,4
+2025-05-10,Bandages,5,25.5,0,2
+2025-05-10,Cough Syrup,5,25.5,0,9
+2025-05-10,Flu Vaccines,5,25.5,0,1
+2025-05-10,Paracetamol,5,25.5,0,27
+2025-05-11,Amoxicillin,6,11.8,0,2
+2025-05-11,Bandages,6,11.8,0,1
+2025-05-11,Cough Syrup,6,11.8,0,2
+2025-05-11,Flu Vaccines,6,11.8,0,1
+2025-05-11,Paracetamol,6,11.8,0,7
+2025-05-12,Amoxicillin,0,13.8,0,21
+2025-05-12,Bandages,0,13.8,0,12
+2025-05-12,Cough Syrup,0,13.8,0,8
+2025-05-12,Flu Vaccines,0,13.8,0,5
+2025-05-12,Paracetamol,0,13.8,0,20
+2025-05-13,Amoxicillin,1,24.1,0,14
+2025-05-13,Bandages,1,24.1,0,8
+2025-05-13,Cough Syrup,1,24.1,0,11
+2025-05-13,Flu Vaccines,1,24.1,0,1
+2025-05-13,Paracetamol,1,24.1,0,24
+2025-05-14,Amoxicillin,2,16.4,0,14
+2025-05-14,Bandages,2,16.4,0,5
+2025-05-14,Cough Syrup,2,16.4,0,11
+2025-05-14,Flu Vaccines,2,16.4,0,0
+2025-05-14,Paracetamol,2,16.4,0,30
+2025-05-15,Amoxicillin,3,13.1,0,6
+2025-05-15,Bandages,3,13.1,0,13
+2025-05-15,Cough Syrup,3,13.1,0,7
+2025-05-15,Flu Vaccines,3,13.1,0,0
+2025-05-15,Paracetamol,3,13.1,0,12
+2025-05-16,Amoxicillin,4,16.8,0,15
+2025-05-16,Bandages,4,16.8,0,4
+2025-05-16,Cough Syrup,4,16.8,0,9
+2025-05-16,Flu Vaccines,4,16.8,0,2
+2025-05-16,Paracetamol,4,16.8,0,34
+2025-05-17,Amoxicillin,5,28.7,0,14
+2025-05-17,Bandages,5,28.7,0,3
+2025-05-17,Cough Syrup,5,28.7,0,5
+2025-05-17,Flu Vaccines,5,28.7,0,0
+2025-05-17,Paracetamol,5,28.7,0,7
+2025-05-18,Amoxicillin,6,23.0,0,2
+2025-05-18,Bandages,6,23.0,0,2
+2025-05-18,Cough Syrup,6,23.0,0,2
+2025-05-18,Flu Vaccines,6,23.0,0,0
+2025-05-18,Paracetamol,6,23.0,0,10
+2025-05-19,Amoxicillin,0,26.6,0,12
+2025-05-19,Bandages,0,26.6,0,8
+2025-05-19,Cough Syrup,0,26.6,0,13
+2025-05-19,Flu Vaccines,0,26.6,0,2
+2025-05-19,Paracetamol,0,26.6,0,21
+2025-05-20,Amoxicillin,1,10.5,0,10
+2025-05-20,Bandages,1,10.5,0,3
+2025-05-20,Cough Syrup,1,10.5,0,17
+2025-05-20,Flu Vaccines,1,10.5,0,1
+2025-05-20,Paracetamol,1,10.5,0,29
+2025-05-21,Amoxicillin,2,23.0,0,22
+2025-05-21,Bandages,2,23.0,0,9
+2025-05-21,Cough Syrup,2,23.0,0,11
+2025-05-21,Flu Vaccines,2,23.0,0,1
+2025-05-21,Paracetamol,2,23.0,0,52
+2025-05-22,Amoxicillin,3,21.2,0,14
+2025-05-22,Bandages,3,21.2,0,8
+2025-05-22,Cough Syrup,3,21.2,0,12
+2025-05-22,Flu Vaccines,3,21.2,0,0
+2025-05-22,Paracetamol,3,21.2,0,34
+2025-05-23,Amoxicillin,4,18.7,0,25
+2025-05-23,Bandages,4,18.7,0,5
+2025-05-23,Cough Syrup,4,18.7,0,17
+2025-05-23,Flu Vaccines,4,18.7,0,1
+2025-05-23,Paracetamol,4,18.7,0,23
+2025-05-24,Amoxicillin,5,16.7,0,8
+2025-05-24,Bandages,5,16.7,0,3
+2025-05-24,Cough Syrup,5,16.7,0,2
+2025-05-24,Flu Vaccines,5,16.7,0,1
+2025-05-24,Paracetamol,5,16.7,0,23
+2025-05-25,Amoxicillin,6,16.4,0,2
+2025-05-25,Bandages,6,16.4,0,2
+2025-05-25,Cough Syrup,6,16.4,0,0
+2025-05-25,Flu Vaccines,6,16.4,0,0
+2025-05-25,Paracetamol,6,16.4,0,6
+2025-05-26,Amoxicillin,0,21.5,0,21
+2025-05-26,Bandages,0,21.5,0,12
+2025-05-26,Cough Syrup,0,21.5,0,11
+2025-05-26,Flu Vaccines,0,21.5,0,4
+2025-05-26,Paracetamol,0,21.5,0,34
+2025-05-27,Amoxicillin,1,23.1,0,14
+2025-05-27,Bandages,1,23.1,0,4
+2025-05-27,Cough Syrup,1,23.1,0,12
+2025-05-27,Flu Vaccines,1,23.1,0,3
+2025-05-27,Paracetamol,1,23.1,0,52
+2025-05-28,Amoxicillin,2,12.3,0,16
+2025-05-28,Bandages,2,12.3,0,12
+2025-05-28,Cough Syrup,2,12.3,0,10
+2025-05-28,Flu Vaccines,2,12.3,0,0
+2025-05-28,Paracetamol,2,12.3,0,31
+2025-05-29,Amoxicillin,3,24.2,0,9
+2025-05-29,Bandages,3,24.2,0,6
+2025-05-29,Cough Syrup,3,24.2,0,8
+2025-05-29,Flu Vaccines,3,24.2,0,0
+2025-05-29,Paracetamol,3,24.2,0,28
+2025-05-30,Amoxicillin,4,17.1,0,8
+2025-05-30,Bandages,4,17.1,0,14
+2025-05-30,Cough Syrup,4,17.1,0,0
+2025-05-30,Flu Vaccines,4,17.1,0,0
+2025-05-30,Paracetamol,4,17.1,0,28
+2025-05-31,Amoxicillin,5,26.5,0,7
+2025-05-31,Bandages,5,26.5,0,8
+2025-05-31,Cough Syrup,5,26.5,0,10
+2025-05-31,Flu Vaccines,5,26.5,0,0
+2025-05-31,Paracetamol,5,26.5,0,18
+2025-06-01,Amoxicillin,6,30.6,0,4
+2025-06-01,Bandages,6,30.6,0,1
+2025-06-01,Cough Syrup,6,30.6,0,1
+2025-06-01,Flu Vaccines,6,30.6,0,0
+2025-06-01,Paracetamol,6,30.6,0,6
+2025-06-02,Amoxicillin,0,28.2,0,13
+2025-06-02,Bandages,0,28.2,0,4
+2025-06-02,Cough Syrup,0,28.2,0,10
+2025-06-02,Flu Vaccines,0,28.2,0,1
+2025-06-02,Paracetamol,0,28.2,0,29
+2025-06-03,Amoxicillin,1,27.1,0,8
+2025-06-03,Bandages,1,27.1,0,12
+2025-06-03,Cough Syrup,1,27.1,0,14
+2025-06-03,Flu Vaccines,1,27.1,0,0
+2025-06-03,Paracetamol,1,27.1,0,39
+2025-06-04,Amoxicillin,2,28.8,0,1
+2025-06-04,Bandages,2,28.8,0,6
+2025-06-04,Cough Syrup,2,28.8,0,5
+2025-06-04,Flu Vaccines,2,28.8,0,1
+2025-06-04,Paracetamol,2,28.8,0,26
+2025-06-05,Amoxicillin,3,36.1,0,18
+2025-06-05,Bandages,3,36.1,0,7
+2025-06-05,Cough Syrup,3,36.1,0,8
+2025-06-05,Flu Vaccines,3,36.1,0,0
+2025-06-05,Paracetamol,3,36.1,0,20
+2025-06-06,Amoxicillin,4,32.0,0,12
+2025-06-06,Bandages,4,32.0,0,7
+2025-06-06,Cough Syrup,4,32.0,0,13
+2025-06-06,Flu Vaccines,4,32.0,0,5
+2025-06-06,Paracetamol,4,32.0,0,35
+2025-06-07,Amoxicillin,5,29.3,0,7
+2025-06-07,Bandages,5,29.3,0,4
+2025-06-07,Cough Syrup,5,29.3,0,6
+2025-06-07,Flu Vaccines,5,29.3,0,0
+2025-06-07,Paracetamol,5,29.3,0,25
+2025-06-08,Amoxicillin,6,28.0,0,1
+2025-06-08,Bandages,6,28.0,0,1
+2025-06-08,Cough Syrup,6,28.0,0,2
+2025-06-08,Flu Vaccines,6,28.0,0,0
+2025-06-08,Paracetamol,6,28.0,0,6
+2025-06-09,Amoxicillin,0,34.9,0,10
+2025-06-09,Bandages,0,34.9,0,9
+2025-06-09,Cough Syrup,0,34.9,0,11
+2025-06-09,Flu Vaccines,0,34.9,0,0
+2025-06-09,Paracetamol,0,34.9,0,47
+2025-06-10,Amoxicillin,1,26.8,0,17
+2025-06-10,Bandages,1,26.8,0,0
+2025-06-10,Cough Syrup,1,26.8,0,12
+2025-06-10,Flu Vaccines,1,26.8,0,0
+2025-06-10,Paracetamol,1,26.8,0,42
+2025-06-11,Amoxicillin,2,26.1,0,23
+2025-06-11,Bandages,2,26.1,0,14
+2025-06-11,Cough Syrup,2,26.1,0,9
+2025-06-11,Flu Vaccines,2,26.1,0,0
+2025-06-11,Paracetamol,2,26.1,0,24
+2025-06-12,Amoxicillin,3,22.7,0,9
+2025-06-12,Bandages,3,22.7,0,4
+2025-06-12,Cough Syrup,3,22.7,0,9
+2025-06-12,Flu Vaccines,3,22.7,0,5
+2025-06-12,Paracetamol,3,22.7,0,44
+2025-06-13,Amoxicillin,4,38.4,0,22
+2025-06-13,Bandages,4,38.4,0,7
+2025-06-13,Cough Syrup,4,38.4,0,9
+2025-06-13,Flu Vaccines,4,38.4,0,0
+2025-06-13,Paracetamol,4,38.4,0,36
+2025-06-14,Amoxicillin,5,31.3,0,13
+2025-06-14,Bandages,5,31.3,0,5
+2025-06-14,Cough Syrup,5,31.3,0,9
+2025-06-14,Flu Vaccines,5,31.3,0,0
+2025-06-14,Paracetamol,5,31.3,0,23
+2025-06-15,Amoxicillin,6,32.7,0,4
+2025-06-15,Bandages,6,32.7,0,0
+2025-06-15,Cough Syrup,6,32.7,0,1
+2025-06-15,Flu Vaccines,6,32.7,0,0
+2025-06-15,Paracetamol,6,32.7,0,3
+2025-06-16,Amoxicillin,0,31.4,0,27
+2025-06-16,Bandages,0,31.4,0,8
+2025-06-16,Cough Syrup,0,31.4,0,12
+2025-06-16,Flu Vaccines,0,31.4,0,1
+2025-06-16,Paracetamol,0,31.4,0,11
+2025-06-17,Amoxicillin,1,29.5,0,8
+2025-06-17,Bandages,1,29.5,0,11
+2025-06-17,Cough Syrup,1,29.5,0,1
+2025-06-17,Flu Vaccines,1,29.5,0,0
+2025-06-17,Paracetamol,1,29.5,0,32
+2025-06-18,Amoxicillin,2,33.8,0,15
+2025-06-18,Bandages,2,33.8,0,10
+2025-06-18,Cough Syrup,2,33.8,0,10
+2025-06-18,Flu Vaccines,2,33.8,0,4
+2025-06-18,Paracetamol,2,33.8,0,32
+2025-06-19,Amoxicillin,3,28.8,0,21
+2025-06-19,Bandages,3,28.8,0,8
+2025-06-19,Cough Syrup,3,28.8,0,4
+2025-06-19,Flu Vaccines,3,28.8,0,2
+2025-06-19,Paracetamol,3,28.8,0,33
+2025-06-20,Amoxicillin,4,26.7,0,11
+2025-06-20,Bandages,4,26.7,0,11
+2025-06-20,Cough Syrup,4,26.7,0,18
+2025-06-20,Flu Vaccines,4,26.7,0,0
+2025-06-20,Paracetamol,4,26.7,0,21
+2025-06-21,Amoxicillin,5,37.7,0,5
+2025-06-21,Bandages,5,37.7,0,3
+2025-06-21,Cough Syrup,5,37.7,0,4
+2025-06-21,Flu Vaccines,5,37.7,0,0
+2025-06-21,Paracetamol,5,37.7,0,18
+2025-06-22,Amoxicillin,6,35.0,0,2
+2025-06-22,Bandages,6,35.0,0,0
+2025-06-22,Cough Syrup,6,35.0,0,3
+2025-06-22,Flu Vaccines,6,35.0,0,0
+2025-06-22,Paracetamol,6,35.0,0,8
+2025-06-23,Amoxicillin,0,35.0,0,20
+2025-06-23,Bandages,0,35.0,0,7
+2025-06-23,Cough Syrup,0,35.0,0,11
+2025-06-23,Flu Vaccines,0,35.0,0,4
+2025-06-23,Paracetamol,0,35.0,0,20
+2025-06-24,Amoxicillin,1,26.7,0,11
+2025-06-24,Bandages,1,26.7,0,5
+2025-06-24,Cough Syrup,1,26.7,0,13
+2025-06-24,Flu Vaccines,1,26.7,0,2
+2025-06-24,Paracetamol,1,26.7,0,50
+2025-06-25,Amoxicillin,2,26.9,0,20
+2025-06-25,Bandages,2,26.9,0,8
+2025-06-25,Cough Syrup,2,26.9,0,10
+2025-06-25,Flu Vaccines,2,26.9,0,1
+2025-06-25,Paracetamol,2,26.9,0,16
+2025-06-26,Amoxicillin,3,29.3,0,16
+2025-06-26,Bandages,3,29.3,0,7
+2025-06-26,Cough Syrup,3,29.3,0,6
+2025-06-26,Flu Vaccines,3,29.3,0,3
+2025-06-26,Paracetamol,3,29.3,0,36
+2025-06-27,Amoxicillin,4,34.8,0,19
+2025-06-27,Bandages,4,34.8,0,8
+2025-06-27,Cough Syrup,4,34.8,0,2
+2025-06-27,Flu Vaccines,4,34.8,0,2
+2025-06-27,Paracetamol,4,34.8,0,16
+2025-06-28,Amoxicillin,5,37.6,0,6
+2025-06-28,Bandages,5,37.6,0,3
+2025-06-28,Cough Syrup,5,37.6,0,2
+2025-06-28,Flu Vaccines,5,37.6,0,2
+2025-06-28,Paracetamol,5,37.6,0,12
+2025-06-29,Amoxicillin,6,32.4,0,2
+2025-06-29,Bandages,6,32.4,0,1
+2025-06-29,Cough Syrup,6,32.4,0,2
+2025-06-29,Flu Vaccines,6,32.4,0,0
+2025-06-29,Paracetamol,6,32.4,0,5
+2025-06-30,Amoxicillin,0,28.6,0,16
+2025-06-30,Bandages,0,28.6,0,7
+2025-06-30,Cough Syrup,0,28.6,0,8
+2025-06-30,Flu Vaccines,0,28.6,0,2
+2025-06-30,Paracetamol,0,28.6,0,28
+2025-07-01,Amoxicillin,1,26.0,0,14
+2025-07-01,Bandages,1,26.0,0,8
+2025-07-01,Cough Syrup,1,26.0,0,11
+2025-07-01,Flu Vaccines,1,26.0,0,0
+2025-07-01,Paracetamol,1,26.0,0,21
+2025-07-02,Amoxicillin,2,33.1,0,12
+2025-07-02,Bandages,2,33.1,0,5
+2025-07-02,Cough Syrup,2,33.1,0,11
+2025-07-02,Flu Vaccines,2,33.1,0,3
+2025-07-02,Paracetamol,2,33.1,0,34
+2025-07-03,Amoxicillin,3,30.6,0,16
+2025-07-03,Bandages,3,30.6,0,14
+2025-07-03,Cough Syrup,3,30.6,0,10
+2025-07-03,Flu Vaccines,3,30.6,0,0
+2025-07-03,Paracetamol,3,30.6,0,30
+2025-07-04,Amoxicillin,4,28.6,0,11
+2025-07-04,Bandages,4,28.6,0,4
+2025-07-04,Cough Syrup,4,28.6,0,14
+2025-07-04,Flu Vaccines,4,28.6,0,2
+2025-07-04,Paracetamol,4,28.6,0,33
+2025-07-05,Amoxicillin,5,32.9,0,10
+2025-07-05,Bandages,5,32.9,0,6
+2025-07-05,Cough Syrup,5,32.9,0,8
+2025-07-05,Flu Vaccines,5,32.9,0,1
+2025-07-05,Paracetamol,5,32.9,0,17
+2025-07-06,Amoxicillin,6,25.4,0,3
+2025-07-06,Bandages,6,25.4,0,1
+2025-07-06,Cough Syrup,6,25.4,0,2
+2025-07-06,Flu Vaccines,6,25.4,0,0
+2025-07-06,Paracetamol,6,25.4,0,5
+2025-07-07,Amoxicillin,0,34.8,0,14
+2025-07-07,Bandages,0,34.8,0,11
+2025-07-07,Cough Syrup,0,34.8,0,10
+2025-07-07,Flu Vaccines,0,34.8,0,1
+2025-07-07,Paracetamol,0,34.8,0,18
+2025-07-08,Amoxicillin,1,32.4,0,10
+2025-07-08,Bandages,1,32.4,0,7
+2025-07-08,Cough Syrup,1,32.4,0,15
+2025-07-08,Flu Vaccines,1,32.4,0,2
+2025-07-08,Paracetamol,1,32.4,0,54
+2025-07-09,Amoxicillin,2,32.1,0,19
+2025-07-09,Bandages,2,32.1,0,7
+2025-07-09,Cough Syrup,2,32.1,0,13
+2025-07-09,Flu Vaccines,2,32.1,0,4
+2025-07-09,Paracetamol,2,32.1,0,42
+2025-07-10,Amoxicillin,3,27.7,0,16
+2025-07-10,Bandages,3,27.7,0,12
+2025-07-10,Cough Syrup,3,27.7,0,14
+2025-07-10,Flu Vaccines,3,27.7,0,1
+2025-07-10,Paracetamol,3,27.7,0,39
+2025-07-11,Amoxicillin,4,26.3,0,10
+2025-07-11,Bandages,4,26.3,0,12
+2025-07-11,Cough Syrup,4,26.3,0,7
+2025-07-11,Flu Vaccines,4,26.3,0,2
+2025-07-11,Paracetamol,4,26.3,0,28
+2025-07-12,Amoxicillin,5,31.7,0,9
+2025-07-12,Bandages,5,31.7,0,0
+2025-07-12,Cough Syrup,5,31.7,0,6
+2025-07-12,Flu Vaccines,5,31.7,0,0
+2025-07-12,Paracetamol,5,31.7,0,9
+2025-07-13,Amoxicillin,6,34.1,0,2
+2025-07-13,Bandages,6,34.1,0,1
+2025-07-13,Cough Syrup,6,34.1,0,1
+2025-07-13,Flu Vaccines,6,34.1,0,1
+2025-07-13,Paracetamol,6,34.1,0,12
+2025-07-14,Amoxicillin,0,34.0,0,23
+2025-07-14,Bandages,0,34.0,0,9
+2025-07-14,Cough Syrup,0,34.0,0,7
+2025-07-14,Flu Vaccines,0,34.0,0,0
+2025-07-14,Paracetamol,0,34.0,0,13
+2025-07-15,Amoxicillin,1,32.0,0,20
+2025-07-15,Bandages,1,32.0,0,5
+2025-07-15,Cough Syrup,1,32.0,0,13
+2025-07-15,Flu Vaccines,1,32.0,0,0
+2025-07-15,Paracetamol,1,32.0,0,18
+2025-07-16,Amoxicillin,2,21.9,0,15
+2025-07-16,Bandages,2,21.9,0,7
+2025-07-16,Cough Syrup,2,21.9,0,8
+2025-07-16,Flu Vaccines,2,21.9,0,1
+2025-07-16,Paracetamol,2,21.9,0,37
+2025-07-17,Amoxicillin,3,28.5,0,8
+2025-07-17,Bandages,3,28.5,0,8
+2025-07-17,Cough Syrup,3,28.5,0,11
+2025-07-17,Flu Vaccines,3,28.5,0,3
+2025-07-17,Paracetamol,3,28.5,0,22
+2025-07-18,Amoxicillin,4,26.0,0,14
+2025-07-18,Bandages,4,26.0,0,3
+2025-07-18,Cough Syrup,4,26.0,0,15
+2025-07-18,Flu Vaccines,4,26.0,0,2
+2025-07-18,Paracetamol,4,26.0,0,8
+2025-07-19,Amoxicillin,5,27.7,0,9
+2025-07-19,Bandages,5,27.7,0,1
+2025-07-19,Cough Syrup,5,27.7,0,4
+2025-07-19,Flu Vaccines,5,27.7,0,0
+2025-07-19,Paracetamol,5,27.7,0,25
+2025-07-20,Amoxicillin,6,30.4,0,5
+2025-07-20,Bandages,6,30.4,0,1
+2025-07-20,Cough Syrup,6,30.4,0,2
+2025-07-20,Flu Vaccines,6,30.4,0,0
+2025-07-20,Paracetamol,6,30.4,0,6
+2025-07-21,Amoxicillin,0,26.7,0,19
+2025-07-21,Bandages,0,26.7,0,11
+2025-07-21,Cough Syrup,0,26.7,0,6
+2025-07-21,Flu Vaccines,0,26.7,0,2
+2025-07-21,Paracetamol,0,26.7,0,32
+2025-07-22,Amoxicillin,1,32.7,0,12
+2025-07-22,Bandages,1,32.7,0,5
+2025-07-22,Cough Syrup,1,32.7,0,6
+2025-07-22,Flu Vaccines,1,32.7,0,1
+2025-07-22,Paracetamol,1,32.7,0,40
+2025-07-23,Amoxicillin,2,22.9,0,17
+2025-07-23,Bandages,2,22.9,0,7
+2025-07-23,Cough Syrup,2,22.9,0,1
+2025-07-23,Flu Vaccines,2,22.9,0,0
+2025-07-23,Paracetamol,2,22.9,0,11
+2025-07-24,Amoxicillin,3,29.4,0,13
+2025-07-24,Bandages,3,29.4,0,6
+2025-07-24,Cough Syrup,3,29.4,0,11
+2025-07-24,Flu Vaccines,3,29.4,0,0
+2025-07-24,Paracetamol,3,29.4,0,19
+2025-07-25,Amoxicillin,4,31.3,0,10
+2025-07-25,Bandages,4,31.3,0,6
+2025-07-25,Cough Syrup,4,31.3,0,12
+2025-07-25,Flu Vaccines,4,31.3,0,4
+2025-07-25,Paracetamol,4,31.3,0,31
+2025-07-26,Amoxicillin,5,31.0,0,8
+2025-07-26,Bandages,5,31.0,0,5
+2025-07-26,Cough Syrup,5,31.0,0,5
+2025-07-26,Flu Vaccines,5,31.0,0,0
+2025-07-26,Paracetamol,5,31.0,0,18
+2025-07-27,Amoxicillin,6,26.0,0,1
+2025-07-27,Bandages,6,26.0,0,1
+2025-07-27,Cough Syrup,6,26.0,0,1
+2025-07-27,Flu Vaccines,6,26.0,0,0
+2025-07-27,Paracetamol,6,26.0,0,3
+2025-07-28,Amoxicillin,0,26.4,0,17
+2025-07-28,Bandages,0,26.4,0,10
+2025-07-28,Cough Syrup,0,26.4,0,12
+2025-07-28,Flu Vaccines,0,26.4,0,0
+2025-07-28,Paracetamol,0,26.4,0,30
+2025-07-29,Amoxicillin,1,26.0,0,17
+2025-07-29,Bandages,1,26.0,0,2
+2025-07-29,Cough Syrup,1,26.0,0,4
+2025-07-29,Flu Vaccines,1,26.0,0,2
+2025-07-29,Paracetamol,1,26.0,0,21
+2025-07-30,Amoxicillin,2,28.5,0,14
+2025-07-30,Bandages,2,28.5,0,8
+2025-07-30,Cough Syrup,2,28.5,0,8
+2025-07-30,Flu Vaccines,2,28.5,0,0
+2025-07-30,Paracetamol,2,28.5,0,26
+2025-07-31,Amoxicillin,3,29.8,0,15
+2025-07-31,Bandages,3,29.8,0,9
+2025-07-31,Cough Syrup,3,29.8,0,5
+2025-07-31,Flu Vaccines,3,29.8,0,4
+2025-07-31,Paracetamol,3,29.8,0,23
+2025-08-01,Amoxicillin,4,34.7,0,17
+2025-08-01,Bandages,4,34.7,0,3
+2025-08-01,Cough Syrup,4,34.7,0,14
+2025-08-01,Flu Vaccines,4,34.7,0,0
+2025-08-01,Paracetamol,4,34.7,0,27
+2025-08-02,Amoxicillin,5,26.1,0,7
+2025-08-02,Bandages,5,26.1,0,4
+2025-08-02,Cough Syrup,5,26.1,0,3
+2025-08-02,Flu Vaccines,5,26.1,0,1
+2025-08-02,Paracetamol,5,26.1,0,25
+2025-08-03,Amoxicillin,6,27.5,0,2
+2025-08-03,Bandages,6,27.5,0,2
+2025-08-03,Cough Syrup,6,27.5,0,3
+2025-08-03,Flu Vaccines,6,27.5,0,0
+2025-08-03,Paracetamol,6,27.5,0,7
+2025-08-04,Amoxicillin,0,34.4,0,12
+2025-08-04,Bandages,0,34.4,0,9
+2025-08-04,Cough Syrup,0,34.4,0,7
+2025-08-04,Flu Vaccines,0,34.4,0,0
+2025-08-04,Paracetamol,0,34.4,0,28
+2025-08-05,Amoxicillin,1,35.2,0,9
+2025-08-05,Bandages,1,35.2,0,9
+2025-08-05,Cough Syrup,1,35.2,0,4
+2025-08-05,Flu Vaccines,1,35.2,0,1
+2025-08-05,Paracetamol,1,35.2,0,26
+2025-08-06,Amoxicillin,2,27.1,0,14
+2025-08-06,Bandages,2,27.1,0,7
+2025-08-06,Cough Syrup,2,27.1,0,9
+2025-08-06,Flu Vaccines,2,27.1,0,0
+2025-08-06,Paracetamol,2,27.1,0,25
+2025-08-07,Amoxicillin,3,28.5,0,11
+2025-08-07,Bandages,3,28.5,0,10
+2025-08-07,Cough Syrup,3,28.5,0,10
+2025-08-07,Flu Vaccines,3,28.5,0,5
+2025-08-07,Paracetamol,3,28.5,0,33
+2025-08-08,Amoxicillin,4,24.4,0,15
+2025-08-08,Bandages,4,24.4,0,11
+2025-08-08,Cough Syrup,4,24.4,0,7
+2025-08-08,Flu Vaccines,4,24.4,0,0
+2025-08-08,Paracetamol,4,24.4,0,19
+2025-08-09,Amoxicillin,5,33.8,0,9
+2025-08-09,Bandages,5,33.8,0,5
+2025-08-09,Cough Syrup,5,33.8,0,6
+2025-08-09,Flu Vaccines,5,33.8,0,0
+2025-08-09,Paracetamol,5,33.8,0,8
+2025-08-10,Amoxicillin,6,22.6,0,2
+2025-08-10,Bandages,6,22.6,0,1
+2025-08-10,Cough Syrup,6,22.6,0,0
+2025-08-10,Flu Vaccines,6,22.6,0,0
+2025-08-10,Paracetamol,6,22.6,0,5
+2025-08-11,Amoxicillin,0,30.6,0,19
+2025-08-11,Bandages,0,30.6,0,2
+2025-08-11,Cough Syrup,0,30.6,0,6
+2025-08-11,Flu Vaccines,0,30.6,0,3
+2025-08-11,Paracetamol,0,30.6,0,36
+2025-08-12,Amoxicillin,1,28.4,0,20
+2025-08-12,Bandages,1,28.4,0,9
+2025-08-12,Cough Syrup,1,28.4,0,11
+2025-08-12,Flu Vaccines,1,28.4,0,3
+2025-08-12,Paracetamol,1,28.4,0,43
+2025-08-13,Amoxicillin,2,27.8,0,14
+2025-08-13,Bandages,2,27.8,0,7
+2025-08-13,Cough Syrup,2,27.8,0,16
+2025-08-13,Flu Vaccines,2,27.8,0,0
+2025-08-13,Paracetamol,2,27.8,0,46
+2025-08-14,Amoxicillin,3,35.3,0,7
+2025-08-14,Bandages,3,35.3,0,8
+2025-08-14,Cough Syrup,3,35.3,0,4
+2025-08-14,Flu Vaccines,3,35.3,0,0
+2025-08-14,Paracetamol,3,35.3,0,35
+2025-08-15,Amoxicillin,4,34.0,0,10
+2025-08-15,Bandages,4,34.0,0,9
+2025-08-15,Cough Syrup,4,34.0,0,9
+2025-08-15,Flu Vaccines,4,34.0,0,1
+2025-08-15,Paracetamol,4,34.0,0,15
+2025-08-16,Amoxicillin,5,33.8,0,8
+2025-08-16,Bandages,5,33.8,0,1
+2025-08-16,Cough Syrup,5,33.8,0,5
+2025-08-16,Flu Vaccines,5,33.8,0,1
+2025-08-16,Paracetamol,5,33.8,0,29
+2025-08-17,Amoxicillin,6,28.9,0,2
+2025-08-17,Bandages,6,28.9,0,1
+2025-08-17,Cough Syrup,6,28.9,0,1
+2025-08-17,Flu Vaccines,6,28.9,0,0
+2025-08-17,Paracetamol,6,28.9,0,7
+2025-08-18,Amoxicillin,0,32.7,0,22
+2025-08-18,Bandages,0,32.7,0,9
+2025-08-18,Cough Syrup,0,32.7,0,10
+2025-08-18,Flu Vaccines,0,32.7,0,3
+2025-08-18,Paracetamol,0,32.7,0,38
+2025-08-19,Amoxicillin,1,35.0,0,8
+2025-08-19,Bandages,1,35.0,0,11
+2025-08-19,Cough Syrup,1,35.0,0,11
+2025-08-19,Flu Vaccines,1,35.0,0,0
+2025-08-19,Paracetamol,1,35.0,0,26
+2025-08-20,Amoxicillin,2,27.6,0,3
+2025-08-20,Bandages,2,27.6,0,9
+2025-08-20,Cough Syrup,2,27.6,0,12
+2025-08-20,Flu Vaccines,2,27.6,0,3
+2025-08-20,Paracetamol,2,27.6,0,25
+2025-08-21,Amoxicillin,3,28.9,0,8
+2025-08-21,Bandages,3,28.9,0,9
+2025-08-21,Cough Syrup,3,28.9,0,18
+2025-08-21,Flu Vaccines,3,28.9,0,0
+2025-08-21,Paracetamol,3,28.9,0,35
+2025-08-22,Amoxicillin,4,27.7,0,11
+2025-08-22,Bandages,4,27.7,0,8
+2025-08-22,Cough Syrup,4,27.7,0,14
+2025-08-22,Flu Vaccines,4,27.7,0,1
+2025-08-22,Paracetamol,4,27.7,0,29
+2025-08-23,Amoxicillin,5,27.1,0,14
+2025-08-23,Bandages,5,27.1,0,5
+2025-08-23,Cough Syrup,5,27.1,0,4
+2025-08-23,Flu Vaccines,5,27.1,0,2
+2025-08-23,Paracetamol,5,27.1,0,18
+2025-08-24,Amoxicillin,6,31.2,0,1
+2025-08-24,Bandages,6,31.2,0,0
+2025-08-24,Cough Syrup,6,31.2,0,1
+2025-08-24,Flu Vaccines,6,31.2,0,0
+2025-08-24,Paracetamol,6,31.2,0,10
+2025-08-25,Amoxicillin,0,31.4,0,15
+2025-08-25,Bandages,0,31.4,0,12
+2025-08-25,Cough Syrup,0,31.4,0,12
+2025-08-25,Flu Vaccines,0,31.4,0,2
+2025-08-25,Paracetamol,0,31.4,0,33
+2025-08-26,Amoxicillin,1,32.3,0,9
+2025-08-26,Bandages,1,32.3,0,4
+2025-08-26,Cough Syrup,1,32.3,0,22
+2025-08-26,Flu Vaccines,1,32.3,0,5
+2025-08-26,Paracetamol,1,32.3,0,43
+2025-08-27,Amoxicillin,2,31.0,0,4
+2025-08-27,Bandages,2,31.0,0,5
+2025-08-27,Cough Syrup,2,31.0,0,17
+2025-08-27,Flu Vaccines,2,31.0,0,0
+2025-08-27,Paracetamol,2,31.0,0,35
+2025-08-28,Amoxicillin,3,23.2,0,12
+2025-08-28,Bandages,3,23.2,0,8
+2025-08-28,Cough Syrup,3,23.2,0,1
+2025-08-28,Flu Vaccines,3,23.2,0,3
+2025-08-28,Paracetamol,3,23.2,0,10
+2025-08-29,Amoxicillin,4,21.7,0,13
+2025-08-29,Bandages,4,21.7,0,7
+2025-08-29,Cough Syrup,4,21.7,0,6
+2025-08-29,Flu Vaccines,4,21.7,0,2
+2025-08-29,Paracetamol,4,21.7,0,46
+2025-08-30,Amoxicillin,5,30.1,0,10
+2025-08-30,Bandages,5,30.1,0,3
+2025-08-30,Cough Syrup,5,30.1,0,0
+2025-08-30,Flu Vaccines,5,30.1,0,1
+2025-08-30,Paracetamol,5,30.1,0,9
+2025-08-31,Amoxicillin,6,28.0,0,3
+2025-08-31,Bandages,6,28.0,0,1
+2025-08-31,Cough Syrup,6,28.0,0,1
+2025-08-31,Flu Vaccines,6,28.0,0,0
+2025-08-31,Paracetamol,6,28.0,0,6
+2025-09-01,Amoxicillin,0,19.5,0,12
+2025-09-01,Bandages,0,19.5,0,7
+2025-09-01,Cough Syrup,0,19.5,0,7
+2025-09-01,Flu Vaccines,0,19.5,0,3
+2025-09-01,Paracetamol,0,19.5,0,25
+2025-09-02,Amoxicillin,1,33.0,0,7
+2025-09-02,Bandages,1,33.0,0,7
+2025-09-02,Cough Syrup,1,33.0,0,7
+2025-09-02,Flu Vaccines,1,33.0,0,3
+2025-09-02,Paracetamol,1,33.0,0,11
+2025-09-03,Amoxicillin,2,15.3,0,13
+2025-09-03,Bandages,2,15.3,0,3
+2025-09-03,Cough Syrup,2,15.3,0,13
+2025-09-03,Flu Vaccines,2,15.3,0,3
+2025-09-03,Paracetamol,2,15.3,0,45
+2025-09-04,Amoxicillin,3,13.1,0,0
+2025-09-04,Bandages,3,13.1,0,7
+2025-09-04,Cough Syrup,3,13.1,0,12
+2025-09-04,Flu Vaccines,3,13.1,0,3
+2025-09-04,Paracetamol,3,13.1,0,21
+2025-09-05,Amoxicillin,4,19.9,0,11
+2025-09-05,Bandages,4,19.9,0,8
+2025-09-05,Cough Syrup,4,19.9,0,3
+2025-09-05,Flu Vaccines,4,19.9,0,3
+2025-09-05,Paracetamol,4,19.9,0,32
+2025-09-06,Amoxicillin,5,25.6,0,7
+2025-09-06,Bandages,5,25.6,0,5
+2025-09-06,Cough Syrup,5,25.6,0,5
+2025-09-06,Flu Vaccines,5,25.6,0,4
+2025-09-06,Paracetamol,5,25.6,0,22
+2025-09-07,Amoxicillin,6,15.6,0,3
+2025-09-07,Bandages,6,15.6,0,1
+2025-09-07,Cough Syrup,6,15.6,0,1
+2025-09-07,Flu Vaccines,6,15.6,0,0
+2025-09-07,Paracetamol,6,15.6,0,6
+2025-09-08,Amoxicillin,0,28.8,0,17
+2025-09-08,Bandages,0,28.8,0,8
+2025-09-08,Cough Syrup,0,28.8,0,12
+2025-09-08,Flu Vaccines,0,28.8,0,1
+2025-09-08,Paracetamol,0,28.8,0,39
+2025-09-09,Amoxicillin,1,14.3,0,16
+2025-09-09,Bandages,1,14.3,0,8
+2025-09-09,Cough Syrup,1,14.3,0,10
+2025-09-09,Flu Vaccines,1,14.3,0,0
+2025-09-09,Paracetamol,1,14.3,0,20
+2025-09-10,Amoxicillin,2,12.9,0,20
+2025-09-10,Bandages,2,12.9,0,7
+2025-09-10,Cough Syrup,2,12.9,0,3
+2025-09-10,Flu Vaccines,2,12.9,0,0
+2025-09-10,Paracetamol,2,12.9,0,35
+2025-09-11,Amoxicillin,3,17.3,0,15
+2025-09-11,Bandages,3,17.3,0,7
+2025-09-11,Cough Syrup,3,17.3,0,8
+2025-09-11,Flu Vaccines,3,17.3,0,0
+2025-09-11,Paracetamol,3,17.3,0,26
+2025-09-12,Amoxicillin,4,23.8,0,11
+2025-09-12,Bandages,4,23.8,0,7
+2025-09-12,Cough Syrup,4,23.8,0,15
+2025-09-12,Flu Vaccines,4,23.8,0,0
+2025-09-12,Paracetamol,4,23.8,0,46
+2025-09-13,Amoxicillin,5,25.2,0,9
+2025-09-13,Bandages,5,25.2,0,7
+2025-09-13,Cough Syrup,5,25.2,0,3
+2025-09-13,Flu Vaccines,5,25.2,0,0
+2025-09-13,Paracetamol,5,25.2,0,24
+2025-09-14,Amoxicillin,6,19.3,0,3
+2025-09-14,Bandages,6,19.3,0,1
+2025-09-14,Cough Syrup,6,19.3,0,2
+2025-09-14,Flu Vaccines,6,19.3,0,0
+2025-09-14,Paracetamol,6,19.3,0,8
+2025-09-15,Amoxicillin,0,19.2,0,15
+2025-09-15,Bandages,0,19.2,0,10
+2025-09-15,Cough Syrup,0,19.2,0,15
+2025-09-15,Flu Vaccines,0,19.2,0,0
+2025-09-15,Paracetamol,0,19.2,0,14
+2025-09-16,Amoxicillin,1,19.6,0,16
+2025-09-16,Bandages,1,19.6,0,8
+2025-09-16,Cough Syrup,1,19.6,0,9
+2025-09-16,Flu Vaccines,1,19.6,0,4
+2025-09-16,Paracetamol,1,19.6,0,27
+2025-09-17,Amoxicillin,2,26.9,0,11
+2025-09-17,Bandages,2,26.9,0,6
+2025-09-17,Cough Syrup,2,26.9,0,16
+2025-09-17,Flu Vaccines,2,26.9,0,0
+2025-09-17,Paracetamol,2,26.9,0,45
+2025-09-18,Amoxicillin,3,18.5,0,5
+2025-09-18,Bandages,3,18.5,0,7
+2025-09-18,Cough Syrup,3,18.5,0,7
+2025-09-18,Flu Vaccines,3,18.5,0,0
+2025-09-18,Paracetamol,3,18.5,0,25
+2025-09-19,Amoxicillin,4,25.7,0,16
+2025-09-19,Bandages,4,25.7,0,13
+2025-09-19,Cough Syrup,4,25.7,0,6
+2025-09-19,Flu Vaccines,4,25.7,0,0
+2025-09-19,Paracetamol,4,25.7,0,33
+2025-09-20,Amoxicillin,5,15.6,0,13
+2025-09-20,Bandages,5,15.6,0,7
+2025-09-20,Cough Syrup,5,15.6,0,8
+2025-09-20,Flu Vaccines,5,15.6,0,1
+2025-09-20,Paracetamol,5,15.6,0,16
+2025-09-21,Amoxicillin,6,19.3,0,2
+2025-09-21,Bandages,6,19.3,0,1
+2025-09-21,Cough Syrup,6,19.3,0,2
+2025-09-21,Flu Vaccines,6,19.3,0,0
+2025-09-21,Paracetamol,6,19.3,0,5
+2025-09-22,Amoxicillin,0,23.7,0,23
+2025-09-22,Bandages,0,23.7,0,0
+2025-09-22,Cough Syrup,0,23.7,0,3
+2025-09-22,Flu Vaccines,0,23.7,0,2
+2025-09-22,Paracetamol,0,23.7,0,33
+2025-09-23,Amoxicillin,1,22.3,0,14
+2025-09-23,Bandages,1,22.3,0,11
+2025-09-23,Cough Syrup,1,22.3,0,9
+2025-09-23,Flu Vaccines,1,22.3,0,2
+2025-09-23,Paracetamol,1,22.3,0,24
+2025-09-24,Amoxicillin,2,20.5,0,11
+2025-09-24,Bandages,2,20.5,0,6
+2025-09-24,Cough Syrup,2,20.5,0,12
+2025-09-24,Flu Vaccines,2,20.5,0,1
+2025-09-24,Paracetamol,2,20.5,0,39
+2025-09-25,Amoxicillin,3,16.1,0,15
+2025-09-25,Bandages,3,16.1,0,2
+2025-09-25,Cough Syrup,3,16.1,0,8
+2025-09-25,Flu Vaccines,3,16.1,0,2
+2025-09-25,Paracetamol,3,16.1,0,30
+2025-09-26,Amoxicillin,4,17.4,0,18
+2025-09-26,Bandages,4,17.4,0,5
+2025-09-26,Cough Syrup,4,17.4,0,13
+2025-09-26,Flu Vaccines,4,17.4,0,1
+2025-09-26,Paracetamol,4,17.4,0,27
+2025-09-27,Amoxicillin,5,10.7,0,8
+2025-09-27,Bandages,5,10.7,0,5
+2025-09-27,Cough Syrup,5,10.7,0,5
+2025-09-27,Flu Vaccines,5,10.7,0,0
+2025-09-27,Paracetamol,5,10.7,0,15
+2025-09-28,Amoxicillin,6,19.9,0,3
+2025-09-28,Bandages,6,19.9,0,1
+2025-09-28,Cough Syrup,6,19.9,0,2
+2025-09-28,Flu Vaccines,6,19.9,0,0
+2025-09-28,Paracetamol,6,19.9,0,9
+2025-09-29,Amoxicillin,0,14.9,0,12
+2025-09-29,Bandages,0,14.9,0,5
+2025-09-29,Cough Syrup,0,14.9,0,19
+2025-09-29,Flu Vaccines,0,14.9,0,2
+2025-09-29,Paracetamol,0,14.9,0,25
+2025-09-30,Amoxicillin,1,17.5,0,14
+2025-09-30,Bandages,1,17.5,0,0
+2025-09-30,Cough Syrup,1,17.5,0,15
+2025-09-30,Flu Vaccines,1,17.5,0,2
+2025-09-30,Paracetamol,1,17.5,0,33
+2025-10-01,Amoxicillin,2,5.7,0,12
+2025-10-01,Bandages,2,5.7,0,9
+2025-10-01,Cough Syrup,2,5.7,0,0
+2025-10-01,Flu Vaccines,2,5.7,0,0
+2025-10-01,Paracetamol,2,5.7,0,40
+2025-10-02,Amoxicillin,3,21.5,0,9
+2025-10-02,Bandages,3,21.5,0,6
+2025-10-02,Cough Syrup,3,21.5,0,10
+2025-10-02,Flu Vaccines,3,21.5,0,0
+2025-10-02,Paracetamol,3,21.5,0,20
+2025-10-03,Amoxicillin,4,23.0,0,0
+2025-10-03,Bandages,4,23.0,0,6
+2025-10-03,Cough Syrup,4,23.0,0,8
+2025-10-03,Flu Vaccines,4,23.0,0,0
+2025-10-03,Paracetamol,4,23.0,0,21
+2025-10-04,Amoxicillin,5,24.8,0,3
+2025-10-04,Bandages,5,24.8,0,3
+2025-10-04,Cough Syrup,5,24.8,0,10
+2025-10-04,Flu Vaccines,5,24.8,0,1
+2025-10-04,Paracetamol,5,24.8,0,18
+2025-10-05,Amoxicillin,6,21.9,0,1
+2025-10-05,Bandages,6,21.9,0,2
+2025-10-05,Cough Syrup,6,21.9,0,1
+2025-10-05,Flu Vaccines,6,21.9,0,0
+2025-10-05,Paracetamol,6,21.9,0,1
+2025-10-06,Amoxicillin,0,11.8,0,17
+2025-10-06,Bandages,0,11.8,0,8
+2025-10-06,Cough Syrup,0,11.8,0,11
+2025-10-06,Flu Vaccines,0,11.8,0,2
+2025-10-06,Paracetamol,0,11.8,0,48
+2025-10-07,Amoxicillin,1,10.6,0,21
+2025-10-07,Bandages,1,10.6,0,4
+2025-10-07,Cough Syrup,1,10.6,0,3
+2025-10-07,Flu Vaccines,1,10.6,0,3
+2025-10-07,Paracetamol,1,10.6,0,23
+2025-10-08,Amoxicillin,2,28.6,0,13
+2025-10-08,Bandages,2,28.6,0,10
+2025-10-08,Cough Syrup,2,28.6,0,2
+2025-10-08,Flu Vaccines,2,28.6,0,1
+2025-10-08,Paracetamol,2,28.6,0,44
+2025-10-09,Amoxicillin,3,16.5,0,18
+2025-10-09,Bandages,3,16.5,0,14
+2025-10-09,Cough Syrup,3,16.5,0,10
+2025-10-09,Flu Vaccines,3,16.5,0,0
+2025-10-09,Paracetamol,3,16.5,0,30
+2025-10-10,Amoxicillin,4,23.0,0,14
+2025-10-10,Bandages,4,23.0,0,4
+2025-10-10,Cough Syrup,4,23.0,0,10
+2025-10-10,Flu Vaccines,4,23.0,0,2
+2025-10-10,Paracetamol,4,23.0,0,40
+2025-10-11,Amoxicillin,5,21.4,0,12
+2025-10-11,Bandages,5,21.4,0,3
+2025-10-11,Cough Syrup,5,21.4,0,5
+2025-10-11,Flu Vaccines,5,21.4,0,2
+2025-10-11,Paracetamol,5,21.4,0,12
+2025-10-12,Amoxicillin,6,26.0,0,2
+2025-10-12,Bandages,6,26.0,0,1
+2025-10-12,Cough Syrup,6,26.0,0,1
+2025-10-12,Flu Vaccines,6,26.0,0,0
+2025-10-12,Paracetamol,6,26.0,0,7
+2025-10-13,Amoxicillin,0,21.7,0,5
+2025-10-13,Bandages,0,21.7,0,6
+2025-10-13,Cough Syrup,0,21.7,0,9
+2025-10-13,Flu Vaccines,0,21.7,0,3
+2025-10-13,Paracetamol,0,21.7,0,18
+2025-10-14,Amoxicillin,1,11.8,0,9
+2025-10-14,Bandages,1,11.8,0,5
+2025-10-14,Cough Syrup,1,11.8,0,7
+2025-10-14,Flu Vaccines,1,11.8,0,1
+2025-10-14,Paracetamol,1,11.8,0,9
+2025-10-15,Amoxicillin,2,19.6,0,16
+2025-10-15,Bandages,2,19.6,0,10
+2025-10-15,Cough Syrup,2,19.6,0,14
+2025-10-15,Flu Vaccines,2,19.6,0,0
+2025-10-15,Paracetamol,2,19.6,0,50
+2025-10-16,Amoxicillin,3,15.3,0,16
+2025-10-16,Bandages,3,15.3,0,9
+2025-10-16,Cough Syrup,3,15.3,0,16
+2025-10-16,Flu Vaccines,3,15.3,0,2
+2025-10-16,Paracetamol,3,15.3,0,25
+2025-10-17,Amoxicillin,4,23.1,0,12
+2025-10-17,Bandages,4,23.1,0,3
+2025-10-17,Cough Syrup,4,23.1,0,14
+2025-10-17,Flu Vaccines,4,23.1,0,1
+2025-10-17,Paracetamol,4,23.1,0,15
+2025-10-18,Amoxicillin,5,13.7,0,9
+2025-10-18,Bandages,5,13.7,0,2
+2025-10-18,Cough Syrup,5,13.7,0,4
+2025-10-18,Flu Vaccines,5,13.7,0,0
+2025-10-18,Paracetamol,5,13.7,0,12
+2025-10-19,Amoxicillin,6,14.2,0,3
+2025-10-19,Bandages,6,14.2,0,2
+2025-10-19,Cough Syrup,6,14.2,0,1
+2025-10-19,Flu Vaccines,6,14.2,0,0
+2025-10-19,Paracetamol,6,14.2,0,3
+2025-10-20,Amoxicillin,0,18.8,0,12
+2025-10-20,Bandages,0,18.8,0,9
+2025-10-20,Cough Syrup,0,18.8,0,11
+2025-10-20,Flu Vaccines,0,18.8,0,0
+2025-10-20,Paracetamol,0,18.8,0,30
+2025-10-21,Amoxicillin,1,17.5,0,20
+2025-10-21,Bandages,1,17.5,0,6
+2025-10-21,Cough Syrup,1,17.5,0,10
+2025-10-21,Flu Vaccines,1,17.5,0,4
+2025-10-21,Paracetamol,1,17.5,0,18
+2025-10-22,Amoxicillin,2,19.9,0,14
+2025-10-22,Bandages,2,19.9,0,11
+2025-10-22,Cough Syrup,2,19.9,0,6
+2025-10-22,Flu Vaccines,2,19.9,0,0
+2025-10-22,Paracetamol,2,19.9,0,42
+2025-10-23,Amoxicillin,3,16.4,0,19
+2025-10-23,Bandages,3,16.4,0,4
+2025-10-23,Cough Syrup,3,16.4,0,12
+2025-10-23,Flu Vaccines,3,16.4,0,1
+2025-10-23,Paracetamol,3,16.4,0,46
+2025-10-24,Amoxicillin,4,24.5,0,15
+2025-10-24,Bandages,4,24.5,0,9
+2025-10-24,Cough Syrup,4,24.5,0,3
+2025-10-24,Flu Vaccines,4,24.5,0,0
+2025-10-24,Paracetamol,4,24.5,0,34
+2025-10-25,Amoxicillin,5,7.6,0,8
+2025-10-25,Bandages,5,7.6,0,6
+2025-10-25,Cough Syrup,5,7.6,0,10
+2025-10-25,Flu Vaccines,5,7.6,0,1
+2025-10-25,Paracetamol,5,7.6,0,23
+2025-10-26,Amoxicillin,6,16.1,0,3
+2025-10-26,Bandages,6,16.1,0,1
+2025-10-26,Cough Syrup,6,16.1,0,1
+2025-10-26,Flu Vaccines,6,16.1,0,0
+2025-10-26,Paracetamol,6,16.1,0,5
+2025-10-27,Amoxicillin,0,7.8,0,15
+2025-10-27,Bandages,0,7.8,0,10
+2025-10-27,Cough Syrup,0,7.8,0,11
+2025-10-27,Flu Vaccines,0,7.8,0,0
+2025-10-27,Paracetamol,0,7.8,0,27
+2025-10-28,Amoxicillin,1,21.4,0,13
+2025-10-28,Bandages,1,21.4,0,5
+2025-10-28,Cough Syrup,1,21.4,0,11
+2025-10-28,Flu Vaccines,1,21.4,0,3
+2025-10-28,Paracetamol,1,21.4,0,35
+2025-10-29,Amoxicillin,2,21.7,0,20
+2025-10-29,Bandages,2,21.7,0,8
+2025-10-29,Cough Syrup,2,21.7,0,7
+2025-10-29,Flu Vaccines,2,21.7,0,6
+2025-10-29,Paracetamol,2,21.7,0,24
+2025-10-30,Amoxicillin,3,16.0,0,16
+2025-10-30,Bandages,3,16.0,0,8
+2025-10-30,Cough Syrup,3,16.0,0,5
+2025-10-30,Flu Vaccines,3,16.0,0,0
+2025-10-30,Paracetamol,3,16.0,0,12
+2025-10-31,Amoxicillin,4,26.0,0,18
+2025-10-31,Bandages,4,26.0,0,5
+2025-10-31,Cough Syrup,4,26.0,0,11
+2025-10-31,Flu Vaccines,4,26.0,0,6
+2025-10-31,Paracetamol,4,26.0,0,6
+2025-11-01,Amoxicillin,5,10.8,1,9
+2025-11-01,Bandages,5,10.8,1,2
+2025-11-01,Cough Syrup,5,10.8,1,11
+2025-11-01,Flu Vaccines,5,10.8,1,14
+2025-11-01,Paracetamol,5,10.8,1,13
+2025-11-02,Amoxicillin,6,10.7,1,3
+2025-11-02,Bandages,6,10.7,1,0
+2025-11-02,Cough Syrup,6,10.7,1,5
+2025-11-02,Flu Vaccines,6,10.7,1,6
+2025-11-02,Paracetamol,6,10.7,1,7
+2025-11-03,Amoxicillin,0,5.5,1,10
+2025-11-03,Bandages,0,5.5,1,9
+2025-11-03,Cough Syrup,0,5.5,1,24
+2025-11-03,Flu Vaccines,0,5.5,1,31
+2025-11-03,Paracetamol,0,5.5,1,40
+2025-11-04,Amoxicillin,1,9.4,1,19
+2025-11-04,Bandages,1,9.4,1,7
+2025-11-04,Cough Syrup,1,9.4,1,25
+2025-11-04,Flu Vaccines,1,9.4,1,28
+2025-11-04,Paracetamol,1,9.4,1,28
+2025-11-05,Amoxicillin,2,4.7,1,2
+2025-11-05,Bandages,2,4.7,1,1
+2025-11-05,Cough Syrup,2,4.7,1,15
+2025-11-05,Flu Vaccines,2,4.7,1,29
+2025-11-05,Paracetamol,2,4.7,1,32
+2025-11-06,Amoxicillin,3,16.8,1,9
+2025-11-06,Bandages,3,16.8,1,5
+2025-11-06,Cough Syrup,3,16.8,1,22
+2025-11-06,Flu Vaccines,3,16.8,1,24
+2025-11-06,Paracetamol,3,16.8,1,42
+2025-11-07,Amoxicillin,4,10.5,1,12
+2025-11-07,Bandages,4,10.5,1,10
+2025-11-07,Cough Syrup,4,10.5,1,19
+2025-11-07,Flu Vaccines,4,10.5,1,23
+2025-11-07,Paracetamol,4,10.5,1,12
+2025-11-08,Amoxicillin,5,15.9,1,8
+2025-11-08,Bandages,5,15.9,1,6
+2025-11-08,Cough Syrup,5,15.9,1,17
+2025-11-08,Flu Vaccines,5,15.9,1,12
+2025-11-08,Paracetamol,5,15.9,1,15
+2025-11-09,Amoxicillin,6,0.3,1,2
+2025-11-09,Bandages,6,0.3,1,1
+2025-11-09,Cough Syrup,6,0.3,1,5
+2025-11-09,Flu Vaccines,6,0.3,1,5
+2025-11-09,Paracetamol,6,0.3,1,4
+2025-11-10,Amoxicillin,0,15.7,1,16
+2025-11-10,Bandages,0,15.7,1,9
+2025-11-10,Cough Syrup,0,15.7,1,11
+2025-11-10,Flu Vaccines,0,15.7,1,21
+2025-11-10,Paracetamol,0,15.7,1,42
+2025-11-11,Amoxicillin,1,15.9,1,24
+2025-11-11,Bandages,1,15.9,1,9
+2025-11-11,Cough Syrup,1,15.9,1,24
+2025-11-11,Flu Vaccines,1,15.9,1,26
+2025-11-11,Paracetamol,1,15.9,1,38
+2025-11-12,Amoxicillin,2,10.5,1,16
+2025-11-12,Bandages,2,10.5,1,9
+2025-11-12,Cough Syrup,2,10.5,1,31
+2025-11-12,Flu Vaccines,2,10.5,1,36
+2025-11-12,Paracetamol,2,10.5,1,33
+2025-11-13,Amoxicillin,3,7.7,1,18
+2025-11-13,Bandages,3,7.7,1,9
+2025-11-13,Cough Syrup,3,7.7,1,21
+2025-11-13,Flu Vaccines,3,7.7,1,23
+2025-11-13,Paracetamol,3,7.7,1,16
+2025-11-14,Amoxicillin,4,9.8,1,7
+2025-11-14,Bandages,4,9.8,1,5
+2025-11-14,Cough Syrup,4,9.8,1,26
+2025-11-14,Flu Vaccines,4,9.8,1,30
+2025-11-14,Paracetamol,4,9.8,1,34
+2025-11-15,Amoxicillin,5,7.1,1,7
+2025-11-15,Bandages,5,7.1,1,2
+2025-11-15,Cough Syrup,5,7.1,1,11
+2025-11-15,Flu Vaccines,5,7.1,1,15
+2025-11-15,Paracetamol,5,7.1,1,23
+2025-11-16,Amoxicillin,6,5.2,1,1
+2025-11-16,Bandages,6,5.2,1,1
+2025-11-16,Cough Syrup,6,5.2,1,5
+2025-11-16,Flu Vaccines,6,5.2,1,5
+2025-11-16,Paracetamol,6,5.2,1,2
+2025-11-17,Amoxicillin,0,13.3,1,14
+2025-11-17,Bandages,0,13.3,1,5
+2025-11-17,Cough Syrup,0,13.3,1,20
+2025-11-17,Flu Vaccines,0,13.3,1,26
+2025-11-17,Paracetamol,0,13.3,1,18
+2025-11-18,Amoxicillin,1,7.9,1,16
+2025-11-18,Bandages,1,7.9,1,14
+2025-11-18,Cough Syrup,1,7.9,1,31
+2025-11-18,Flu Vaccines,1,7.9,1,22
+2025-11-18,Paracetamol,1,7.9,1,33
+2025-11-19,Amoxicillin,2,15.9,1,20
+2025-11-19,Bandages,2,15.9,1,10
+2025-11-19,Cough Syrup,2,15.9,1,23
+2025-11-19,Flu Vaccines,2,15.9,1,28
+2025-11-19,Paracetamol,2,15.9,1,16
+2025-11-20,Amoxicillin,3,12.5,1,10
+2025-11-20,Bandages,3,12.5,1,10
+2025-11-20,Cough Syrup,3,12.5,1,22
+2025-11-20,Flu Vaccines,3,12.5,1,26
+2025-11-20,Paracetamol,3,12.5,1,37
+2025-11-21,Amoxicillin,4,4.8,1,24
+2025-11-21,Bandages,4,4.8,1,7
+2025-11-21,Cough Syrup,4,4.8,1,26
+2025-11-21,Flu Vaccines,4,4.8,1,27
+2025-11-21,Paracetamol,4,4.8,1,11
+2025-11-22,Amoxicillin,5,12.1,1,8
+2025-11-22,Bandages,5,12.1,1,4
+2025-11-22,Cough Syrup,5,12.1,1,12
+2025-11-22,Flu Vaccines,5,12.1,1,19
+2025-11-22,Paracetamol,5,12.1,1,26
+2025-11-23,Amoxicillin,6,5.0,1,3
+2025-11-23,Bandages,6,5.0,1,1
+2025-11-23,Cough Syrup,6,5.0,1,5
+2025-11-23,Flu Vaccines,6,5.0,1,4
+2025-11-23,Paracetamol,6,5.0,1,4
+2025-11-24,Amoxicillin,0,14.0,1,12
+2025-11-24,Bandages,0,14.0,1,7
+2025-11-24,Cough Syrup,0,14.0,1,22
+2025-11-24,Flu Vaccines,0,14.0,1,31
+2025-11-24,Paracetamol,0,14.0,1,38
+2025-11-25,Amoxicillin,1,14.0,1,12
+2025-11-25,Bandages,1,14.0,1,10
+2025-11-25,Cough Syrup,1,14.0,1,29
+2025-11-25,Flu Vaccines,1,14.0,1,20
+2025-11-25,Paracetamol,1,14.0,1,22
+2025-11-26,Amoxicillin,2,11.0,1,10
+2025-11-26,Bandages,2,11.0,1,10
+2025-11-26,Cough Syrup,2,11.0,1,34
+2025-11-26,Flu Vaccines,2,11.0,1,27
+2025-11-26,Paracetamol,2,11.0,1,29
+2025-11-27,Amoxicillin,3,7.7,1,9
+2025-11-27,Bandages,3,7.7,1,8
+2025-11-27,Cough Syrup,3,7.7,1,16
+2025-11-27,Flu Vaccines,3,7.7,1,30
+2025-11-27,Paracetamol,3,7.7,1,23
+2025-11-28,Amoxicillin,4,8.6,1,21
+2025-11-28,Bandages,4,8.6,1,11
+2025-11-28,Cough Syrup,4,8.6,1,36
+2025-11-28,Flu Vaccines,4,8.6,1,28
+2025-11-28,Paracetamol,4,8.6,1,34
+2025-11-29,Amoxicillin,5,4.5,1,8
+2025-11-29,Bandages,5,4.5,1,1
+2025-11-29,Cough Syrup,5,4.5,1,13
+2025-11-29,Flu Vaccines,5,4.5,1,18
+2025-11-29,Paracetamol,5,4.5,1,15
+2025-11-30,Amoxicillin,6,17.2,1,2
+2025-11-30,Bandages,6,17.2,1,1
+2025-11-30,Cough Syrup,6,17.2,1,2
+2025-11-30,Flu Vaccines,6,17.2,1,6
+2025-11-30,Paracetamol,6,17.2,1,6
+2025-12-01,Amoxicillin,0,7.7,1,23
+2025-12-01,Bandages,0,7.7,1,5
+2025-12-01,Cough Syrup,0,7.7,1,26
+2025-12-01,Flu Vaccines,0,7.7,1,30
+2025-12-01,Paracetamol,0,7.7,1,21
+2025-12-02,Amoxicillin,1,15.5,1,17
+2025-12-02,Bandages,1,15.5,1,0
+2025-12-02,Cough Syrup,1,15.5,1,24
+2025-12-02,Flu Vaccines,1,15.5,1,27
+2025-12-02,Paracetamol,1,15.5,1,14
+2025-12-03,Amoxicillin,2,12.6,1,8
+2025-12-03,Bandages,2,12.6,1,12
+2025-12-03,Cough Syrup,2,12.6,1,24
+2025-12-03,Flu Vaccines,2,12.6,1,25
+2025-12-03,Paracetamol,2,12.6,1,9
+2025-12-04,Amoxicillin,3,13.2,1,23
+2025-12-04,Bandages,3,13.2,1,9
+2025-12-04,Cough Syrup,3,13.2,1,22
+2025-12-04,Flu Vaccines,3,13.2,1,18
+2025-12-04,Paracetamol,3,13.2,1,16
+2025-12-05,Amoxicillin,4,10.2,1,18
+2025-12-05,Bandages,4,10.2,1,5
+2025-12-05,Cough Syrup,4,10.2,1,22
+2025-12-05,Flu Vaccines,4,10.2,1,29
+2025-12-05,Paracetamol,4,10.2,1,37
+2025-12-06,Amoxicillin,5,17.4,1,8
+2025-12-06,Bandages,5,17.4,1,7
+2025-12-06,Cough Syrup,5,17.4,1,12
+2025-12-06,Flu Vaccines,5,17.4,1,17
+2025-12-06,Paracetamol,5,17.4,1,14
+2025-12-07,Amoxicillin,6,5.7,1,3
+2025-12-07,Bandages,6,5.7,1,1
+2025-12-07,Cough Syrup,6,5.7,1,4
+2025-12-07,Flu Vaccines,6,5.7,1,5
+2025-12-07,Paracetamol,6,5.7,1,7
+2025-12-08,Amoxicillin,0,13.5,1,20
+2025-12-08,Bandages,0,13.5,1,5
+2025-12-08,Cough Syrup,0,13.5,1,30
+2025-12-08,Flu Vaccines,0,13.5,1,26
+2025-12-08,Paracetamol,0,13.5,1,38
+2025-12-09,Amoxicillin,1,4.8,1,18
+2025-12-09,Bandages,1,4.8,1,8
+2025-12-09,Cough Syrup,1,4.8,1,22
+2025-12-09,Flu Vaccines,1,4.8,1,17
+2025-12-09,Paracetamol,1,4.8,1,22
+2025-12-10,Amoxicillin,2,14.8,1,17
+2025-12-10,Bandages,2,14.8,1,6
+2025-12-10,Cough Syrup,2,14.8,1,30
+2025-12-10,Flu Vaccines,2,14.8,1,29
+2025-12-10,Paracetamol,2,14.8,1,28
+2025-12-11,Amoxicillin,3,5.0,1,7
+2025-12-11,Bandages,3,5.0,1,6
+2025-12-11,Cough Syrup,3,5.0,1,31
+2025-12-11,Flu Vaccines,3,5.0,1,31
+2025-12-11,Paracetamol,3,5.0,1,36
+2025-12-12,Amoxicillin,4,14.8,1,14
+2025-12-12,Bandages,4,14.8,1,7
+2025-12-12,Cough Syrup,4,14.8,1,26
+2025-12-12,Flu Vaccines,4,14.8,1,30
+2025-12-12,Paracetamol,4,14.8,1,23
+2025-12-13,Amoxicillin,5,21.9,1,12
+2025-12-13,Bandages,5,21.9,1,4
+2025-12-13,Cough Syrup,5,21.9,1,16
+2025-12-13,Flu Vaccines,5,21.9,1,19
+2025-12-13,Paracetamol,5,21.9,1,22
+2025-12-14,Amoxicillin,6,9.6,1,0
+2025-12-14,Bandages,6,9.6,1,1
+2025-12-14,Cough Syrup,6,9.6,1,3
+2025-12-14,Flu Vaccines,6,9.6,1,6
+2025-12-14,Paracetamol,6,9.6,1,6
+2025-12-15,Amoxicillin,0,4.8,1,17
+2025-12-15,Bandages,0,4.8,1,10
+2025-12-15,Cough Syrup,0,4.8,1,18
+2025-12-15,Flu Vaccines,0,4.8,1,24
+2025-12-15,Paracetamol,0,4.8,1,32
+2025-12-16,Amoxicillin,1,12.6,1,17
+2025-12-16,Bandages,1,12.6,1,4
+2025-12-16,Cough Syrup,1,12.6,1,24
+2025-12-16,Flu Vaccines,1,12.6,1,35
+2025-12-16,Paracetamol,1,12.6,1,30
+2025-12-17,Amoxicillin,2,5.7,1,15
+2025-12-17,Bandages,2,5.7,1,8
+2025-12-17,Cough Syrup,2,5.7,1,20
+2025-12-17,Flu Vaccines,2,5.7,1,25
+2025-12-17,Paracetamol,2,5.7,1,41
+2025-12-18,Amoxicillin,3,2.5,1,21
+2025-12-18,Bandages,3,2.5,1,9
+2025-12-18,Cough Syrup,3,2.5,1,31
+2025-12-18,Flu Vaccines,3,2.5,1,22
+2025-12-18,Paracetamol,3,2.5,1,23
+2025-12-19,Amoxicillin,4,5.0,1,16
+2025-12-19,Bandages,4,5.0,1,5
+2025-12-19,Cough Syrup,4,5.0,1,28
+2025-12-19,Flu Vaccines,4,5.0,1,31
+2025-12-19,Paracetamol,4,5.0,1,18
+2025-12-20,Amoxicillin,5,13.2,1,9
+2025-12-20,Bandages,5,13.2,1,0
+2025-12-20,Cough Syrup,5,13.2,1,14
+2025-12-20,Flu Vaccines,5,13.2,1,17
+2025-12-20,Paracetamol,5,13.2,1,4
+2025-12-21,Amoxicillin,6,11.4,1,3
+2025-12-21,Bandages,6,11.4,1,1
+2025-12-21,Cough Syrup,6,11.4,1,5
+2025-12-21,Flu Vaccines,6,11.4,1,7
+2025-12-21,Paracetamol,6,11.4,1,2
+2025-12-22,Amoxicillin,0,-0.5,1,14
+2025-12-22,Bandages,0,-0.5,1,4
+2025-12-22,Cough Syrup,0,-0.5,1,25
+2025-12-22,Flu Vaccines,0,-0.5,1,25
+2025-12-22,Paracetamol,0,-0.5,1,27
+2025-12-23,Amoxicillin,1,12.4,1,5
+2025-12-23,Bandages,1,12.4,1,5
+2025-12-23,Cough Syrup,1,12.4,1,17
+2025-12-23,Flu Vaccines,1,12.4,1,31
+2025-12-23,Paracetamol,1,12.4,1,9
+2025-12-24,Amoxicillin,2,8.7,1,7
+2025-12-24,Bandages,2,8.7,1,2
+2025-12-24,Cough Syrup,2,8.7,1,27
+2025-12-24,Flu Vaccines,2,8.7,1,35
+2025-12-24,Paracetamol,2,8.7,1,22
+2025-12-25,Amoxicillin,3,13.3,1,10
+2025-12-25,Bandages,3,13.3,1,7
+2025-12-25,Cough Syrup,3,13.3,1,24
+2025-12-25,Flu Vaccines,3,13.3,1,33
+2025-12-25,Paracetamol,3,13.3,1,33
+2025-12-26,Amoxicillin,4,9.2,1,14
+2025-12-26,Bandages,4,9.2,1,10
+2025-12-26,Cough Syrup,4,9.2,1,26
+2025-12-26,Flu Vaccines,4,9.2,1,26
+2025-12-26,Paracetamol,4,9.2,1,21
+2025-12-27,Amoxicillin,5,14.6,1,5
+2025-12-27,Bandages,5,14.6,1,4
+2025-12-27,Cough Syrup,5,14.6,1,10
+2025-12-27,Flu Vaccines,5,14.6,1,16
+2025-12-27,Paracetamol,5,14.6,1,23
+2025-12-28,Amoxicillin,6,7.7,1,2
+2025-12-28,Bandages,6,7.7,1,1
+2025-12-28,Cough Syrup,6,7.7,1,5
+2025-12-28,Flu Vaccines,6,7.7,1,4
+2025-12-28,Paracetamol,6,7.7,1,8
+2025-12-29,Amoxicillin,0,15.8,1,17
+2025-12-29,Bandages,0,15.8,1,15
+2025-12-29,Cough Syrup,0,15.8,1,13
+2025-12-29,Flu Vaccines,0,15.8,1,23
+2025-12-29,Paracetamol,0,15.8,1,8
+2025-12-30,Amoxicillin,1,12.7,1,15
+2025-12-30,Bandages,1,12.7,1,7
+2025-12-30,Cough Syrup,1,12.7,1,29
+2025-12-30,Flu Vaccines,1,12.7,1,36
+2025-12-30,Paracetamol,1,12.7,1,41
+2025-12-31,Amoxicillin,2,7.6,1,10
+2025-12-31,Bandages,2,7.6,1,7
+2025-12-31,Cough Syrup,2,7.6,1,19
+2025-12-31,Flu Vaccines,2,7.6,1,23
+2025-12-31,Paracetamol,2,7.6,1,23
